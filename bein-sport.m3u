@@ -324,3 +324,21 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2011.ts
 
 #EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-heddaf-tv-dz.png", ALHADEF
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/77.ts
+
+#EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ennahar_dz_tv.png", ENNAHAR TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/79.ts
+
+#EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv.png", ECHOUROUK
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/73.ts
+
+#EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png", Fadjer TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2332.ts
+
+#EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-hayat-tv-dz.png", Hayat TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/91.ts
+
+#EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_bilad_news_dz.png",  Bilad TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
+
+#EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-djazair-n1-dz.png", Djazaïr N1
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
