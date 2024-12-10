@@ -217,17 +217,17 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_arena_sport
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 ##https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2604/default.mpd
 
-#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="|FR.SPOR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BeinSports-1.jpg" group-title="FR SPORT",|FR.SPOR| BeIN Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="" group-title="France - فرنسا",|FR| BEIN SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="|FR.SPOR| BeIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png?uselang=fr" group-title="FR SPORT",|FR.SPOR| BeIN Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="" group-title="France - فرنسا",|FR| BEIN SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml_4-5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"-udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof_0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi_k1JwslM9Vr0c_Q","k":"uIP7-bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
 ##https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
-#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="|FR.SPOR| BeIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?uselang=fr" group-title="FR SPORT",|FR.SPOR| BeIN Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="" group-title="France - فرنسا",|FR| BEIN SPORTS 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4531b93e48ab9ea0297a176c515cff14":"473c228f1a579fce6e710e24b22e461f","37a2874e91eedcba955ceeade5594ea6":"2a7feeb0f4717bdd812faa9daa88012d","92ba92959988b3dcc683c86ce540e3a2":"a4ba879567146a794ce2a28b902170a8","b0da602b7d8e4de69a7bc3b24b3d70bc":"b704f74b03b0be6a916b670a5da5eef9","aace08f82b2886e277e12b3565c7c745":"e4ac15509527d5f3b11b17d03354ffb0"}
 ##https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
