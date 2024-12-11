@@ -441,27 +441,29 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #EXTINF:-1 group-title="TNT 🇫🇷" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", L'EQUIPE 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FOOT HEVC"" tvg-logo="" group-title="FR SPORT",FR| CANAL+ FOOT HEVC"
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT HEVC"" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023", CANAL+ FOOT 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/4835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 1 HD" tvg-logo="" group-title="FR SPORT",|FR| CANAL+ LIVE 1 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT 360"" tvg-logo="https://tv-sports.fr/photos/chaines/svg/179.svg", CANAL+ FOOT 360 🇫🇷
+https://stream1.freetv.fun/canal-plus-foot360web-1.ctv
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 1 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/182.svg", CANAL+ LIVE 1 HD
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 2 HD" tvg-logo="" group-title="FR SPORT",|FR| CANAL+ LIVE 2 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 2 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/183.svg", CANAL+ LIVE 2 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Live 3 HD" tvg-logo="" group-title="FR SPORT",FR: Canal + Live 3 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal + Live 3 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/184.svg", Canal + Live 3 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 4 HD" tvg-logo="" group-title="FR SPORT",FR: Canal+ Live 4 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 4 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/185.svg", Canal+ Live 4 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 5 HD" tvg-logo="" group-title="FR SPORT",FR: Canal+ Live 5 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 5 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/186.svg", Canal+ Live 5 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 6 HD" tvg-logo="" group-title="FR SPORT",FR: Canal+ Live 6 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 6 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/187.svg", Canal+ Live 6 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR : CANAL+ LIVE 7" tvg-logo="" group-title="FR SPORT",FR : CANAL+ LIVE 7
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 7" tvg-logo="https://tv-sports.fr/photos/chaines/svg/188.svg", CANAL+ LIVE 7 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR : CANAL+ LIVE 8" tvg-logo="" group-title="FR SPORT",FR : CANAL+ LIVE 8
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 8" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", CANAL+ LIVE 8 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR : CANAL+ LIVE 9" tvg-logo="" group-title="FR SPORT",FR : CANAL+ LIVE 9
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 9" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", CANAL+ LIVE 9 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR : CANAL+ LIVE 10" tvg-logo="" group-title="FR SPORT",FR : CANAL+ LIVE 10
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 10" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", CANAL+ LIVE 10 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13069.m3u8
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL  Series" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40076/canal-ouah/CHN43FN/CHN43FN_491_29082023", CANAL  Series
