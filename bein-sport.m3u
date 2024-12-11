@@ -398,17 +398,16 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
 
 #EXTINF:-1 group-title="BEIN SPORTS 🇫🇷" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png", BEIN SPORTS 2 🇫🇷
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd',{'4acb9d8f845a315a259a12867b6792e4':'9c981a9a5ff8fb98149d6021b9623ab3',
-'2ebb0d359b2387256cd20c547af32af7':'fae75139b34c7c9b8f9cd4071d80c19e',
-'6dfa1fff44813922069a78b0943ecb69':'08a7fc7b4778960b33c80e26d3413d9b',
-'be6d1e8198bf935270b2533d56bd1cfd':'b883fbf9b652b98c530c64bc9a87c152','63c0449f720da4b7d5179f437076eadf':'e6114e36b1d1a390031e582d0b3f3a37'}
+group-title="CHANNEL | BEIN SPORTS 🇫🇷" , BEIN SPORTS 2 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml_4-5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"-udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof_0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi_k1JwslM9Vr0c_Q","k":"uIP7-bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
+##https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
 #EXTINF:-1 group-title="BEIN SPORTS 🇫🇷" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", BEIN SPORTS 3 🇫🇷
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd',{'4531b93e48ab9ea0297a176c515cff14':'473c228f1a579fce6e710e24b22e461f',
-'37a2874e91eedcba955ceeade5594ea6':'2a7feeb0f4717bdd812faa9daa88012d',
-'92ba92959988b3dcc683c86ce540e3a2':'a4ba879567146a794ce2a28b902170a8',
-'b0da602b7d8e4de69a7bc3b24b3d70bc':'b704f74b03b0be6a916b670a5da5eef9','aace08f82b2886e277e12b3565c7c745':'e4ac15509527d5f3b11b17d03354ffb0'}
-
+group-title="CHANNEL | BEIN SPORTS 🇫🇷" , BEIN SPORTS 3 🇫🇷 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4531b93e48ab9ea0297a176c515cff14":"473c228f1a579fce6e710e24b22e461f","37a2874e91eedcba955ceeade5594ea6":"2a7feeb0f4717bdd812faa9daa88012d","92ba92959988b3dcc683c86ce540e3a2":"a4ba879567146a794ce2a28b902170a8","b0da602b7d8e4de69a7bc3b24b3d70bc":"b704f74b03b0be6a916b670a5da5eef9","aace08f82b2886e277e12b3565c7c745":"e4ac15509527d5f3b11b17d03354ffb0"}
+##https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #EXTINF:-1 group-title="BEIN SPORTS 🇫🇷" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png", BEIN SPORTS 2 🇫🇷
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml_4-5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"-udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof_0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi_k1JwslM9Vr0c_Q","k":"uIP7-bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
