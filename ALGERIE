@@ -1,164 +1,80 @@
-#EXTINF:-1,1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-001/stream.mpd?p=web
+#EXTM3U
 
-#EXTINF:-1,2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-002/stream.mpd?p=web
-
-#EXTINF:-1,3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-003/stream.mpd?p=web
-
-#EXTINF:-1,4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-004/stream.mpd?p=web
-
-#EXTINF:-1,5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-005/stream.mpd?p=web
-
-#EXTINF:-1,6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-006/stream.mpd?p=web
-
-#EXTINF:-1,7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-007/stream.mpd?p=web
-
-#EXTINF:-1,8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-008/stream.mpd?p=web
-
-#EXTINF:-1,9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-009/stream.mpd?p=web
-
-#EXTINF:-1,10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-010/stream.mpd?p=web
-
-#EXTINF:-1,11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-011/stream.mpd?p=web
-
-#EXTINF:-1,12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-012/stream.mpd?p=web
-
-#EXTINF:-1,13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-013/stream.mpd?p=web
-
-#EXTINF:-1,14
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-014/stream.mpd?p=web
-
-#EXTINF:-1,15
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-015/stream.mpd?p=web
-
-#EXTINF:-1,16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd?p=web
-
-#EXTINF:-1,17
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
-
-#EXTINF:-1,18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
-
-#EXTINF:-1,19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-019/stream.mpd?p=web
-
-#EXTINF:-1,20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-020/stream.mpd?p=web
-
-#EXTINF:-1,21
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-021/stream.mpd?p=web
-
-#EXTINF:-1,22
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd?p=web
-
-#EXTINF:-1,23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-023/stream.mpd?p=web
-
-#EXTINF:-1,24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-024/stream.mpd?p=web
-
-#EXTINF:-1,25
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-025/stream.mpd?p=web
-
-#EXTINF:-1,26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-026/stream.mpd?p=web
-
-#EXTINF:-1,27
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-027/stream.mpd?p=web
-
-#EXTINF:-1,28
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-028/stream.mpd?p=web
-
-#EXTINF:-1,29
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-029/stream.mpd?p=web
-
-#EXTINF:-1,30
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-030/stream.mpd?p=web
-
-#EXTINF:-1,31
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd?p=web
-
-#EXTINF:-1,32
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd?p=web
-
-#EXTINF:-1,33
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd?p=web
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M+ Laliga TV
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M+ LaLiga TV
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 1080 MultiAudio
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga 1440p
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 720
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 2 1080
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 2 720
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 3 1080
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 4 1080
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 5 1080
+acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 6 1080
+acestream://c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 1080
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 2 1080
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 3 1080
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 4 1080
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 5 1080
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 6 1080
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 7 1080
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 1080 MultiAudio
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 2 1080
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 2 720
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 3 1080
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 3 SD
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 4 SD
+acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 5 SD
+acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 6 SD
+acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 7 SD
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 8 SD
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 9 SD
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 10 SD
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 11 SD
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 12 SD
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/cLsK1Tx/movistarplus.png" group-title="www.elcano.top", Movistar Plus+ HD
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 1080
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 720
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-id="M+ Ellas Vamos" tvg-logo="https://i.ibb.co/x802LNW/ellas.png" group-title="www.elcano.top", #Ellas 1080
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/QfX8Xx6/DAZN3.jpg" group-title="www.elcano.top", DAZN 3 1080
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/Qjk9GPx/DAZN4.jpg" group-title="www.elcano.top", DAZN 4 1080
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
