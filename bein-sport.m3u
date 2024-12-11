@@ -317,20 +317,40 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #EXTVLCOPT:http-drm-license=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS 🇬🇧" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png", TNT SPORTS 1 🇬🇧
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png", TNT SPORTS 1 🇬🇧
 http://gcf.nrslist.com/TVD001/index.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS 🇬🇧" tvg-logo="https://i.ibb.co/ftMYw1j/tntsp2.png", TNT SPORTS 2 🇬🇧
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/ftMYw1j/tntsp2.png", TNT SPORTS 2 🇬🇧
 http://gcf.nrslist.com/TVD002/index.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS 🇬🇧" tvg-logo="https://i.ibb.co/sQwLrNy/tntsp3.png", TNT SPORTS 3 🇬🇧
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/sQwLrNy/tntsp3.png", TNT SPORTS 3 🇬🇧
 http://gcf.nrslist.com/TVD003/index.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS 🇬🇧" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png", TNT SPORTS 4 🇬🇧
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png", TNT SPORTS 4 🇬🇧
 http://gcf.nrslist.com/TVD004/index.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS 🇬🇧" tvg-logo="https://i.ibb.co/z7Vg6tQ/tntsp5.png", TNT SPORTS 5 🇬🇧
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/z7Vg6tQ/tntsp5.png", TNT SPORTS 5 🇬🇧
 http://gcf.nrslist.com/TVD005/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", Sky LaLiga 🇬🇧
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
+http://gcf.nrslist.com/TVD017/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
+http://gcf.nrslist.com/TVD022/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", Sky Nature 🇬🇧
+http://gcf.nrslist.com/TVD019/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png", Sky Documentaries 🇬🇧
+http://gcf.nrslist.com/TVD027/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/z7Vg6tQ/tntsp5.png", SkySp Action 🇬🇧
+http://gcf.nrslist.com/TVD015/index.mpd
 
 #EXTINF:-1 group-title="algeria" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-algerie-2-sk.png", ENTV
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/82.ts
