@@ -441,21 +441,21 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #EXTINF:-1 group-title="TNT 🇫🇷" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", L'EQUIPE 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
 
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT HEVC"" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023", CANAL+ FOOT 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/4835.m3u8
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT " tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023", CANAL+ FOOT 🇫🇷
+#EXTVLCOPT:http-referrer=www.kool.to
 #EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT 360"" tvg-logo="https://tv-sports.fr/photos/chaines/svg/179.svg", CANAL+ FOOT 360 🇫🇷
 https://stream1.freetv.fun/canal-plus-foot360web-1.ctv
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 1 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/182.svg", CANAL+ LIVE 1 HD
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 1" tvg-logo="https://tv-sports.fr/photos/chaines/svg/182.svg", CANAL+ LIVE 1 HD
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12418.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 2 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/183.svg", CANAL+ LIVE 2 🇫🇷
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 2" tvg-logo="https://tv-sports.fr/photos/chaines/svg/183.svg", CANAL+ LIVE 2 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12419.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal + Live 3 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/184.svg", Canal + Live 3 🇫🇷
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal + Live 3" tvg-logo="https://tv-sports.fr/photos/chaines/svg/184.svg", Canal + Live 3 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12420.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 4 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/185.svg", Canal+ Live 4 🇫🇷
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 4" tvg-logo="https://tv-sports.fr/photos/chaines/svg/185.svg", Canal+ Live 4 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12421.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 5 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/186.svg", Canal+ Live 5 🇫🇷
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 5" tvg-logo="https://tv-sports.fr/photos/chaines/svg/186.svg", Canal+ Live 5 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12443.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 6 HD" tvg-logo="https://tv-sports.fr/photos/chaines/svg/187.svg", Canal+ Live 6 🇫🇷
+#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 6" tvg-logo="https://tv-sports.fr/photos/chaines/svg/187.svg", Canal+ Live 6 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12444.m3u8
 #EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 7" tvg-logo="https://tv-sports.fr/photos/chaines/svg/188.svg", CANAL+ LIVE 7 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13066.m3u8
@@ -467,21 +467,27 @@ http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13068.m3u8
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13069.m3u8
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL  Series" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40076/canal-ouah/CHN43FN/CHN43FN_491_29082023", CANAL  Series
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/227.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/EpDPmOZIut3pJQBwspzT9_IBOhDKhwU-oOty52kbZxPDHYTEb5xLiN3QyXoHfMwTuHWuhBxNI4Aoo4_nnbYVygpXSTbQyoZlCAnPlQ5v2DCJvqiNVeAkbf_c2SK7hj4HY-nhsAd5ytT6Q5kYGCqRlp6Q1374NufEjmn8yDysc5TJDctNh0Ojh8-QUsIY4HoO/hls/index.m3u8v
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL  Grand Ecran" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", CANAL  Grand Ecran
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/224.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: C8" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304419", C8 🇫🇷
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023", CANAL+ 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/217.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/-4DskNmQNcq6LLmGX5-HHE83cEXjN6aPB-4AGPRRGDvyEQit87_OX2DASCFoBm7gqe5pXEvxTtIk_1ZPTiMNzlKVHrAf0qLx8yeAayiPaI5UoyFRI0yV5bYsJbgOY5C5I1Qh0Cn0SZwLBfZBhbcGjyC9bCqPxHSCcMDAdXr-tLwi5W84vyDnshEnpDG_AAPD/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL+ BOX OFFICE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40219/canal-ouah/CHN43FN/CHN43FN_id_date-1-1", CANAL+ BOX OFFICE 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/223.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/abtKxQcHA4wZb8icViaZpdOflh2HOItopMmUKTjpK189khe6AMwKENrpuFRlYlK0CdJ7QhekeJy3DSfDoWT9LeEY9hfFDIuihrKnLF0ZxjHZvMTlCeK-yMTa0pmUsKqe5kWc7mkZda1U7kmAErgXLTFe0FBplPck2f1-VYJOAWTgqhYHuajkGKYr492L3RHG/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL  Docs" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40182/canal-ouah/CHN43FN/CHN43FN_899_29082023", CANAL  Docs 🇫🇷
-http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255248
+#EXTVLCOPT:http-referrer=www.kool.to
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/HvW1zcbGGBqkd8ZaYCafvjNa8xMmzsQdlBx_i9sjY60LZMlrRtVt-cW89fgDAo981Eera7RtK0F45cRp0XB-dNg3AEbU7iOPPx8xOZ320bUOW5upKQxkNCEreH-gwFWokv9z4_WaJVdYioAwVFDAl9LVmGJd-SvKL-oGRUVXjEdgnVTo5Au2xCJ0V3AAF8SO/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL  Cinema" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40011/canal-ouah/CHN43FN/CHN43FN_198_29082023", CANAL  Cinema 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/219.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/iC4WPkzVgMyldKv1RpGdn-ukmVjO6JNpTAwEB4IJk9Fti5RK_3Ir89UUoYERQHoxySQ4NAupR3sEtsRBwzBlARFa16LjGwXXBu256SQ02LZU2X1rhQGQVoR-xQg2ilXojlY0Z9TxNQtYo8ShDrA1kBmBB3lFO09HUDXt0yeDv7Ooi6RBbloEwEavgJbhw4k2/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CINE  Premier" tvg-logo="https://www.programme-tv.com/imgs/site/chaines/239.png?v=20240916", CINE  Premier 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/254.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/zAjcOW27vu71ws50fmeSfjnvTIncaXEQyPRQLcvDv91WaRa0fGhf02MhnMO4eZ7Tl11UTtjPSAxgmrm2B6ew9f0KCHwfUoQenjDwiibaztf-d82hPR6UtZ9PV-VrEqQvLIqIX4rRdKrUAus7aQb5leuJ5jDFJvgk3CWri8WqPJhsc7qF2Q3VWJGu2A94RThX/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CINE  Frisson" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", CINE  Frisson 🇫🇷
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/249.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CINE  Famiz" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", CINE  Famiz 🇫🇷
@@ -491,23 +497,29 @@ http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/243.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CINE  Club" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", CINE  Club
 http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255270
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CINE  Classic" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", CINE  Classic
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/265.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/B90xyLIct0jQz-ndkG6AQcXxW5W66mFwIaodCz65JorJ8FF4xNf91q96383C9-dI9zbeZUS7rBqFC7P8cMXigmYakUeQXyYyvSbSBPmrhdeWJ35fpvSP-DTaH7Esh4j1XbKcE4_Kn7JpWWy3_y7TvNgrDo2UvAmoMhwSyP7g3kqyxvPK7jGbHbVI31jcLql-/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50121/canal-ouah/CHN43FN/CHERIE25_640x480-lZ_O", Cherie 25
 http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255267
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: FRANCE 5" tvg-logo="https://www.programme-tv.com/imgs/site/chaines/69.png", FRANCE 5
-http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255306
+#EXTVLCOPT:http-referrer=www.kool.to
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/RYIFSrMxdAR95UPgsjy8VtzVIypc1oId_XZxTZu9lAP8JjvbaxlPpgGKnPdW2WcdwRWMFRJ4nlp39PHC2yF0T0t-HZRaCLv9ycv-iHrx-n_wj1xu0ytpfMYjcvJTne6rXUpLSokGG5qEh3oMHFbIsZUF_PfdvZSj7dpT05TdnzL58aNhwifqq5XfUGACmbsM/hls/index.m3u8v
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: FRANCE 4" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", FRANCE 4
-http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255305
+#EXTVLCOPT:http-referrer=www.kool.to
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/eiuUE9JaQeNKXD7MH2jfNJRPuzwWGS30b2_fhAzMtulAbrl0RpnlClT8cstL232RNjKFVz5DkSGFPR8gsb47kA0MhGpdOx83T7LncFGjNKTGtOEyf8AmPMdGqOs_BQhwoYs20epG7Ir4VEPFX3blVQKZu-R8O1SAKvi8FmEyFnhaqZ1xASUqC3-vs7GqBZX4/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: FRANCE 3" tvg-logo="https://www.programme-tv.com/imgs/site/chaines/3.png", FRANCE 3
-http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255304
+#EXTVLCOPT:http-referrer=www.kool.to
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/0JFBPKXUgnjXjBGl3ZY2VGGLKs5UC42arqtsxDUtdC-82pu0JlUMYriO6N8wC4VwAbOnk2kmUrB5Nr95Pok_ZS398KSmZMeptKCAmXzK14S_NOy1tcB_3O3Y451gt9nsGgtNE22SCpt3WW4uIDxWBfsMVZyxgoowy5WvTjveDY2Je6o2v80Nnrq1wV3XBlJP/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: FRANCE 2" tvg-logo="https://www.programme-tv.com/imgs/site/chaines/2.png", FRANCE 2
-http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255303
+#EXTVLCOPT:http-referrer=www.kool.to
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/DrPpbYTL3uY3Ek_uPJq9SeNA-GrDeiPYTAR_IEkqA3AYti2O7Hm7pVkr7W-2Ged6tT_hy1Rl8bMEHDo9pb-VtD1QDgPvzP3jmcqEmTX-_mZ5LUBK5gVCrndw4wfkZaz5T8VzK_gYJigC-iB4HJ7fp2WSgpGhBxOp_EIHS4T1NR_HuHWbPqI3epAyX9IKtcNH/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: M6" tvg-logo="https://www.programme-tv.com/imgs/site/chaines/13.png", M6
 http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255339
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Paris Premiere" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", Paris Premiere
 http://modserver.cz:80/NuriGenc/4RsS3BAGEb/255382
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Paramount Channel Decale" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", Paramount Channel Decale
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/258.m3u8
+#EXTVLCOPT:http-referrer=www.kool.to
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/AqMF19W8RiV7yM_fcCOXfXYpNyOIi6FPHn4kJOzxCCx5li9Y5l9QL93yDMLzbjNAeM5DgwO6jQOTyLMQ36qOoYML-Sz3bOd77JIRLcsiDmSqRNSefg4a1NlvI1csLO2YMwjapteH2bIg98AeFp93RXzPaVOrCwWwe-qnl_nzXisrWXv9uCgxmcEICWocxWbz/hls/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png", Paramount Channel
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/258.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: TMC" tvg-logo="https://i5.satexpat.com/cha/fr/tmc-95x34.gif", TMC 🇫🇷
