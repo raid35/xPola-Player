@@ -1,27 +1,27 @@
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BEIN SPORTS 1 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BEIN SPORTS 1 FHD
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png", BEIN SPORTS 2 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png", BEIN SPORTS 2 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659428.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png", BEIN SPORTS 3 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png", BEIN SPORTS 3 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659429.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png", BEIN SPORTS 4 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png", BEIN SPORTS 4 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659430.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png", BEIN SPORTS 5 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png", BEIN SPORTS 5 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659431.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png", BEIN SPORTS 6 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png", BEIN SPORTS 6 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659432.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png", BEIN SPORTS 7 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png", BEIN SPORTS 7 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659433.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png", BEIN SPORTS 8 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png", BEIN SPORTS 8 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659434.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png", BEIN SPORTS 9 FHD
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png", BEIN SPORTS 9 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659435.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.png?type=color_onBlack", beIN Sports Extra ES
@@ -368,14 +368,14 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
 
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1
-http://user.scalecdn.co:8080/live/19995634/79960700/607903.m3u8
+http://51.178.65.238/BeinSport/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2
 http://modserver.cz/live/NuriGenc/4RsS3BAGEb/255121.ts
 
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 3" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3
-http://user.scalecdn.co:8080/live/19995634/79960700/607902.m3u8
+http://user.scalecdn.co:8080/live/19995634/79960700/607904.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 4" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,7 +383,9 @@ http://user.scalecdn.co:8080/live/19995634/79960700/607902.m3u8
 https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 #EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 5" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 5
-http://user.scalecdn.co:8080/live/19995634/79960700/607904.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
 #EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 6" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -415,27 +417,27 @@ http://mnbgy.com/live/RuzhdiHaziri/jYZUc23pWzZCAk3gz2YQ/113453.ts
 #EXTINF:-1 tvg-id="canalplussport360.🇫🇷" tvg-name="كنال بليس سبور SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT 🇫🇷",CANAL+ SPORT360
 http://mnbgy.com/live/RuzhdiHaziri/jYZUc23pWzZCAk3gz2YQ/113452.ts
 #EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="كنال بليس سبور LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
-http://atlaspro.to:80/954462366217196/1593574628/51320
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/413919.ts
 #EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="كنال بليس سبور LIVE 2 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 
-http://atlaspro.to:80/954462366217196/1593574628/51321
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414406.ts
 #EXTINF:-1 tvg-id="CanalPlusLive3.🇫🇷" tvg-name="كنال بليس سبور LIVE 3 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 3 
-http://atlaspro.to:80/954462366217196/1593574628/51322
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414364.ts
 #EXTINF:-1 tvg-id="CanalPlusLive4.🇫🇷" tvg-name="كنال بليس سبور LIVE 4" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 4
-http://atlaspro.to:80/954462366217196/1593574628/51323
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414382.ts
 #EXTINF:-1 tvg-id="CanalPlusLive5.🇫🇷" tvg-name="كنال بليس سبور LIVE 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 5 
-http://atlaspro.to:80/954462366217196/1593574628/51370
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414383.ts
 #EXTINF:-1 tvg-id="CanalPlusLive6.🇫🇷" tvg-name="كنال بليس سبور LIVE 6" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 6
-http://atlaspro.to:80/954462366217196/1593574628/51371
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414384.ts
 #EXTINF:-1 tvg-id="CanalPlusLive7.🇫🇷" tvg-name="كنال بليس سبور LIVE 7" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 7
-http://atlaspro.to:80/954462366217196/1593574628/38555
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414385.ts
 #EXTINF:-1 tvg-id="CanalPlusLive8.🇫🇷" tvg-name="كنال بليس سبور LIVE 8" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 8
-http://atlaspro.to:80/954462366217196/1593574628/64624
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414386.ts
 #EXTINF:-1 tvg-id="CanalPlusLive9.🇫🇷" tvg-name="كنال بليس سبور LIVE 9" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 9
-http://atlaspro.to:80/954462366217196/1593574628/71907
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414387.ts
 #EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="كنال بليس سبور LIVE 10" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10
-http://atlaspro.to:80/954462366217196/1593574628/109724
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414388.ts
 #EXTINF:-1 tvg-id="lequipe21.🇫🇷" tvg-name="L'EQUIPE FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT 🇫🇷",L'EQUIPE FHD
-http://atlaspro.to:80/954462366217196/1593574628/143
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/298401.ts
 
 #EXTINF:-1 group-title="tod-tv" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png", tod 1
 https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltYkdGNExXMWxaR2xoTG1OdmJTOTJhV1JsYnkxemFHRnJZUzltYkdGNExYQnNZWGxsY2k1d2FIQS9hV1E5WVVoU01HTklUVFpNZVRsellWaGFiRXhYVVhSTlJFVjBaRWM1YTJSSVdYUmFSMFYxV1ZkMGFHSlhSbkJsYlZaclRHMDFiR1JET1RKWldFcHdXVmMxTUV3eldYaFpiWGhvV1RKMGRtUllVWFpqTTBKMlRGZG9hMHhVUVRSTVYxRjJVa1ZHVkZOR09VVlJWazVKVERCNGNHUnRWWFpaTW1ob1ltMDFiR0pEYUhwalJ6aDBZVWRSZEUxRVozQk1NakZvWW0xc2JWcFlUakJNYlRGM1drUTVNbGt5V25CaVNGSnNZMm94YkU5RVZUVlpiVTVwV21rd01WbHRUbWhNVkZFMVdrZEZkRmxYU1RSWmVUQXdXa2RWTlZwVWFHeFBSMUpvV21wQmJXRkhVblZrU0UwNVl6TlJPVTFVWTNwTmVtY3lUbFJKZUU1dU5XeGxTRUU1VFZSamVrMTZaek5QVkZsNFRtNDFhRmt5ZHpsTU0xcG9ZMjFzYUdKdVVYWmtha1pwWWtkR2FtRXlPVEZrUXpsNlkwYzRkR0ZIVVhSTlJHZDBXa000Y1dadGJHdFFWR2N6V2tSS2FrMVhSbTFNVkVKcFQxUm5kRTVIVlhwTmFUQTFXbGRPYTB4VVdYcGFSMUpyVGxSYWExbFVUWGhPV0RWcldWaFNhRkJVYXpCUFYwVjVUV3BzYkV4VVJtaE5la1YwVGtSU2FFMTVNRFZhYWtGM1RGZFZlRTVVVm1wYVIxVTBXVEpSZVUxSU5XOWlWMFpxVUZkUk0wNVhUVFZQUkdob1QxUlNhRmxVVm1sT1YwVjRXbFJCZVZsdFVYcFpNa3BzVFVkWk1scHFVVFJQUkVGNldtcFNhVTVFV210TlZHY3hUMFJCTUU5WFRUVk9SRTB5V1RKR2JFNHlWbWhhYlVVelRYcFJiV0ZIVW1waU0wcHNVRlJKZFUxVVJYVk5NM2g1V2xkYWJHTnRWbmxRVjJnd1pFaENlazlwT0haa00yUXpURzVTZGxwRE5UQmthVGs0WkVkc01HSkhWVGxrU0ZJd1lqSTVkbHBIVW10bVIxSjVZbE14Y0dKdFduWlFWMDV6V2xkR2VXRXlWalZtUkVKb1RucHJlazVIVW10YVIwMTZUVlJOTWxsVVdUVk5ha2t4VDBSU2FVOVVXbXBOTWxwclRWZFZNVTlxV1ROT2JWVXlXa1JHYTFwRVFYZFpiVnBwV2xSSk1rNXFRWGROTWxadFdWZFpkMXBVVG1oWlZFRjVmRzVoYldVOWJHbDJaWHh3YkdGNVpYSXRkSGx3WlQxM1pXSndiR0Y1WlhJPQ==
@@ -445,23 +447,23 @@ https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltYkdGNExXMWxaR2xoTG1OdmJTOTJh
 #EXTVLCOPT:http-drm-license=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
 https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=e859bcbf-5bca-49da-ab8c-4de9e8e8daf0&hdnts=st=1733865216~exp=1733879616~acl=/variant/v1blackout/spo-hd-08-d/*~id=87d2c1af-0b98-4e32-9ecd-63ddd56da315~data=949a229e-1a31-44a3-9f00-e155cde8cd20~hmac=d75c988a94aa5b5a1e02bd3cbe0f6f48803f4b46d1858049c9436cae7eafa734&hdcore=2.11.3
 
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR | beIN SPORTS 1 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 1 [H265]
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/901.ts
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 2 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 2 [H265]
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/902.ts
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | beIN SPORTS 3 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 3 [H265]
+#EXTINF:-1 tvg-id="beinsports1.🇶🇦" tvg-name="AR | beIN SPORTS 1 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 1 H265🇶🇦
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/366632.ts
+#EXTINF:-1 tvg-id="beinsports2.🇶🇦" tvg-name="AR | beIN SPORTS 2 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 2 H265🇶🇦
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/366633.ts
+#EXTINF:-1 tvg-id="beinsports3.🇶🇦" tvg-name="AR | beIN SPORTS 3 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 3 H265🇶🇦
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/903.ts
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 4 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 4 [H265]
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/904.ts
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 5 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 5 [H265]
+#EXTINF:-1 tvg-id="beinsports4.🇶🇦" tvg-name="AR | beIN SPORTS 4 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 4 H265🇶🇦
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/902.ts
+#EXTINF:-1 tvg-id="beinsports2.🇶🇦" tvg-name="AR | beIN SPORTS 5 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 5 H265🇶🇦
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/905.ts
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR | beIN SPORTS 6 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 6 [H265]
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/906.ts
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 7 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SbeIN SPORTS H265",AR | beIN SPORTS 7 [H265]
+#EXTINF:-1 tvg-id="beinsports6.🇶🇦" tvg-name="AR | beIN SPORTS 6 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 6 H265🇶🇦
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/904.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR | beIN SPORTS 7 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SbeIN SPORTS H265",AR | beIN SPORTS 7 H265🇶🇦
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/907.ts
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR | beIN SPORTS 8 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 8 [H265]
-http://atlaspro.to:80/954462366217196/1593574628/35883
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR |  beIN SPORTS 9 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR |  beIN SPORTS 9 [H265]
+#EXTINF:-1 tvg-id="beinsports8.🇶🇦" tvg-name="AR | beIN SPORTS 8 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 8 H265🇶🇦
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/906.ts
+#EXTINF:-1 tvg-id="beinsports9.🇶🇦" tvg-name="AR |  beIN SPORTS 9 H265" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR |  beIN SPORTS 9 H265🇶🇦
 http://atlaspro.to:80/954462366217196/1593574628/35884
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="ترفيه - beIN",beIN Movies 1 K4
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1342.ts
