@@ -438,34 +438,54 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 #EXTVLCOPT:http-drm-license={"4531b93e48ab9ea0297a176c515cff14":"473c228f1a579fce6e710e24b22e461f","37a2874e91eedcba955ceeade5594ea6":"2a7feeb0f4717bdd812faa9daa88012d","92ba92959988b3dcc683c86ce540e3a2":"a4ba879567146a794ce2a28b902170a8","b0da602b7d8e4de69a7bc3b24b3d70bc":"b704f74b03b0be6a916b670a5da5eef9","aace08f82b2886e277e12b3565c7c745":"e4ac15509527d5f3b11b17d03354ffb0"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-#EXTINF:-1 group-title="TNT 🇫🇷" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", L'EQUIPE 🇫🇷
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
-
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT " tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023", CANAL+ FOOT 🇫🇷
+#EXTINF:-1 tvg-id="canalplusfoot.🇫🇷" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT 🇫🇷",CANAL+ FOOT FHD
 #EXTVLCOPT:http-referrer=www.kool.to
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ FOOT 360"" tvg-logo="https://tv-sports.fr/photos/chaines/svg/179.svg", CANAL+ FOOT 360 🇫🇷
-https://stream1.freetv.fun/canal-plus-foot360web-1.ctv
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 1" tvg-logo="https://tv-sports.fr/photos/chaines/svg/182.svg", CANAL+ LIVE 1 HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12418.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 2" tvg-logo="https://tv-sports.fr/photos/chaines/svg/183.svg", CANAL+ LIVE 2 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12419.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal + Live 3" tvg-logo="https://tv-sports.fr/photos/chaines/svg/184.svg", Canal + Live 3 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12420.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 4" tvg-logo="https://tv-sports.fr/photos/chaines/svg/185.svg", Canal+ Live 4 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12421.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 5" tvg-logo="https://tv-sports.fr/photos/chaines/svg/186.svg", Canal+ Live 5 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12443.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" Canal+ Live 6" tvg-logo="https://tv-sports.fr/photos/chaines/svg/187.svg", Canal+ Live 6 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/12444.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 7" tvg-logo="https://tv-sports.fr/photos/chaines/svg/188.svg", CANAL+ LIVE 7 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13066.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 8" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", CANAL+ LIVE 8 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13067.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 9" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", CANAL+ LIVE 9 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13068.m3u8
-#EXTINF:-1 group-title="CANAL+ SPORT 🇫🇷" CANAL+ LIVE 10" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png", CANAL+ LIVE 10 🇫🇷
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/13069.m3u8
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/f-ts_Zb12sOExfkugAM0yvE2JpSUrbwlIxbGSfZJ9Kb0NjFi9UkbjjuezEKxN_D3nivf0Kr2eKYhUL2MoHQPdOvp5w-9XrYBYqO5NgCmkgJbBk58gZGRY3Cz-9TLFqc5h55Q6zDV5MvByMZcbYzesHqWbkADfhqe-_L6dXULfXiiYZSFGO2V66Wy3BBc-9zr/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="canalplussport360.🇫🇷" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT 🇫🇷",CANAL+ SPORT360 FHD
+https://stream1.🇫🇷eetv.fun/canal-plus-foot360web-1.ctv
+#EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="CANAL+ LIVE 1 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 HD
+http://atlaspro.to:80/954462366217196/1593574628/134164
+#EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="CANAL+ LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
+http://atlaspro.to:80/954462366217196/1593574628/51320
+#EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="CANAL+ LIVE 2 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 HD
+http://atlaspro.to:80/954462366217196/1593574628/134166
+#EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="CANAL+ LIVE 2 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 
+http://atlaspro.to:80/954462366217196/1593574628/51321
+#EXTINF:-1 tvg-id="CanalPlusLive3.🇫🇷" tvg-name="CANAL+ LIVE 3 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 3 HD
+http://atlaspro.to:80/954462366217196/1593574628/134167
+#EXTINF:-1 tvg-id="CanalPlusLive3.🇫🇷" tvg-name="CANAL+ LIVE 3 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 3 
+http://atlaspro.to:80/954462366217196/1593574628/51322
+#EXTINF:-1 tvg-id="CanalPlusLive4.🇫🇷" tvg-name="CANAL+ LIVE 4 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 4 HD
+http://atlaspro.to:80/954462366217196/1593574628/134168
+#EXTINF:-1 tvg-id="CanalPlusLive4.🇫🇷" tvg-name="CANAL+ LIVE 4" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 4
+http://atlaspro.to:80/954462366217196/1593574628/51323
+#EXTINF:-1 tvg-id="CanalPlusLive5.🇫🇷" tvg-name="CANAL+ LIVE 5 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 5 HD
+http://atlaspro.to:80/954462366217196/1593574628/134169
+#EXTINF:-1 tvg-id="CanalPlusLive5.🇫🇷" tvg-name="CANAL+ LIVE 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 5 
+http://atlaspro.to:80/954462366217196/1593574628/51370
+#EXTINF:-1 tvg-id="CanalPlusLive6.🇫🇷" tvg-name="CANAL+ LIVE 6 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 6 HD
+http://atlaspro.to:80/954462366217196/1593574628/134170
+#EXTINF:-1 tvg-id="CanalPlusLive6.🇫🇷" tvg-name="CANAL+ LIVE 6" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 6
+http://atlaspro.to:80/954462366217196/1593574628/51371
+#EXTINF:-1 tvg-id="CanalPlusLive7.🇫🇷" tvg-name="CANAL+ LIVE 7 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 7 HD
+http://atlaspro.to:80/954462366217196/1593574628/134171
+#EXTINF:-1 tvg-id="CanalPlusLive7.🇫🇷" tvg-name="CANAL+ LIVE 7" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 7
+http://atlaspro.to:80/954462366217196/1593574628/38555
+#EXTINF:-1 tvg-id="CanalPlusLive8.🇫🇷" tvg-name="CANAL+ LIVE 8 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 8 HD
+http://atlaspro.to:80/954462366217196/1593574628/134172
+#EXTINF:-1 tvg-id="CanalPlusLive8.🇫🇷" tvg-name="CANAL+ LIVE 8" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 8
+http://atlaspro.to:80/954462366217196/1593574628/64624
+#EXTINF:-1 tvg-id="CanalPlusLive9.🇫🇷" tvg-name="CANAL+ LIVE 9 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 9 HD
+http://atlaspro.to:80/954462366217196/1593574628/134173
+#EXTINF:-1 tvg-id="CanalPlusLive9.🇫🇷" tvg-name="CANAL+ LIVE 9" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 9
+http://atlaspro.to:80/954462366217196/1593574628/71907
+#EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="CANAL+ LIVE 10 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10 HD
+http://atlaspro.to:80/954462366217196/1593574628/134174
+#EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="CANAL+ LIVE 10" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10
+http://atlaspro.to:80/954462366217196/1593574628/109724
+#EXTINF:-1 tvg-id="lequipe21.🇫🇷" tvg-name="L'EQUIPE FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT 🇫🇷",L'EQUIPE FHD
+http://atlaspro.to:80/954462366217196/1593574628/143
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: CANAL  Series" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40076/canal-ouah/CHN43FN/CHN43FN_491_29082023", CANAL  Series
 #EXTVLCOPT:http-referrer=www.kool.to
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/EpDPmOZIut3pJQBwspzT9_IBOhDKhwU-oOty52kbZxPDHYTEb5xLiN3QyXoHfMwTuHWuhBxNI4Aoo4_nnbYVygpXSTbQyoZlCAnPlQ5v2DCJvqiNVeAkbf_c2SK7hj4HY-nhsAd5ytT6Q5kYGCqRlp6Q1374NufEjmn8yDysc5TJDctNh0Ojh8-QUsIY4HoO/hls/index.m3u8v
