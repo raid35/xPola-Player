@@ -530,3 +530,22 @@ https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltYkdGNExXMWxaR2xoTG1OdmJTOTJh
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
 https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=e859bcbf-5bca-49da-ab8c-4de9e8e8daf0&hdnts=st=1733865216~exp=1733879616~acl=/variant/v1blackout/spo-hd-08-d/*~id=87d2c1af-0b98-4e32-9ecd-63ddd56da315~data=949a229e-1a31-44a3-9f00-e155cde8cd20~hmac=d75c988a94aa5b5a1e02bd3cbe0f6f48803f4b46d1858049c9436cae7eafa734&hdcore=2.11.3
+#EXTINF:-1 group-title="BeIN HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS 1
+#EXTVLCOPT:http-referrer=www.kool.to
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/PONbimF7DwZycoXCHXuAGQkGOT77Nucy8bJlAR7Z5YQ7CHJc_8yUXRdiLGkVGYwcqezaLSwdZpFjgJcbggOIdbn6B0WEVoYpk38CqhtEKZNaVxfo1UgtC1LnY5PVMC-5U2mdY_dQcYU8X8KKqamQgCpihz6PDWG6NrcpvvP74UZOCitvAicbz9WmUWw4Y_wM/hls/index.m3u8
+
+#EXTINF:-1 group-title="BeIN HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png", beIN SPORTS 2
+#EXTVLCOPT:http-referrer=www.kool.to
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/mlhJOJT5oC7C2z3cBjCuesnKrAiuk8qNl_NZl-7OTRpSt4HLmJno7kwxpCsWcJ7tSD4KcGmDjMjK5u7MTEWZFRJ-GE_iN9KAHkC27VTFIZP3p2cWFEnJcP7I5CV3Em8nNm8XRySnG29IFfeJPClwwruQjsp-jHc3hHjsmCTufBT8BvtQ8AP0az1m1ILLKSWB/hls/index.m3u8
+
+#EXTINF:-1 group-title="BeIN HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", beIN SPORTS 3
+#EXTVLCOPT:http-referrer=www.kool.to
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/g1cMEsaawiJ56GPeBNYVaIVD_XKCTnhalkBY86k0KzzlmN_PDLR1GCaDgPp4GYtJYb0yfOPl8h9N-ogjLXAZ7eYjfv10tsmZLpTdkFbvVnBrdi5PrCDXm6oEte10nYxhRObv1gECnr72P_xXXCOG747pIt2sTv_MHl0wY3RB9B0GZeBrriHE47KIYPctzU5_/hls/index.m3u8
+
+#EXTINF:-1 group-title="BeIN HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS 4
+#EXTVLCOPT:http-referrer=www.kool.to
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/njpMUKXHoZA5kfcuc41QlQBxNNQFVs9ngCxb1zOHanHDNX6f-MFm8wJ5gnhAK1EqvjOVOYM-4W2KHggY9jLE8-d74L8LVuEtcB3xSXDwTcPkMOPimsD30QABElWTadRtS2wgvTJbfxGb89aRxVdn-to_fY6GNWfMbx1YHlS9o0QW-oKJcDZEd-BQD_kn0iMR/hls/index.m3u8
+
+#EXTINF:-1 group-title="BeIN HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", beIN SPORTS 5
+#EXTVLCOPT:http-referrer=www.kool.to
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/MWAjA9dOolpljubXXrmGyhmG-scWuD00fiahmcMyfu5AiXZf2-TYXw0czFSfGlKGFDP90sjUgbsVdmtPgsOuXd3BInQ6lnvlkGLYcBMqyzdkc0OU3NOkyDWBqrfNf_Nsjl9NMavQOlneIS396_6Ur1RWPNAwPQ_afVOtx9cs2bkmh6rv4sUQWH0MAvBiOFRk/hls/index.m3u8
