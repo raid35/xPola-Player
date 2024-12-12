@@ -367,12 +367,12 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
 #EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-djazair-n1-dz.png", Djazaïr N1
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
 
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 FHD
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 FHD
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS 2 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml_4-5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"-udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof_0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi_k1JwslM9Vr0c_Q","k":"uIP7-bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
 ##https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
@@ -540,23 +540,23 @@ https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltYkdGNExXMWxaR2xoTG1OdmJTOTJh
 #EXTVLCOPT:http-drm-license=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
 https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=e859bcbf-5bca-49da-ab8c-4de9e8e8daf0&hdnts=st=1733865216~exp=1733879616~acl=/variant/v1blackout/spo-hd-08-d/*~id=87d2c1af-0b98-4e32-9ecd-63ddd56da315~data=949a229e-1a31-44a3-9f00-e155cde8cd20~hmac=d75c988a94aa5b5a1e02bd3cbe0f6f48803f4b46d1858049c9436cae7eafa734&hdcore=2.11.3
 
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR | beIN SPORTS 1 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 1 [H265]
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR | beIN SPORTS 1 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 1 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/901.ts
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 2 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 2 [H265]
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 2 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 2 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/902.ts
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | beIN SPORTS 3 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 3 [H265]
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | beIN SPORTS 3 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 3 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/903.ts
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 4 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 4 [H265]
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 4 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 4 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/904.ts
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 5 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 5 [H265]
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 5 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 5 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/905.ts
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR | beIN SPORTS 6 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 6 [H265]
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR | beIN SPORTS 6 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 6 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/906.ts
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 7 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 7 [H265]
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 7 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SbeIN SPORTS H265",AR | beIN SPORTS 7 [H265]
 http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/907.ts
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR | beIN SPORTS 8 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR | beIN SPORTS 8 [H265]
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR | beIN SPORTS 8 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR | beIN SPORTS 8 [H265]
 http://atlaspro.to:80/954462366217196/1593574628/35883
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR |  beIN SPORTS 9 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="SPORT AR",AR |  beIN SPORTS 9 [H265]
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR |  beIN SPORTS 9 [H265]" tvg-logo="http://aptvpix.net/pubs/2022/beinh.png" group-title="beIN SPORTS H265",AR |  beIN SPORTS 9 [H265]
 http://atlaspro.to:80/954462366217196/1593574628/35884
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="ترفيه - beIN",beIN Movies 1 K4
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1342.ts
