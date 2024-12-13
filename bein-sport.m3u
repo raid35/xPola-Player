@@ -175,7 +175,7 @@ https://fastly-live.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
 #EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ CANAL+ DOCS 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941630.m3u8
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="┃FR┃ USHUAIA 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ USHUAIA 🇫🇷
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941670.m3u8
+http://diamont.live:8080/play/live.php?mac=00:1A:79:B8:94:F8&stream=66462&extension=ts&play_token=EUugfnYrzZ
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="┃FR┃ ANIMAUX 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ANIMAUX 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941673.m3u8
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="┃FR┃ CHASSE & PECHE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ CHASSE & PECHE 🇫🇷
