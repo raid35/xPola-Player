@@ -1,1 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports7.m3u8
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports8.m3u8
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports9.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
+https://sdmh1m.maxproking.com/7_.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
+https://sdmh1m.maxproking.com/8_.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
+https://sdmh1m.maxproking.com/9_.m3u8
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
+https://sdmh1m.maxproking.com/10_.m3u8
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
+https://sdmh1m.maxproking.com/11_.m3u8
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
+https://sdmh1m.maxproking.com/12_.m3u8
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD
+https://sdmh1m.maxproking.com/13_.m3u8
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD
+https://sdmh1m.maxproking.com/16_.m3u8
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD
+https://sdmh1m.maxproking.com/17_.m3u8
