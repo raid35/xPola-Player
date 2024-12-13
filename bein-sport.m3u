@@ -132,75 +132,75 @@ http://gcf.nrslist.com:80/TVN0021/index.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", ONC Movies
 http://gcf.nrslist.com:80/TVN0020/index.mpd
 
-#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ HG TV" tvg-logo="https://th.bing.com/th?id=ODLS.324409d9-16d9-44e0-a796-b4fba8c6ce44&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="FR-AR┃ DOCUMENTAIRES", HG TV
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ HG TV" tvg-logo="https://th.bing.com/th?id=ODLS.324409d9-16d9-44e0-a796-b4fba8c6ce44&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ HG TV
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
 https://fastly-live.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
-#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY CHANNEL
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
 https://fastly-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
-#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY FAMILY " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY FAMILY 
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY FAMILY " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY FAMILY 
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://fastly-live.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DISCOVERY ID " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY ID 
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DISCOVERY ID " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY ID 
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
 https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd 
-#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ ANIMAL PALANT" tvg-logo="https://www.bing.com/th?id=OSK.e94474555722a2247e4bcfaa5480f95b&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ ANIMAL PALANT
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ ANIMAL PALANT" tvg-logo="https://www.bing.com/th?id=OSK.e94474555722a2247e4bcfaa5480f95b&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ANIMAL PALANT
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
 https://fastly-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd 
-#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ TRAVEL" tvg-logo="https://th.bing.com/th?id=ODLS.fb0e61c2-20c0-4efc-8b8d-b82623f35529&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ TRAVEL
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ TRAVEL" tvg-logo="https://th.bing.com/th?id=ODLS.fb0e61c2-20c0-4efc-8b8d-b82623f35529&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TRAVEL
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
 https://fastly-live.cdn.intigral-ott.net/TRA/TRA.isml/manifest.mpd 
-#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="┃FR┃ NATIONAL GEO" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ NATIONAL GEO
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="┃FR┃ NATIONAL GEO" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ NATIONAL GEO
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
 https://fastly-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
-#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ NAT GEO WILD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ NAT GEO WILD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ NAT GEO WILD FHD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
 https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd  
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ ALSHARQ DISCOVERY" tvg-logo="https://th.bing.com/th?id=ODLS.37dec3bd-3b2b-4504-bbdd-15aaa62f15c3&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ ALSHARQ DISCOVERY
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ ALSHARQ DISCOVERY" tvg-logo="https://th.bing.com/th?id=ODLS.37dec3bd-3b2b-4504-bbdd-15aaa62f15c3&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ALSHARQ DISCOVERY
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
 https://fastly-live.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
-#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ TLC" tvg-logo="https://th.bing.com/th?id=ODLS.759b9ff7-1f71-4bb2-8d68-ab826583a783&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ TLC
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ TLC" tvg-logo="https://th.bing.com/th?id=ODLS.759b9ff7-1f71-4bb2-8d68-ab826583a783&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TLC
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
 https://fastly-live.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd 
-#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ CANAL+ DOCS 🇫🇷
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ CANAL+ DOCS 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941630.m3u8
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="┃FR┃ USHUAIA 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ USHUAIA 🇫🇷
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="┃FR┃ USHUAIA 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ USHUAIA 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941670.m3u8
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="┃FR┃ ANIMAUX 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ ANIMAUX 🇫🇷
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="┃FR┃ ANIMAUX 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ANIMAUX 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941673.m3u8
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="┃FR┃ CHASSE & PECHE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ CHASSE & PECHE 🇫🇷
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="┃FR┃ CHASSE & PECHE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ CHASSE & PECHE 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941676.m3u8
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ HISTOIRE 🇫🇷
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ HISTOIRE 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941645.m3u8
-#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="┃FR┃ TOUTE L'HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ TOUTE L'HISTOIRE 🇫🇷
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="┃FR┃ TOUTE L'HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TOUTE L'HISTOIRE 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941647.m3u8
-#EXTINF:-1 tvg-id="trek.fr" tvg-name="┃FR┃ TREK 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ TREK 🇫🇷
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="┃FR┃ TREK 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TREK 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941658.m3u8
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="┃FR┃ PLANETE+ 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ 🇫🇷
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="┃FR┃ PLANETE+ 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ PLANETE+ 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ CRIME 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ CRIME 🇫🇷
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ CRIME 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ PLANETE+ CRIME 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ AVENTURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ AVENTURE 🇫🇷
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ AVENTURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ PLANETE+ AVENTURE 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941653.m3u8
-#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="┃FR┃ SCIENCE & VIE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ SCIENCE & VIE 🇫🇷
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="┃FR┃ SCIENCE & VIE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ SCIENCE & VIE 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941664.m3u8
-#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC DECOUVERTE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ RMC DECOUVERTE 🇫🇷
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC DECOUVERTE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ RMC DECOUVERTE 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941667.m3u8
-#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC WOW 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR┃ RMC WOW 🇫🇷
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC WOW 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ RMC WOW 🇫🇷
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 tvg-id="seasons.fr" tvg-name="┃FR┃ SEASONS 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ SEASONS 🇫🇷
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="┃FR┃ SEASONS 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ SEASONS 🇫🇷
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ MY ZEN NATURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR-AR┃ MY ZEN NATURE 🇫🇷
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ MY ZEN NATURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ MY ZEN NATURE 🇫🇷
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
@@ -456,14 +456,13 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
 
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1
-http://51.178.65.238/BeinSport/mono.m3u8
-
+http://diamont.live:8080/play/live.php?mac=00:1A:79:B8:94:F8&stream=65960&extension=ts&play_token=KUgIbH710k
 
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2
-http://modserver.cz/live/NuriGenc/4RsS3BAGEb/255121.ts
+http://diamont.live:8080/play/live.php?mac=00:1A:79:B8:94:F8&stream=65962&extension=ts&play_token=35oKvMUxFK
 
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 3" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3
-http://user.scalecdn.co:8080/live/19995634/79960700/607904.m3u8
+http://diamont.live:8080/play/live.php?mac=00:1A:79:B8:94:F8&stream=65963&extension=ts&play_token=415W9UTLVx
 
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 4" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -501,31 +500,31 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
 #EXTINF:-1 tvg-id="canalplusfoot.🇫🇷" tvg-name="كنال بليس سبور FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT 🇫🇷",CANAL+ FOOT
-http://mnbgy.com/live/RuzhdiHaziri/jYZUc23pWzZCAk3gz2YQ/113453.ts
+http://diamont.live:8080/play/live.php?mac=00:1A:79:B8:94:F8&stream=65934&extension=ts&play_token=t3lMxlbKx6
 #EXTINF:-1 tvg-id="canalplussport360.🇫🇷" tvg-name="كنال بليس سبور SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT 🇫🇷",CANAL+ SPORT360
 http://mnbgy.com/live/RuzhdiHaziri/jYZUc23pWzZCAk3gz2YQ/113452.ts
 #EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="كنال بليس سبور LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/413919.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941442.ts
 #EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="كنال بليس سبور LIVE 2 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414406.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941443.ts
 #EXTINF:-1 tvg-id="CanalPlusLive3.🇫🇷" tvg-name="كنال بليس سبور LIVE 3 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 3 
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414364.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941444.ts
 #EXTINF:-1 tvg-id="CanalPlusLive4.🇫🇷" tvg-name="كنال بليس سبور LIVE 4" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 4
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414382.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941445.ts
 #EXTINF:-1 tvg-id="CanalPlusLive5.🇫🇷" tvg-name="كنال بليس سبور LIVE 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 5 
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414383.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941446.ts
 #EXTINF:-1 tvg-id="CanalPlusLive6.🇫🇷" tvg-name="كنال بليس سبور LIVE 6" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 6
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414384.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941447.ts
 #EXTINF:-1 tvg-id="CanalPlusLive7.🇫🇷" tvg-name="كنال بليس سبور LIVE 7" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 7
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414385.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941448.ts
 #EXTINF:-1 tvg-id="CanalPlusLive8.🇫🇷" tvg-name="كنال بليس سبور LIVE 8" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 8
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414386.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941449.ts
 #EXTINF:-1 tvg-id="CanalPlusLive9.🇫🇷" tvg-name="كنال بليس سبور LIVE 9" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 9
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414387.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941450.ts
 #EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="كنال بليس سبور LIVE 10" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/414388.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941451.ts
 #EXTINF:-1 tvg-id="lequipe21.🇫🇷" tvg-name="L'EQUIPE FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT 🇫🇷",L'EQUIPE FHD
-http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/298401.ts
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941593.ts
 
 #EXTINF:-1 group-title="tod-tv" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png", tod 1
 https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltYkdGNExXMWxaR2xoTG1OdmJTOTJhV1JsYnkxemFHRnJZUzltYkdGNExYQnNZWGxsY2k1d2FIQS9hV1E5WVVoU01HTklUVFpNZVRsellWaGFiRXhYVVhSTlJFVjBaRWM1YTJSSVdYUmFSMFYxV1ZkMGFHSlhSbkJsYlZaclRHMDFiR1JET1RKWldFcHdXVmMxTUV3eldYaFpiWGhvV1RKMGRtUllVWFpqTTBKMlRGZG9hMHhVUVRSTVYxRjJVa1ZHVkZOR09VVlJWazVKVERCNGNHUnRWWFpaTW1ob1ltMDFiR0pEYUhwalJ6aDBZVWRSZEUxRVozQk1NakZvWW0xc2JWcFlUakJNYlRGM1drUTVNbGt5V25CaVNGSnNZMm94YkU5RVZUVlpiVTVwV21rd01WbHRUbWhNVkZFMVdrZEZkRmxYU1RSWmVUQXdXa2RWTlZwVWFHeFBSMUpvV21wQmJXRkhVblZrU0UwNVl6TlJPVTFVWTNwTmVtY3lUbFJKZUU1dU5XeGxTRUU1VFZSamVrMTZaek5QVkZsNFRtNDFhRmt5ZHpsTU0xcG9ZMjFzYUdKdVVYWmtha1pwWWtkR2FtRXlPVEZrUXpsNlkwYzRkR0ZIVVhSTlJHZDBXa000Y1dadGJHdFFWR2N6V2tSS2FrMVhSbTFNVkVKcFQxUm5kRTVIVlhwTmFUQTFXbGRPYTB4VVdYcGFSMUpyVGxSYWExbFVUWGhPV0RWcldWaFNhRkJVYXpCUFYwVjVUV3BzYkV4VVJtaE5la1YwVGtSU2FFMTVNRFZhYWtGM1RGZFZlRTVVVm1wYVIxVTBXVEpSZVUxSU5XOWlWMFpxVUZkUk0wNVhUVFZQUkdob1QxUlNhRmxVVm1sT1YwVjRXbFJCZVZsdFVYcFpNa3BzVFVkWk1scHFVVFJQUkVGNldtcFNhVTVFV210TlZHY3hUMFJCTUU5WFRUVk9SRTB5V1RKR2JFNHlWbWhhYlVVelRYcFJiV0ZIVW1waU0wcHNVRlJKZFUxVVJYVk5NM2g1V2xkYWJHTnRWbmxRVjJnd1pFaENlazlwT0haa00yUXpURzVTZGxwRE5UQmthVGs0WkVkc01HSkhWVGxrU0ZJd1lqSTVkbHBIVW10bVIxSjVZbE14Y0dKdFduWlFWMDV6V2xkR2VXRXlWalZtUkVKb1RucHJlazVIVW10YVIwMTZUVlJOTWxsVVdUVk5ha2t4VDBSU2FVOVVXbXBOTWxwclRWZFZNVTlxV1ROT2JWVXlXa1JHYTFwRVFYZFpiVnBwV2xSSk1rNXFRWGROTWxadFdWZFpkMXBVVG1oWlZFRjVmRzVoYldVOWJHbDJaWHh3YkdGNVpYSXRkSGx3WlQxM1pXSndiR0Y1WlhJPQ==
