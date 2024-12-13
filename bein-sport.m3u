@@ -132,6 +132,77 @@ http://gcf.nrslist.com:80/TVN0021/index.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", ONC Movies
 http://gcf.nrslist.com:80/TVN0020/index.mpd
 
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ HG TV" tvg-logo="https://th.bing.com/th?id=ODLS.324409d9-16d9-44e0-a796-b4fba8c6ce44&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",┃FR┃ HG TV
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://fastly-live.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY CHANNEL
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
+https://fastly-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY FAMILY " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY FAMILY 
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
+https://fastly-live.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DISCOVERY ID " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY ID 
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
+https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ ANIMAL PALANT" tvg-logo="https://www.bing.com/th?id=OSK.e94474555722a2247e4bcfaa5480f95b&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ ANIMAL PALANT
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastly-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ TRAVEL" tvg-logo="https://th.bing.com/th?id=ODLS.fb0e61c2-20c0-4efc-8b8d-b82623f35529&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ TRAVEL
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastly-live.cdn.intigral-ott.net/TRA/TRA.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="┃FR┃ NATIONAL GEO" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastly-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ NAT GEO WILD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD FHD
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd  
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ ALSHARQ DISCOVERY" tvg-logo="https://th.bing.com/th?id=ODLS.37dec3bd-3b2b-4504-bbdd-15aaa62f15c3&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ ALSHARQ DISCOVERY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
+https://fastly-live.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ TLC" tvg-logo="https://th.bing.com/th?id=ODLS.759b9ff7-1f71-4bb2-8d68-ab826583a783&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ TLC
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://fastly-live.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ CANAL+ DOCS 🇫🇷
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941630.m3u8
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="┃FR┃ USHUAIA 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ USHUAIA
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941670.m3u8
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="┃FR┃ ANIMAUX 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ ANIMAUX
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941673.m3u8
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="┃FR┃ CHASSE & PECHE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ CHASSE & PECHE
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941676.m3u8
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ HISTOIRE
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941645.m3u8
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="┃FR┃ TOUTE L'HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ TOUTE L'HISTOIRE
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941647.m3u8
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="┃FR┃ TREK 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ TREK
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941658.m3u8
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="┃FR┃ PLANETE+ 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ CRIME 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ CRIME
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ AVENTURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ AVENTURE
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941653.m3u8
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="┃FR┃ SCIENCE & VIE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ SCIENCE & VIE
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941664.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC DECOUVERTE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ RMC DECOUVERTE
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941667.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC WOW 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ RMC WOW
+https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="┃FR┃ SEASONS 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ SEASONS
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ MY ZEN NATURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="┃FR┃ DOCUMENTAIRES",┃FR┃ MY ZEN NATURE
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
 #EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
