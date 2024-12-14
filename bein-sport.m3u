@@ -609,6 +609,9 @@ http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/1
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BEIN SPORTS FHD
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein22.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 4K
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd", BEIN SPORTS HD
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein3.m3u8
