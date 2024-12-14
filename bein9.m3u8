@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+#EXTINF:-1 group-title="  بين  فرنسا" tvg-logo="https://th.bing.com/th?id=ODLS.df55e5b4-c513-4ec1-a5fd-efdbc19883af&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",  بين  فرنسا
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein7.m3u8
 
