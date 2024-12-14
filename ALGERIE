@@ -1,38 +1,26 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports7.m3u8
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports8.m3u8
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD
-https://live4.beinconnect.us/YallaGoalApp/beINSports9.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
-https://sdmh1m.maxproking.com/7_.m3u8
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
-https://sdmh1m.maxproking.com/8_.m3u8
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
-https://sdmh1m.maxproking.com/9_.m3u8
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
-https://sdmh1m.maxproking.com/10_.m3u8
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
-https://sdmh1m.maxproking.com/11_.m3u8
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
-https://sdmh1m.maxproking.com/12_.m3u8
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD
-https://sdmh1m.maxproking.com/13_.m3u8
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD
-https://sdmh1m.maxproking.com/16_.m3u8
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD
-https://sdmh1m.maxproking.com/17_.m3u8
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thalitha-tv-dz.png", ALGERIE3
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/81.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_4_tv_tamazight.png", ALGERIE4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/84.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_5_tv_coran.png", ALGERIE5
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/85.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-6-dz.png", shababia 6
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/986.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-7-dz.png", Algerie 7
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2010.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-8-dz.png", Algerie 8 Edhakira
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2011.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-heddaf-tv-dz.png", ALHADEF
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/77.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ennahar_dz_tv.png", ENNAHAR TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/79.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv.png", ECHOUROUK
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/73.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png", Fadjer TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2332.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-hayat-tv-dz.png", Hayat TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/91.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_bilad_news_dz.png",  Bilad TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-djazair-n1-dz.png", Djazaïr N1
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
