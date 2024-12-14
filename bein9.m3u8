@@ -1,9 +1,5 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://a19.carmeltv.live:25461/live/FLOWCAST/TELEGRAM@FLOWCASTTV/605.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://a19.carmeltv.live:25461/live/FLOWCAST/TELEGRAM@FLOWCASTTV/614.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://a19.carmeltv.live:25461/live/FLOWCAST/TELEGRAM@FLOWCASTTV/623.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://a19.carmeltv.live:25461/live/FLOWCAST/TELEGRAM@FLOWCASTTV/632.m3u8
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
+https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+
