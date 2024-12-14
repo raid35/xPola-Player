@@ -16,10 +16,15 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein4.m3u8
 #EXTINF:-1 group-title="SSC الرياضة" tvg-logo="https://footballarroyo.co.uk/wp-content/uploads/2023/01/The-frequency-of-the-SSC-Sports-5-HD-channel-broadcasting-the-Saudi-League-matches-on-Nilesat-1024x683.jpg", SSC الرياضة
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein6.m3u8
-#EXTINF:-1 group-title=" بين سبور فرنسا" tvg-logo="https://www.travelinsuranceexplained.co.uk/wp-content/uploads/2021/03/French-Flag-Depositphotos_2182127_xl-2015.jpg", بين سبور فرنسا
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein22.m3u8
+
+#EXTINF:-1 group-title="  فرنسا" tvg-logo="https://www.travelinsuranceexplained.co.uk/wp-content/uploads/2021/03/French-Flag-Depositphotos_2182127_xl-2015.jpg",  فرنسا
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
+#EXTINF:-1 group-title="بين  فرنسا" tvg-logo="https://th.bing.com/th?id=ODLS.df55e5b4-c513-4ec1-a5fd-efdbc19883af&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2", بين  فرنسا
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein7.m3u8
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein6.m3u8
+
 #EXTINF:-1 group-title=" ارينا سبور" tvg-logo="https://mikropragmata-assets.lifo.gr/wp-content/uploads/2020/10/6-3-1024x512.png", ارينا سبور
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein8.m3u8
