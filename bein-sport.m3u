@@ -2,17 +2,9 @@
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BEIN SPORTS FHD
+#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://th.bing.com/th?id=ODLS.6696d8c1-e2b9-4885-a335-e4a1c4954567&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",  بين  سبور
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein22.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 4K
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png", BEIN SPORTS HD
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein3.m3u8
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-ar
 
 #EXTINF:-1 group-title="ابوظبي الرياضية برميوم" tvg-logo="https://cdn.alweb.com/thumbs/uaeencyclopedia/article/fit710x532/%D9%85%D9%86-%D8%B5%D9%85%D9%85-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.jpg", ابوظبي الرياضية برميوم
 #EXTVLCOPT:http-player-type=m3u
