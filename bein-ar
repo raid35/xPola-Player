@@ -1,3 +1,11 @@
-#EXTINF:-1 group-title="  بين  فرنسا" tvg-logo="https://th.bing.com/th?id=ODLS.df55e5b4-c513-4ec1-a5fd-efdbc19883af&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",  بين  فرنسا
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BEIN SPORTS FHD
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein7.m3u8
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein22.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 4K
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png", BEIN SPORTS HD
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein3.m3u8
