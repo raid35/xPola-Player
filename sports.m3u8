@@ -48,3 +48,518 @@ http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/982.ts
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3996.ts
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein9.png", BEIN SPORTS 9 4K
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
+#EXTINF:-1 group-title="Starz-play" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAC0ARUDASIAAhEBAxEB/8QAGwABAQADAQEBAAAAAAAAAAAAAAEEBQYDBwL/xABHEAACAgIBAgQDAwcHCAsAAAAAAQIDBBEFEiEGEzFBMlGBBxRxFRYiYZGUoRcjMzZW0tNSVHR1k7G0wyU1QkZVcrLC0eHw/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAECAwQFBv/EAC4RAQACAgIBAgMFCQAAAAAAAAABAgMRBCEFEjEUIkETMmGBoRUjM1FSU3Gx0f/aAAwDAQACEQMRAD8A+YbGyA1UNghQhdjZCBL9bGz8lCF2NkAF2NkASuxs/JQLsbIALsbIALsbIQD9bGyAC7GyAC7GyAC7GyEA/WxstVVt1lVNNcrLrbIVVVwW5TnJ6UUjLnxXJVvKVlDi8bHhlWPbnF02NxjKE6k4vb7Luv4doGHsbMuPGcpJY7WJdq+/7tCUoShCN6slV5U5zSipbT9//g86sLPul0wxrd9KknNdEWnGE1qU9LupRa/U9geGxs2dfh/nra6rYYkOi2c66nLIxodc4SlBqKlNP1T/AGGJm4Gbx9yozK1Xa4KzpU4T7NuPdwbXsyRrbv6R/ggW743+CBnK7IABoohSACkKQAUgAoIUAAAIUhQAIAKCFAEAAoBAKCFAAAAQAD1ouuxrqMiibruosjbVOOtxnF7TW+xsoc/ybussvlTbVbCuq2l0UeX5cFKKjXGUHGPq99vc1AIG4nz/ACM59ajiRXmRmnHFojZ0xyPvXS5qOnuX6T7d2/oZNPN0TldC2Dxq7Jxn5tVGPdbCMIY9FdVUOiMIxUYNyaW36fjzxQOnXJ8dFJLP63CM/JlkcXj2KLnJze24t+re0o+nu/Q1HK5GNkXUOi6VtdePGpOWNXjOOpzlrprbT9V3fd7NfsAY13x/RAt3x/RApK0MgEBoqAACkAAAAAUhQAIUCFIUCAAAUgAAACkKQAUhQAIUCAAAAAAAAFIUDHu+P6IC74/ogZytDIABoqgAApCkAAAAUhQAAAhSFAgAAFIUCAACkKQAUhQAAAgAAAAAAABSFAx7vj+iAu+P6IGcrQyAwDRVCkAFIUgAp7YuLfm5WHh0KLuy768erreoqc3pOTXsvc6ZeBObfIvj1k4elh15iyGrehxsslTGHl6697T/AFa/YcmbmYOPPpy2iJ1v8oaUxXv92HJg9cii3FyMjGuSVuPdZRaovaU65OEtP6Hk9I6omJjcKTExOpAbzM8M8pg8Ph8zdZjujIWO3VBy8yqORHrqbbXS9r10+xo9GWLPjzRNsc7iJ1+abUtT70IU/VddltldVUJ2W2zVdUK05TnOT0oxS92e+VgclheV98w8rG83r8r7zVKvr6db6er5bWzSbVifTM9oiJmN6YwALIAeuPjZWXbGjFx7r75KUo1UQc5uMVttJeyPSzA5KnIqw7sPKry7ejysedUlfPr309MPXv7FJvWJ1MxtPpnW9MYGVfx3KYssevJwMym3Jl0Y9dtM42XS6lDVcWtt7aRlfm74rX/d/mv3DI/uk1tFo3Wdk1mJ1LVg2f5veK/7P81+4ZH90fm94r/s/wA3+4ZP90lDWaGjafm94r/s/wA1+4ZH90fm94r/ALP83+4ZP90bNNWD2ysTNwrfIzMXIxb+iM3VlVTqtUZejcJ99P2PEAOxASBSAgUEKSAIX3Axrvjf4IC743+CBnKzJABdVCgEgAANpwfD8hzWYqMOaq8hRvuyZ9XTjxUv0ZLp79Tfwpfw12+gw8JZKyFlz8Sc68yyuNM8mM4wnOv06U229fJbNb9nNuOqeZp/R89ZONkTi/ilR0dCf4J7X1/Wbfw9x/O4XIeIr+VtdyysjHnj3ecrFZGMrG2ob3HSaWtL+B8J5nyGeM2WtLxWKRGomI3bet+72eLhpNKzMb3+j59TxNWR4jfDPIuVb5HKxHe1GVzjV5j63vtt67nr4n4OjgMjDppyLchZGJLIlK6MIuMo2Sh0ro9ux0OJ4e5+vxb+VLMRRwfynmZPm+fQ35VnmdL6FLq917Hv404Lm+Wy+Ps4/FV1dODOmyTupr1N2zlrVkk/TR6MeWr8bhp9rHomvzdxrbH4bWK0+nvfT0o8HRz+O4uq3muYnR93oyKsbdcqaZW1qb8uD2tLekeGT9nVSrl925LIjd3cVmUQ8qT+TlXqS/Yzdcxg8pkeGa8DDrk8+NPGQ6IWwqadKirF5jkl7fM0fhfiPF/HcpGzOrthg2UXwvU8yq6Ll07r/QjY3tP0ejxsPN5VsWTPTkxXUzquo71/11Ww44tFJpv8XKcfjZOD4j4fFyq3XkY/L4ddsH31JWL0a7a90zqPtHelwD+UORaX4Oo8vEUYrxzwDSSdlnCzl+tqbjt/RI2njbhuY5hcSuOxfO+7wzVdu2mvpdrh0/0kl8j0b8yuTmcTkZZisTWZ79u4c8YpjFkx177c9n+E8bC8Px5mOdfZa8fAu8mVVca95LgmupPfbfY8fC/hrG8QRzpXZl+P92vx6oqmuufUrYuTb63+o63xDVbR4MnRbHptpxuIptimn0zhKqMltdjX/Zw0qubk/RZeC3+CrkykeT5FvG5uRFu4tqJ69twmcFPt6011pp/CNUcfxXLHjJyVEOVoUmtOSr/Q20vno2XOf188P/jxK/8AWe3BcBzuF4lyeQycVQw5y5Nxs86iW1dJuH6MJOXf8Dx5z+vvAf8Am4n/ANxNs9M/Pm1LRP7qfbsik1w6mNfMzPFn/X/gD/Tqf+OpPsO+77+7Pj/iz+sHgD/Tqf8AjqTted5/neIy5wWNwVeFYrJYd3I8nZj23qmlW3NVxqfw9/f5f5Wj1fBd+Pxf4n/cubm/xrOmeTiRtjTPIojc5Riq5WwVjlJbSUG97ft2OY8K+Jc/mMbAln0UQeRTmTllVZGPXX59ebZjwxo4spu7bilLetHKX8NzGZzK5WWNwn5wZPLcRz3H4sM9y8zjcLHlVY429Hwyl5b9PZ/5Pfzo8D+IVx1uBZ4d8P8A3y9375W7Pulk0ytsc1ZGNcfWC0o6+X63v2nG+sysrjKuErIRnZ1eXGUkpT6e76U3t69zR+KcmWHxlGU8y/Grp5Ljnd5EbXLIrncq/JcqZwsSbabal/2dPak0+F8acJyuBbLk+ujPuyl4f4/i8my66vlMXPxpRj0YVcNwbtac33938v0szI47xP4mnzeb5fFpWw4rjoRw+QldTG7juRV93U5QWmlten4b2NDl/tO/rXd/q7B/5hxJ232nd/Fd/wDq/B/5hxJpHsiQhQSIUAAAAIUADGu+P6IFu+P6IGcrQyAAaKoUgAoAAyMLNzePyKsvCvnTkV7UZw16Ps4yUtpp+6aOmX2geIoxSlRxcml3nKixN699QsS/gciTs00/c4uRwePyZ9WakTLamfJj6rOn0KXiP7QYrj5PhMWP5Qko4a8ie7ZOPmaa87t2799dlv2MXL8aeL8DIsxc3A46jIrUXOudNm0pLaacbWmn7NM1E/GHiSf5J3fR/wBGzVlWqYrzpeW6d5Hfv+i2vb1+ZrOU5PO5fMszs2UJXTjCtKuChXCuC1GEIr2R4+Dw+Ob6zYKRXv23v36/R1X5VtfJedui/P8A8Q/5txf+wu/xB/KB4h/zbi/9hb/iHIbB3/sbgf2oY/F5v6m3zeez87lcPmLqsVZWI8Z1QrhNUv7u3KPVFyb9+/c6WnxZ42yMPK5GnicKeDjOSuvVFnTHo7yend1NL3aXY4PZt8XxFzOHxeXxFFtaxMnzVJyrTurjd/SRrs9lL37f7yvM8diy0rWuOs+nUd/SProxci1Zndpjf8m55/m/F9nGRx+W4vHxMTkPLnCyNc4zl5TVqS/nJafptNbOj8F8XdxXGZOXm2VQrzlRnvpluNOLCnq6rJNa2023/wDfbguV8Q8xzOPh42dZVKrF3KKqrVbsm49HmWNestdvb1/WMzxDzebg4/G25Cjg0VU0xoorjVGcaoqEfNce8ta92cGbxeXLxY4tIrSJndtb9vpr8ZbV5NYyTkmZnrpvLPtA5vzLfKxeN8rrn5XXVc5+X1Pp6v5z11rfY0uVz+fmcvic1bVirKxXjuqEITVD8jfT1RcnL379zTg9bD4ziYJ3jxxE61v8HPfk5Mn3pb3kPE/Jclm8PnZNOGrOKuhfRCmFkITcbY3as3JvW4pdmjpJ/apztuvM4jhJpKSXmQyJaUlqS7z9/Rnz4HXiw48NIx441EfRja9rT6rT2+hfyq8/1Rn+SuF6owdcZdOT1KDafSn5np2X7D9fys+JP/DeI/Zlf4h87BrqEbfQpfat4hk4OXF8NJwl1QbjktxlrW1uz1EftW8QQTUOK4aKcpSahHJScpPbelZ6v3PnoGoRttef5zL8Q8jLksqmim6VFNDhj9fl9NW9P+cbe+/zNUAABASBSACggAo+RC+4GPd8f0QF3xv8EDOVoZAANFUKQAUAgApABQQoAEKBCkKABABQQoAgAFAIBQQoAAACAACkAFBABR7kL7gY13x/RAXfH9EDOV2QADRQAAAAAAAAKQoEKQoEKQoEAAAAAAABSFIAKQoEKQoEAAAAAAAAL7kL7gY13x/RAXfH9EDOV2SADRRCkAFIUgApABQFptJtpNrbXql+oyfMxW5SUFptPocE/ZLs17e/1IGMDKl9zf6W/ilrtGS9OnvpaXT6+22flSxe66G00u8utvfXvtp/IDwUW/SLf4Jv/cOmXooy2vVJNtGxxrsauvJr89Vxlk1TjtT3KuPS2uyfy/8A3t+1kY33nPs86KhZKnobU11KMNNrsQNVqW9ae/lp7Gpemnv5aezafeYK7KnDKhCU6ceFU3Gco7i3uLXS2PvFStk45acvuCoV8lYt29W23pb2Bq+mW9dL38tPYaa1tNb9Npo2iya1djSlkwk4YVtMrNWuPmOW1va6v4HnlXUWvEi7lZGHmKbip9k2tb2kydjXgyU8LTWnpuTW1LqSSlrenr5aElhrqXd9vWPW1v8AVt+v8CRjAyN4jjJa6deYo6U3LvLcW+4X3NQ0+pz8t90pJdZAxwGCQAAAgAApABQQAUe6IX3QGNd8f0QF3x/RApK7JABdRAUACFAEBQAAADY2AA2NgANjYADY2AA2NgANjYAAAAAABAUAQFAEBQBC+6A+QGNd8f0QF3x/RAouytDQBdQ0NABBoaAAaGgAk0NAANDQADQ0AEGhoABoaAAaGgAk0NAANDQAQaGgAGhoABoaAAaGgAk0T3AAxrvjf4IAGa0P/9k=", AD Sports Premium 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="data:image/jpeg;base64,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", AD Sports Premium 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="data:image/jpeg;base64,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", STC SPORTS 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://fastly-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd 
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="data:image/jpeg;base64,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", AD-2-Premium
+http://gcf.nrslist.com:80/TVN0029/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", AD ASIA 1
+http://gcf.nrslist.com:80/TVN0030/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", AD ASIA 2
+http://gcf.nrslist.com:80/TVN0031/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Alrabiaa Sport 1
+http://gcf.nrslist.com:80/TVN0024/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Alrabiaa sport 2
+http://gcf.nrslist.com:80/TVN0025/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Alrabiaa Sport 3
+http://gcf.nrslist.com:80/TVN0026/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Alrabiaa Sport 4
+http://gcf.nrslist.com:80/TVN0027/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Starz play action
+http://gcf.nrslist.com:80/TVN0033/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Starz play movies
+http://gcf.nrslist.com:80/TVN0036/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Starz play series
+http://gcf.nrslist.com:80/TVN0037/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Starz play comedy
+http://gcf.nrslist.com:80/TVN0034/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", Starz play crime
+http://gcf.nrslist.com:80/TVN0035/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", ONC comedy
+http://gcf.nrslist.com:80/TVN0022/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", ONC drama
+http://gcf.nrslist.com:80/TVN0021/index.mpd
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP._ACOr2Urh-bU0i0SqCglAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7", ONC Movies
+http://gcf.nrslist.com:80/TVN0020/index.mpd
+
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ HG TV" tvg-logo="https://th.bing.com/th?id=ODLS.324409d9-16d9-44e0-a796-b4fba8c6ce44&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ HG TV
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://fastly-live.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY CHANNEL
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
+https://fastly-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY FAMILY " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY FAMILY 
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
+https://fastly-live.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DISCOVERY ID " tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ DISCOVERY ID 
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
+https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ ANIMAL PALANT" tvg-logo="https://www.bing.com/th?id=OSK.e94474555722a2247e4bcfaa5480f95b&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ANIMAL PALANT
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastly-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="┃FR┃ TRAVEL" tvg-logo="https://th.bing.com/th?id=ODLS.fb0e61c2-20c0-4efc-8b8d-b82623f35529&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TRAVEL
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastly-live.cdn.intigral-ott.net/TRA/TRA.isml/manifest.mpd 
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="┃FR┃ NATIONAL GEO" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ NATIONAL GEO
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastly-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ NAT GEO WILD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ NAT GEO WILD FHD
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd  
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ ALSHARQ DISCOVERY" tvg-logo="https://th.bing.com/th?id=ODLS.37dec3bd-3b2b-4504-bbdd-15aaa62f15c3&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ALSHARQ DISCOVERY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
+https://fastly-live.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ TLC" tvg-logo="https://th.bing.com/th?id=ODLS.759b9ff7-1f71-4bb2-8d68-ab826583a783&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TLC
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://fastly-live.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ LoveNature4K FHD" tvg-logo="https://th.bing.com/th?id=OSK.ed6a2221b04f5444bf2e24eebcc36bf3&w=102&h=102&c=7&o=6&pid=SANGAM" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ LoveNature4K 
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ CANAL+ DOCS 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113222.m3u8
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="┃FR┃ USHUAIA 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ USHUAIA 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113288.m3u8
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="┃FR┃ ANIMAUX 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ ANIMAUX 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113248.m3u8
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="┃FR┃ CHASSE & PECHE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ CHASSE & PECHE 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113282.m3u8
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ HISTOIRE 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113421.m3u8
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="┃FR┃ TOUTE L'HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TOUTE L'HISTOIRE 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113422.m3u8
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="┃FR┃ TREK 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ TREK 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113429.m3u8
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="┃FR┃ PLANETE+ 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ PLANETE+ 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ CRIME 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ PLANETE+ CRIME 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ AVENTURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ PLANETE+ AVENTURE 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113285.m3u8
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="┃FR┃ SCIENCE & VIE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ SCIENCE & VIE 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113292.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC DECOUVERTE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ RMC DECOUVERTE 🇫🇷
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="┃FR┃ RMC WOW 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ RMC WOW 🇫🇷
+https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="┃FR┃ SEASONS 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ SEASONS 🇫🇷
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ MY ZEN NATURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃FR-AR┃ MY ZEN NATURE 🇫🇷
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 2" tvg-logo="http://guki.my.id/logo/sports/sc2.jpg",SSC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 3" tvg-logo="http://guki.my.id/logo/sports/sc3.jpg",SSC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 4" tvg-logo="http://guki.my.id/logo/sports/sc4.jpg",SSC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC 5" tvg-logo="http://guki.my.id/logo/sports/sc5.jpg",SSC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC EXTRA 1" tvg-logo="http://guki.my.id/logo/sports/scex1.jpg",SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC EXTRA 2" tvg-logo="http://guki.my.id/logo/sports/scex2.jpg",SSC EXTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 group-title="SSC SPORT" tvg-id="SSC EXTRA 3" tvg-logo="http://guki.my.id/logo/sports/scex3.jpg",SSC EXTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png", ARENA SPORT PREMIUM 1 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png", ARENA SPORT PREMIUM 1 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HKHVbhz/a2p.png", ARENA SPORT PREMIUM 2 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/dcN9dPL/a3p.png", ARENA SPORT PREMIUM 3 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/sggNDR7/a1.png", ARENA SPORT 1 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/R4yyyng/a2.png", ARENA SPORT 2 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/18LnFNg/a3.png", ARENA SPORT 3 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/K99CqgQ/a4.png", ARENA SPORT 4 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/MfCshjJ/a5.png", ARENA SPORT 5 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HH4TJ8T/a6.png", ARENA SPORT 6 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/PMMCbMR/a1x2.png", ARENA SPORT 1x2 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/KF4phjz/arenaesport.png", ARENA ESPORT 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
+
+#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/j500zg4/afight.png", ARENA FIGHT 🇧🇦
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN LaLiga 🇪🇸
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png", DAZN 1 🇪🇸
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png", DAZN 2 🇪🇸
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png", DAZN 3 🇪🇸
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", DAZN 4 🇪🇸
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", sky liga 🇪🇸
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", Sport1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", Sport2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", Sport+1 HD
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png", TNT SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/ftMYw1j/tntsp2.png", TNT SPORTS 2 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/sQwLrNy/tntsp3.png", TNT SPORTS 3 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png", TNT SPORTS 4 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/z7Vg6tQ/tntsp5.png", TNT SPORTS 5 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
+http://gcf.nrslist.com/TVD017/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
+http://gcf.nrslist.com/TVD022/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", Sky Nature 🇬🇧
+http://gcf.nrslist.com/TVD019/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", Sky Documentaries 🇬🇧
+http://gcf.nrslist.com/TVD027/index.mpd
+
+#EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Action 🇬🇧
+http://gcf.nrslist.com/TVD015/index.mpd
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-algerie-2-sk.png", ENTV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/82.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-algerie-2-sk.png", CANAL ALGERIE
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/69.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thalitha-tv-dz.png", ALGERIE3
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/81.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_4_tv_tamazight.png", ALGERIE4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/84.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_5_tv_coran.png", ALGERIE5
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/85.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-6-dz.png", shababia 6
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/986.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-7-dz.png", Algerie 7
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2010.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-8-dz.png", Algerie 8 Edhakira
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2011.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-heddaf-tv-dz.png", ALHADEF
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/77.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ennahar_dz_tv.png", ENNAHAR TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/79.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv.png", ECHOUROUK
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/73.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png", Fadjer TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2332.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-hayat-tv-dz.png", Hayat TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/91.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_bilad_news_dz.png",  Bilad TV
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/74.ts
+
+#EXTINF:-1 group-title="قنوات جزائرية" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-djazair-n1-dz.png", Djazaïr N1
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2001.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/4253.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/4254.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 3" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113280.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 4" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","b6d0b6217c70b0f705002a070771b084":"746c02d1e6884fe2e4411624ba055528","d1140f0b87723297fc1a3820d989537f":"37c78b5fbbd97216b4813e135ab2c1ea"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 5" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 6" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 7" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 8" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 9" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax10.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 10" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT FR",FR | BEIN SPORT MAX 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+
+#EXTINF:-1 tvg-id="canalplusfoot.🇫🇷" tvg-name="كنال بليس سبور FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT 🇫🇷",CANAL+ FOOT
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/4263.m3u8
+#EXTINF:-1 tvg-id="canalplussport360.🇫🇷" tvg-name="كنال بليس سبور SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT 🇫🇷",CANAL+ SPORT360
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113276.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="كنال بليس سبور LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113722.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="كنال بليس سبور LIVE 2 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113723.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive3.🇫🇷" tvg-name="كنال بليس سبور LIVE 3 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 3 
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113724.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive4.🇫🇷" tvg-name="كنال بليس سبور LIVE 4" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 4
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113725.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive5.🇫🇷" tvg-name="كنال بليس سبور LIVE 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 5 
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113726.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive6.🇫🇷" tvg-name="كنال بليس سبور LIVE 6" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 6
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113727.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive7.🇫🇷" tvg-name="كنال بليس سبور LIVE 7" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 7
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113728.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive8.🇫🇷" tvg-name="كنال بليس سبور LIVE 8" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 8
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113729.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive9.🇫🇷" tvg-name="كنال بليس سبور LIVE 9" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 9
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113730.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="كنال بليس سبور LIVE 10" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113731.m3u8
+#EXTINF:-1 tvg-id="lequipe21.🇫🇷" tvg-name="L'EQUIPE FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT 🇫🇷",L'EQUIPE FHD
+http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941593.ts
+
+#EXTINF:-1 group-title="tod-tv" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png", tod 1
+https://xpola.yoo7.com/h13-page/?id=YUhSMGNITTZMeTltYkdGNExXMWxaR2xoTG1OdmJTOTJhV1JsYnkxemFHRnJZUzltYkdGNExYQnNZWGxsY2k1d2FIQS9hV1E5WVVoU01HTklUVFpNZVRsellWaGFiRXhYVVhSTlJFVjBaRWM1YTJSSVdYUmFSMFYxV1ZkMGFHSlhSbkJsYlZaclRHMDFiR1JET1RKWldFcHdXVmMxTUV3eldYaFpiWGhvV1RKMGRtUllVWFpqTTBKMlRGZG9hMHhVUVRSTVYxRjJVa1ZHVkZOR09VVlJWazVKVERCNGNHUnRWWFpaTW1ob1ltMDFiR0pEYUhwalJ6aDBZVWRSZEUxRVozQk1NakZvWW0xc2JWcFlUakJNYlRGM1drUTVNbGt5V25CaVNGSnNZMm94YkU5RVZUVlpiVTVwV21rd01WbHRUbWhNVkZFMVdrZEZkRmxYU1RSWmVUQXdXa2RWTlZwVWFHeFBSMUpvV21wQmJXRkhVblZrU0UwNVl6TlJPVTFVWTNwTmVtY3lUbFJKZUU1dU5XeGxTRUU1VFZSamVrMTZaek5QVkZsNFRtNDFhRmt5ZHpsTU0xcG9ZMjFzYUdKdVVYWmtha1pwWWtkR2FtRXlPVEZrUXpsNlkwYzRkR0ZIVVhSTlJHZDBXa000Y1dadGJHdFFWR2N6V2tSS2FrMVhSbTFNVkVKcFQxUm5kRTVIVlhwTmFUQTFXbGRPYTB4VVdYcGFSMUpyVGxSYWExbFVUWGhPV0RWcldWaFNhRkJVYXpCUFYwVjVUV3BzYkV4VVJtaE5la1YwVGtSU2FFMTVNRFZhYWtGM1RGZFZlRTVVVm1wYVIxVTBXVEpSZVUxSU5XOWlWMFpxVUZkUk0wNVhUVFZQUkdob1QxUlNhRmxVVm1sT1YwVjRXbFJCZVZsdFVYcFpNa3BzVFVkWk1scHFVVFJQUkVGNldtcFNhVTVFV210TlZHY3hUMFJCTUU5WFRUVk9SRTB5V1RKR2JFNHlWbWhhYlVVelRYcFJiV0ZIVW1waU0wcHNVRlJKZFUxVVJYVk5NM2g1V2xkYWJHTnRWbmxRVjJnd1pFaENlazlwT0haa00yUXpURzVTZGxwRE5UQmthVGs0WkVkc01HSkhWVGxrU0ZJd1lqSTVkbHBIVW10bVIxSjVZbE14Y0dKdFduWlFWMDV6V2xkR2VXRXlWalZtUkVKb1RucHJlazVIVW10YVIwMTZUVlJOTWxsVVdUVk5ha2t4VDBSU2FVOVVXbXBOTWxwclRWZFZNVTlxV1ROT2JWVXlXa1JHYTFwRVFYZFpiVnBwV2xSSk1rNXFRWGROTWxadFdWZFpkMXBVVG1oWlZFRjVmRzVoYldVOWJHbDJaWHh3YkdGNVpYSXRkSGx3WlQxM1pXSndiR0Y1WlhJPQ==
+#EXTINF:-1 group-title="tod-tv" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png", tod 2
+#EXTVLCOPT:http-referrer=https://www.tod.tv/
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=e859bcbf-5bca-49da-ab8c-4de9e8e8daf0&hdnts=st=1733865216~exp=1733879616~acl=/variant/v1blackout/spo-hd-08-d/*~id=87d2c1af-0b98-4e32-9ecd-63ddd56da315~data=949a229e-1a31-44a3-9f00-e155cde8cd20~hmac=d75c988a94aa5b5a1e02bd3cbe0f6f48803f4b46d1858049c9436cae7eafa734&hdcore=2.11.3
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="ترفيه - beIN",beIN Movies 1 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1342.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="ترفيه - beIN",beIN Movies 2 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1343.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="ترفيه - beIN",beIN Movies 3 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1344.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="ترفيه - beIN",beIN Movies 4 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1345.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="ترفيه - beIN",beIN Series 1 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1346.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries2.png" group-title="ترفيه - beIN",beIN Series 2 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1347.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="ترفيه - beIN",beIN Drama 1 K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1359.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth K4" tvg-logo="https://besttvps.com/app/panel-logos/bbcearth.png" group-title="ترفيه - beIN",beIN BBC Earth 4K
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1351.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Action K4" tvg-logo="https://besttvps.com/app/tv/news/panel/foxactionmovies.png" group-title="ترفيه - beIN",beIN Fox Action K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1355.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life K4" tvg-logo="https://besttvps.com/app/tv/news/panel/foxlife.png" group-title="ترفيه - beIN",beIN Fox Life K4
+http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1354.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="┃FR┃ CANAL+ FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113174.m3u8
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="┃FR┃ CANAL+ CINEMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113175.m3u8
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="┃FR┃ CANAL+ SERIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113177.m3u8
+#EXTINF:-1 tvg-id="canalplusboxoffice.fr" tvg-name="┃FR┃ CANAL+ BOX OFFICE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ BOX OFFICE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113721.m3u8
+#EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="┃FR┃ CANAL+ GRAND ECRAN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113176.m3u8
+#EXTINF:-1 tvg-id="action.fr" tvg-name="┃FR┃ ACTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/ACTION.png" group-title="┃FR┃ MY CANAL+",┃FR┃ ACTION FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113396.m3u8
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="┃FR┃ CINE+ PREMIER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ PREMIER.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ PREMIER HD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113182.m3u8
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="┃FR┃ CINE+ Club HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Club.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Club HD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113184.m3u8
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="┃FR┃ CINE+ Famiz HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Famiz.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Famiz HD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113387.m3u8
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="┃FR┃ CINE+ Emotion HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Emotion.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Emotion HD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113181.m3u8
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="┃FR┃ CINE+ Frisson HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Frisson.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Frisson HD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113183.m3u8
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="┃FR┃ CINE+ Classic HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Classic.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Classic HD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113180.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="┃FR┃ PARAMOUNT CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT CHANNEL.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PARAMOUNT DECALE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT DECALE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113392.m3u8
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="┃FR┃ SERIE CLUB FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/SERIE CLUB.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ SERIE CLUB FHD
+http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113400.m3u8
