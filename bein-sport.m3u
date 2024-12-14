@@ -611,4 +611,4 @@ http://free.one24tv.com:80/get.php?username=37801734137427&password=378017341374
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
 #EXTVLCOPT:http-player-type=m3u
-https://github.com/raid35/xPola-Player/blob/main/BEIN4K.m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
