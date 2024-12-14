@@ -1,9 +1,19 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://user.scalecdn.co:8080/live/19995634/79960700/659429.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/79.ts
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://d.tvdark.eu/live/Ferdigokdemirrr/wTuBKnbd/41534.ts
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/366632.ts
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD
+http://pro.lsscover.cc:8080/live/Martinez469/HR839VP/366633.ts
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 HD
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/903.ts
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 HD
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/905.ts
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/904.ts
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/907.ts
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 HD
+http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/906.ts
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports9.m3u8
