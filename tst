@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 1 VEGA
+http://z22151224.ayoo.top:80/x1/view_11.m3u8?t=-lscVyBxEaSZjWMJQWEnZA&x=1734342131&xt=3thHxE_mW8ayxOqfJgnvIw
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 2 VEGA
+http://k23151224.ayoo.top:80/x1/view_12.m3u8?t=QzwT2haPZXgocd-MOY5AiA&x=1734344571&xt=C6gSpHtHZTPwFSDPfNgbPg
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 3 VEGA
+http://k22151224.ayoo.top:80/x1/view_13.m3u8?t=i5wdZvVA6M--UhNls20Fdw&x=1734342953&xt=CC_gEg_gDG_KlrIIsFvThQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 4 VEGA
+http://z22151224.ayoo.top:80/x1/view_14.m3u8?t=u-vIzmlSKR1HKCnA9Ey8Ew&x=1734343125&xt=T5phgT01vmIS9XwKfjGvCg
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 5 VEGA
+http://x23151224.ayoo.top:80/x1/view_15.m3u8?t=VSwTSU9A-_44ZoLRhOfldA&x=1734344711&xt=A7gbE7mExw7-J5-pMSEOrQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 6 VEGA
+http://q23151224.ayoo.top:80/x1/view_16.m3u8?t=3VlVGWOekTVb2qBjSrweGg&x=1734343466&xt=woaQAZ00VGx1Cmdh4p-P0Q
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 7 VEGA
+http://t23151224.ayoo.top:80/x1/view_17.m3u8?t=dXSGc6BjIJT6K1QF6H85ig&x=1734343597&xt=O8kFrh5BNzfbNzJ7YGwq5w
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORT MINI",beIN SPORTS 8 VEGA
+http://n23151224.ayoo.top:80/x1/view_18.m3u8?t=w7-g8IrtnyuXmT1khPF1ow&x=1734344958&xt=z8bUFU5LRRW1AFNS9eHgGg
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT MINI",beIN SPORTS 9 VEGA
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/35.m3u8
