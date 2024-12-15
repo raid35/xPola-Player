@@ -18,10 +18,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein6.m3u8
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein9.m3u8
 
-#EXTINF:-1 group-title=" بلجيكا" tvg-logo="https://th.bing.com/th/id/R.1f50095083c12a46d054f4579f575c10?rik=muZgu1R9qMZpOQ&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2015%2f07%2fBelgium-Flag-18.jpg&ehk=8Q4R2ircP91g9h0BN2h80ttP2ZFqZs4XJXJWh2dHvBM%3d&risl=1&pid=ImgRaw&r=0", بلجيكا
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/belig.m3u8
-
 #EXTINF:-1 group-title=" المملكة المتحدة" tvg-logo="https://thumbs.dreamstime.com/z/union-jack-flag-2236187.jpg",  المملكة المتحدة
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/documenter 
