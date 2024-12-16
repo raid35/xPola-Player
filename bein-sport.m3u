@@ -18,9 +18,9 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein6.m3u8
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein9.m3u8
 
-#EXTINF:-1 group-title=" المملكة المتحدة" tvg-logo="https://thumbs.dreamstime.com/z/union-jack-flag-2236187.jpg",  المملكة المتحدة
+#EXTINF:-1 group-title=" دوري أبطال أوروبا" https://i.ibb.co/T4vT0Lk/champion.jpg",  دوري أبطال أوروبا
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/anglaise
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Sky-sp
 
 #EXTINF:-1 group-title="  اسبانيا" tvg-logo="https://images.freeimages.com/clg/istock/previews/9263/92634973-flag-of-spain.jpg",  اسبانيا
 #EXTVLCOPT:http-player-type=m3u
