@@ -16,7 +16,11 @@ http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/982.ts
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein8.png", BEIN SPORTS 8 4K
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3996.ts
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein9.png", BEIN SPORTS 9 4K
-http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
+h#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT EXTRA N
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT EXTRA N
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+##https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8ttp://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 1 VEGA
 http://z22151224.ayoo.top:80/x1/view_11.m3u8?t=-lscVyBxEaSZjWMJQWEnZA&x=1734342131&xt=3thHxE_mW8ayxOqfJgnvIw
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 2 VEGA
