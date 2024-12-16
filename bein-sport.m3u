@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein6.m3u8
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein9.m3u8
 
-#EXTINF:-1 group-title=" دوري أبطال أوروبا" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg",  دوري أبطال أوروبا
+#EXTINF:-1 group-title=" دوري أبطال أوروبا" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="MPD SPORT",  دوري أبطال أوروبا
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Sky-sp
 
