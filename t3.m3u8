@@ -18,55 +18,27 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
- #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="CHANNEL | SPORTS 2", GO3 Sport 1 🇱🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+ #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://i.ibb.co.com/VMRvMyS/laligatvhyperm.png" group-title="MPD SPORT", LaLiga TV HYPERMOTION 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="CHANNEL | SPORTS 2", GO3 Sport 2 🇱🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://i.ibb.co.com/VMRvMyS/laligatvhyperm.png" group-title="MPD SPORT", LaLiga TV HYPERMOTION 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNdZnx/go3sport3.png" group-title="CHANNEL | SPORTS 2", GO3 Sport 3 🇱🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://i.ibb.co.com/VMRvMyS/laligatvhyperm.png" group-title="MPD SPORT", LaLiga TV HYPERMOTION 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQXQfyq/go3sportopen.png" group-title="CHANNEL | SPORTS 2", GO3 Sport OPEN 🇱🇹
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="CHANNEL | SPORTS 2", GO3 Sport 1 🇱🇹
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://i.ibb.co.com/VMRvMyS/laligatvhyperm.png" group-title="MPD SPORT", LaLiga TV HYPERMOTION 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
-https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="CHANNEL | SPORTS 2", GO3 Sport 2 🇱🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQXQfyq/go3sportopen.png" group-title="CHANNEL | SPORTS 2", GO3 Sport OPEN 🇱🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
-#EXTINF:-1 tvg-id="Golf Channel Thailand HD Plus.th" tvg-logo="https://i.ibb.co/72ZRMyK/golfchthai.png" group-title="CHANNEL | SPORTS 2" , GOLF CHANNEL 🇹🇭
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
-#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/rdfyH83/sport1plushd.png" group-title="CHANNEL | SPORTS 2", SPORT1+ HD 🇩🇪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
-https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
-#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", sky liga 🇪🇸
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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", ZIGGO_SPORT
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=568d9517-f0bf-428c-a5b3-066cc39e69a4&hdnts=st=1734278127~exp=1734292527~acl=/variant/v1blackout/spo-hd-08-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=c31db788-f84f-469a-a6b6-d6c9a125e859~hmac=cf96e25cfc30f9e2d3f9270c7af8a5b7dbcd554a247cb5d0d88fc4c985c5e956&hdcore=2.11.3
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
