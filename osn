@@ -60,3 +60,8 @@ http://snap-tr.org:80/live/AtefNeumagen/gHXps3uIqq/259169.m3u8
 http://snap-tr.org:80/live/AtefNeumagen/gHXps3uIqq/259170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN FATAFEAT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fatafeat-eg-ae.png" group-title="OSN",OSN FATAFEAT
 http://snap-tr.org:80/live/AtefNeumagen/gHXps3uIqq/259167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS: osn box office 2" tvg-logo="https://media.elcinema.com/tvguide/1294_1.png" group-title="OSN",OS: osn box office 2
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS: osn box office 3" tvg-logo="https://media0063.elcinema.com/tvguide/1295_1.png" group-title="OSN",OS: osn box office 3
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1100.m3u8
+
