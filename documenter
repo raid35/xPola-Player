@@ -36,6 +36,18 @@ https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
 https://fastly-live.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://th.bing.com/th/id/OIP.VdTDYiEWN3yrR7dAupS8aAHaHO?rs=1&pid=ImgDetMain", FOOD NETWORK
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
+https://fastly-live.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png", FATAFEAT
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
+https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png", STAR LIFE
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=6614a52b865d3b2fd5202aeece2983b5:c56950cff44f8f3b7d03e4ec2a1431dd
+https://fastly-live.cdn.intigral-ott.net/FXL/FXL.isml/manifest.mpd
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="┃FR┃ TLC" tvg-logo="https://th.bing.com/th?id=ODLS.759b9ff7-1f71-4bb2-8d68-ab826583a783&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" group-title="┃AR┃ DOCUMENTAIRES",┃AR┃ TLC
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
