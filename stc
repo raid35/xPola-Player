@@ -273,11 +273,6 @@ https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
 
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", FOOD NETWORK
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923
-https://fastly-live.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd
-
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC SOFRA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
@@ -287,10 +282,6 @@ https://fastly-live.cdn.intigral-ott.net/CBS/CBS.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
 https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
-
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR LIFE
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=6614a52b865d3b2fd5202aeece2983b5:c56950cff44f8f3b7d03e4ec2a1431dd
 
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ADF
 #EXTVLCOPT:http-drm-scheme=clearkey
