@@ -22,7 +22,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 ##https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8ttp://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 1 VEGA
-http://z22151224.ayoo.top:80/x1/view_11.m3u8?t=-lscVyBxEaSZjWMJQWEnZA&x=1734342131&xt=3thHxE_mW8ayxOqfJgnvIw
+https://raw.githubusercontent.com/ahmedrssol/xpola-player/main/Bein1-S4-Auto.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 2 VEGA
 http://k23151224.ayoo.top:80/x1/view_12.m3u8?t=QzwT2haPZXgocd-MOY5AiA&x=1734344571&xt=C6gSpHtHZTPwFSDPfNgbPg
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 3 VEGA
