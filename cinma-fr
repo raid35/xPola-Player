@@ -1,32 +1,92 @@
-#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="TNT",TF1 SERIES FILMS
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1sf.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="TNT",TMC
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="TNT",FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="TNT",FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="TNT",FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="TNT",M6
-https://tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="TNT",C8
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/c8.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="TNT",W9
-http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" group-title="TNT",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="TNT",6TER
-http://gratuittv.free.fr/Files/6ter/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="TNT",RMC STORY
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC DÉCOUVERTE
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | AB1 HD" tvg-logo="" group-title="FR CANAL PLAY",FR | AB1 HD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/7475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RTL 9 HD" tvg-logo="" group-title="FR CANAL PLAY",FR | RTL 9 HD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/7476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  13EME RUE" tvg-logo="" group-title="FR CANAL PLAY",|FR|  13EME RUE
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/4131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDY CENTRAL FRANCE FHD" tvg-logo="" group-title="FR CANAL PLAY",|FR| COMEDY CENTRAL FRANCE FHD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/8987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+" tvg-logo="" group-title="FR CANAL PLAY",|FR| COMEDIE+
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/8988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | SYFY HD" tvg-logo="" group-title="FR CANAL PLAY",FR | SYFY HD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/7477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR. WARNER HD" tvg-logo="" group-title="FR CANAL PLAY",FR. WARNER HD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:  NOVELAS HD" tvg-logo="" group-title="FR CANAL PLAY",FR:  NOVELAS HD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Juste pour Rire" tvg-logo="" group-title="FR CANAL PLAY",Juste pour Rire
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hélène et les garçons" tvg-logo="" group-title="FR CANAL PLAY",Hélène et les garçons
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Les Années fac" tvg-logo="" group-title="FR CANAL PLAY",Les Années fac
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Génération Sitcoms" tvg-logo="" group-title="FR CANAL PLAY",Génération Sitcoms
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Y'a que la vérité qui compte" tvg-logo="" group-title="FR CANAL PLAY",Y'a que la vérité qui compte
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 1" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 1
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 2" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 2
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 3" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 3
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 4" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 4
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 5" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 5
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----------- CHAINES A LA CARTE -----------" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",----------- CHAINES A LA CARTE -----------
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 1" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 1
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 2" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 2
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 3" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 3
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 4" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 4
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 5" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 5
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 6" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 6
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 7" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 7
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 8" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 8
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 9" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 9
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 10" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 10
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 1" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 1
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 2" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 2
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 3" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 3
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 4" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 4
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 5" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 5
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 6" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 6
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 7" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 7
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 8" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 8
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 9" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 9
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 10" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 10
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 1 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 1 (FR)
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 2 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 2 (FR)
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 3 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 3 (FR)
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 4 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 4 (FR)
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 1 FHD" tvg-logo="" group-title="FR BOX OFFICE",|FR| MULTIVISON 1 FHD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 2 FHD" tvg-logo="" group-title="FR BOX OFFICE",|FR| MULTIVISON 2 FHD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 3 FHD" tvg-logo="" group-title="FR BOX OFFICE",|FR| MULTIVISON 3 FHD
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9997.m3u8
