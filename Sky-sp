@@ -31,3 +31,9 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="MPD SPORT",Infinity+ 6 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=111111111111:22222222222222
+https://ggh3h4hh4g4ggy4y4g.mpd
