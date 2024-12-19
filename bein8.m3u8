@@ -54,7 +54,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 aY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
-
 #EXTINF:-1 group-title="TNT-Sky 🇬🇧" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png", TNT SPORTS 1 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -97,7 +96,20 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
-
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport" tvg-id="DIEMA.SPORT.bg" tvg-logo="https://logo.iptveditor.com/diemasport.png" group-title="Vip Sports ⚡",Diema Sport 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 2" tvg-id="DIEMA.SPORT.2.bg" tvg-logo="https://logo.iptveditor.com/diemasport2.png" group-title="Vip Sports ⚡",Diema Sport 2 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 3" tvg-id="DIEMA.SPORT.3.bg" tvg-logo="https://logo.iptveditor.com/diemasport3.png" group-title="Vip Sports ⚡",Diema Sport 3 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 1" tvg-id="Max.Sport.1.bg" tvg-logo="https://logo.iptveditor.com/maxsport1.png" group-title="Vip Sports ⚡",Max Sport 1 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 2" tvg-id="Max.Sport.2.bg" tvg-logo="https://logo.iptveditor.com/maxsport2.png" group-title="Vip Sports ⚡",Max Sport 2 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 3" tvg-id="Max.Sport.3.bg" tvg-logo="https://logo.iptveditor.com/maxsport3.png" group-title="Vip Sports ⚡",Max Sport 3 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
+#EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 4" tvg-id="Max.Sport.4.bg" tvg-logo="https://logo.iptveditor.com/maxsport4.png" group-title="Vip Sports ⚡",Max Sport 4 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="CHANNEL | SPORTS 2", GO3 Sport 1 🇱🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -122,6 +134,30 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
+#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="V Sport Vinter 🇸🇪" tvg-id="V.Sport.Vinter.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport Vinter 🇸🇪
+http://62.210.211.188:2095/play/a00q
+#EXTINF:-1 cuid="1003" tvg-chno="1003" tvg-name="V Sport 🇸🇪" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 🇸🇪
+http://62.210.211.188:2095/play/a001
+#EXTINF:-1 cuid="1004" tvg-chno="1004" tvg-name="V Sport 1 🇸🇪" tvg-id="V.Sport.Live.1.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 1 🇸🇪
+http://62.210.211.188:2095/play/a002
+#EXTINF:-1 cuid="1005" tvg-chno="1005" tvg-name="V Sport 2 🇸🇪" tvg-id="V.Sport.Live.2.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 2 🇸🇪
+http://62.210.211.188:2095/play/a003
+#EXTINF:-1 cuid="1006" tvg-chno="1006" tvg-name="V Sport 3 🇸🇪" tvg-id="V.Sport.Live.3.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 3 🇸🇪
+http://62.210.211.188:2095/play/a004
+#EXTINF:-1 cuid="1007" tvg-chno="1007" tvg-name="V Sport 4 🇸🇪" tvg-id="V.Sport.Live.4.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 4 🇸🇪
+http://62.210.211.188:2095/play/a005
+#EXTINF:-1 cuid="1011" tvg-chno="1011" tvg-name="Sky Sports Bundesliga 🇪🇸🇩🇪" tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://seeklogo.com/images/B/bundesliga-logo-03A7CC2961-seeklogo.com.png" group-title="Vip Sports ⚡",Sky Sports Bundesliga 🇪🇸🇩🇪
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 cuid="170" tvg-chno="178" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
+http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
+#EXTINF:-1 cuid="176" tvg-chno="184" tvg-name="Eleven sports 4 🇵🇱" tvg-id="Eleven.Sports.4.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",Eleven sports 4 🇵🇱
+http://178.219.128.68:64888/ELEVSPOR4HD
+#EXTINF:-1 cuid="1040" tvg-chno="1040" tvg-name="NovaSports 2 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport2.png" group-title="Vip Sports ⚡",NovaSports 2 🇬🇷
+http://146.59.85.40:89/novasport2/mono.m3u8
+#EXTINF:-1 cuid="1041" tvg-chno="1041" tvg-name="NovaSports 3 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport3.png" group-title="Vip Sports ⚡",NovaSports 3 🇬🇷
+http://146.59.85.40:89/novasport3/mono.m3u8
+#EXTINF:-1 cuid="1042" tvg-chno="1042" tvg-name="NovaSports 4 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport4.png" group-title="Vip Sports ⚡",NovaSports 4 🇬🇷
+http://146.59.85.40:89/novasport4/mono.m3u8
 #EXTINF:-1 group-title="MPD SPORT" tvg-id="袦邪褌褔! 肖褍褌斜芯谢 1" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -129,7 +165,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
 #EXTINF:-1 group-title="MPD SPORT" tvg-id="袦邪褌褔! 肖褍褌斜芯谢 2" tvg-logo="https://i.ibb.co.com/nQZWJ34/matchf2.png", MATCH! FOOTBALL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -137,7 +172,6 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
 https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
-
 #EXTINF:-1 group-title="MPD SPORT" tvg-id="袦邪褌褔! 肖褍褌斜芯谢 3" tvg-logo="https://i.ibb.co.com/rFx8z4t/matchf3.png", MATCH! FOOTBALL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -145,44 +179,37 @@ https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
-
 #EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://i.ibb.co.com/pKjvL3C/match4.png" group-title="MPD SPORT", MATCH4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="MPD SPORT", SETANTA SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png" group-title="MPD SPORT", NBC4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/T4dqdwR/nbcsp.png" group-title="MPD SPORT", ~~NBC SPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 2 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
