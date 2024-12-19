@@ -1,27 +1,19 @@
 #EXTINF:-1 cuid="540" tvg-chno="540" tvg-name="France 2 🇫🇷" tvg-id="France.2.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp" group-title="France Channels",France 2 🇫🇷
-http://51.178.65.238/France2/index.m3u8
-#EXTINF:-1 cuid="541" tvg-chno="541" tvg-name="France 2 🇫🇷" tvg-id="France.2.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp" group-title="France Channels",France 2 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 cuid="542" tvg-chno="542" tvg-name="France 3 🇫🇷" tvg-id="France.3.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp" group-title="France Channels",France 3 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+http://ottshow.net/live/kanaliURedirect2442/kd0dk39dkyxs0A/30986.ts
 #EXTINF:-1 cuid="543" tvg-chno="543" tvg-name="France 3 🇫🇷" tvg-id="France.3.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp" group-title="France Channels",France 3 🇫🇷
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/3.m3u8
 #EXTINF:-1 cuid="544" tvg-chno="544" tvg-name="France 4 🇫🇷" tvg-id="France.4.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png" group-title="France Channels",France 4 🇫🇷
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/14.m3u8
-#EXTINF:-1 cuid="545" tvg-chno="545" tvg-name="France 4 🇫🇷" tvg-id="France.4.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png" group-title="France Channels",France 4 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france4.m3u8
 #EXTINF:-1 cuid="546" tvg-chno="546" tvg-name="France 5 🇫🇷" tvg-id="France.5.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp" group-title="France Channels",France 5 🇫🇷
-http://69.64.57.208:8080/france5/playlist.m3u8
-#EXTINF:-1 cuid="547" tvg-chno="547" tvg-name="France 5 🇫🇷" tvg-id="France.5.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp" group-title="France Channels",France 5 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
+http://ottshow.net/live/kanaliURedirect2442/kd0dk39dkyxs0A/30995.ts
 #EXTINF:-1 cuid="550" tvg-chno="550" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="France Channels",M6 🇫🇷
-https://gitlab.com/movrey/movrel/-/raw/732c5b9670791228d114e0c9cecb656b8b9bd4c0/msixx.m3u8
+http://ottshow.net/live/kanaliURedirect2442/kd0dk39dkyxs0A/30987.ts
 #EXTINF:-1 cuid="555" tvg-chno="555" tvg-name="TFX 🇫🇷" tvg-id="TFX.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp" group-title="France Channels",TFX 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 cuid="556" tvg-chno="556" tvg-name="TMC 🇫🇷" tvg-id="TMC.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp" group-title="France Channels",TMC 🇫🇷
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 cuid="560" tvg-chno="560" tvg-name="6ter 🇫🇷" tvg-id="6ter.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp" group-title="France Channels",6ter 🇫🇷
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/22.m3u8
+http://ottshow.net/live/kanaliURedirect2442/kd0dk39dkyxs0A/30988.ts
 #EXTINF:-1 cuid="561" tvg-chno="561" tvg-name="TF1 🇫🇷" tvg-id="TF1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp" group-title="France Channels",TF1 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 cuid="565" tvg-chno="565" tvg-name="Emotion'L 🇫🇷" tvg-id="FRBB340000115" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png" group-title="France Channels",Emotion'L 🇫🇷
@@ -30,15 +22,7 @@ https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 #EXTINF:-1 cuid="567" tvg-chno="567" tvg-name="TF1 Series Films 🇫🇷" tvg-id="TF1.Séries-Films.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp" group-title="France Channels",TF1 Series Films 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1 cuid="568" tvg-chno="568" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="France Channels",C8 🇫🇷
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 cuid="569" tvg-chno="569" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="France Channels",C8 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/canalplus/c8.m3u8
-#EXTINF:-1 cuid="570" tvg-chno="570" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="France Channels",C8 🇫🇷
-#EXTINF:-1 cuid="568" tvg-chno="568" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="France Channels",C8 🇫🇷
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 cuid="569" tvg-chno="569" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="France Channels",C8 🇫🇷
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/canalplus/c8.m3u8
-#EXTINF:-1 cuid="575" tvg-chno="575" tvg-name="NRJ12" tvg-id="NRJ12.fr"om/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp" group-title="France Channels",RTL 9 🇫🇷
-http://onrev.xyz/SPIDER_NjKqYj/UrdiVGcB5A/187959 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="France Channels",NRJ12
+#EXTINF:-1 cuid="567" tvg-chno="567" tvg-name="nrj12 🇫🇷" tvg-id="nrj12.fr" tvg-logo="https://jesoutiensnrj12.nrj-play.fr/logo-nrj-2.png" group-title="France Channels",nrj12 🇫🇷
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
