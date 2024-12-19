@@ -15,27 +15,4 @@ http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/982.ts
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein8.png", BEIN SPORTS 8 4K
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3996.ts
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein9.png", BEIN SPORTS 9 4K
-h#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT EXTRA N
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT EXTRA N
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-##https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8ttp://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
-#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="beiN Sports 1 English 4k	" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-4k.png" group-title="AR BEIN SPORTS 4K",beiN Sports 1 English 4k	
-http://user.scalecdn.co:8080/live/19995634/79960700/659436.ts
-#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="beiN Sports 2 English 4K	" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-4k.png" group-title="AR BEIN SPORTS 4K",beiN Sports 2 English 4K	
-http://user.scalecdn.co:8080/live/19995634/79960700/659437.ts
-#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="beiN Sports 1 French 4K	" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-1-4K.png" group-title="AR BEIN SPORTS 4K",beiN Sports 1 French 4K	
-http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3933.ts
-#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="beiN Sports 2 French 4K	" tvg-logo="http://vodkom.com:25461/Logo/BEIN/fr-2-4k.png" group-title="AR BEIN SPORTS 4K",beiN Sports 2 French 4K	
-http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3934.ts
-#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS XTRA 1 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-4k.png" group-title="AR BEIN SPORTS 4K",BEIN SPORTS XTRA 1 4K
-http://user.scalecdn.co:8080/live/19995634/79960700/659444.ts
-#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 2 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-4k.png" group-title="AR BEIN SPORTS 4K",BEIN SPORTS XTRA 2 4K
-http://user.scalecdn.co:8080/live/19995634/79960700/659443.ts
-#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 3 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-4k.png" group-title="AR BEIN SPORTS 4K",BEIN SPORTS XTRA 3 4K
-http://user.scalecdn.co:8080/live/19995634/79960700/659444.ts
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/35.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", kyng 1
-#EXTVLCOPT:http-referrer=https://www.yariga.live
-#EXTVLCOPT:http-origin=https://www.yariga.live
-https://4char.site/upload/images/logo1.zip
+http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4001.ts
