@@ -30,25 +30,25 @@ http://user.scalecdn.co:8080/live/19995634/79960700/659442.m3u8
 http://user.scalecdn.co:8080/live/19995634/79960700/659443.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWXoPxpPKr859FaJD70CVD9E.png", BEIN SPORT 3 XTRA FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BEIN SPORTS 1 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/988.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein2.png", BEIN SPORTS 2 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png", BEIN SPORTS 2 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/987.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein3.png", BEIN SPORTS 3 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png", BEIN SPORTS 3 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/986.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein4.png", BEIN SPORTS 4 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd", BEIN SPORTS 4 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/985.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein5.png", BEIN SPORTS 5 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd", BEIN SPORTS 5 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/984.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein6.png", BEIN SPORTS 6 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd", BEIN SPORTS 6 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/983.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein7.png", BEIN SPORTS 7 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd", BEIN SPORTS 7 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/982.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein8.png", BEIN SPORTS 8 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd", BEIN SPORTS 8 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3996.ts
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein9.png", BEIN SPORTS 9 4K
+#EXTINF:-1 group-title="BEIN SPORTS fhd" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd", BEIN SPORTS 9 fhd
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
-#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
 http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/1120431.ts
 #EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD
 http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/1120430.ts
@@ -68,20 +68,6 @@ http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/1120424.ts
 http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/1120423.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 1 MINI
 http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544491.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 2 MINI
-http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544490.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 3 MINI
-http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544489.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 4 MINI
-http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544488.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 5 MINI
-http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544487.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 6 MINI
-http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544486.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 7 MINI
-http://enzyme79842.cdngold.me/live/c851652e4f/ec8aa75ad1/544485.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORT MINI",beIN SPORTS 8 MINI
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT MINI",beIN SPORTS 9 MINI
 https://cdnvideo.webvideocore.net/enc4_ljhjp3lgcuhv4hkvghkde36g86n59jilce5nluak5vk90jbje7l9783gtfdai9lfvtffqured6c790tl3lhd3g009c74abm8tmu89u1dkn2arcptpabp501rl5q5ve3br/index.m3u8?clip_id=afokgbq2q6o8
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png", AD SPORTS PREMIUM 1
