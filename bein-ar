@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein22.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 4K
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-4k.png", BEIN SPORTS 4K
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
 
