@@ -160,15 +160,6 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 cuid="176" tvg-chno="184" tvg-name="Eleven sports 4 🇵🇱" tvg-id="Eleven.Sports.4.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",Eleven sports 4 🇵🇱
 http://178.219.128.68:64888/ELEVSPOR4HD
-#EXTINF:-1 tvg-name="novasport 2" group-title="MPD SPORT" tvg-logo="https://logo.iptveditor.com/novasport2.png", novasport
-2 
-http://146.59.85.40:89/novasport2/mono.m3u8
-#EXTINF:-1 tvg-name="novasport 3" group-title="MPD SPORT" tvg-logo="https://logo.iptveditor.com/novasport2.png", novasport
-3 
-http://146.59.85.40:89/novasport3/mono.m3u8
-#EXTINF:-1 tvg-name="novasport 4" group-title="MPD SPORT" tvg-logo="https://logo.iptveditor.com/novasport2.png", novasport
-4 
-http://146.59.85.40:89/novasport4/mono.m3u8
 #EXTINF:-1 group-title="MPD SPORT" tvg-id="袦邪褌褔! 肖褍褌斜芯谢 1" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -211,18 +202,27 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 1 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 2 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="MPD SPORT" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", Ziggo 6 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://ipla.pluscdn.pl/img/p/OfEcbhuvEo4c/320x-/p/cms_thumbnails/45/45hqczb8phjhijhggz3ah3hmp3fwt83a.png", Eleven_Sports 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8
+#EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://ipla.pluscdn.pl/img/p/vyY34aiQpeAX/320x-/p/cms_thumbnails/5a/5a4ij6o3p92jz7ouddhznz2jho7oz75u.png", Eleven_Sports 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8
+#EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://ipla.pluscdn.pl/img/p/_f1i9oCQNY09/320x-/p/cms_thumbnails/nz/nzq1bfshichtpfj9wwo3zbihrx9jxajy.png", Eleven_Sports 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
+#EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://ipla.pluscdn.pl/img/p/LZ1xDw0yV1S2/320x-/p/cms_thumbnails/1n/1nramuypf2qzce26e5j7b27c4xuipus7.png", Eleven_Sports 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
+#EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/70029/ncplus-ouah/CHN43FN/CANALSport_new", canal sport
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8
+#EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/70029/ncplus-ouah/CHN43FN/CANALSport_new", canal sport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
