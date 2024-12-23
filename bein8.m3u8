@@ -152,11 +152,14 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 cuid="176" tvg-chno="184" tvg-name="Eleven sports 4 🇵🇱" tvg-id="Eleven.Sports.4.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",Eleven sports 4 🇵🇱
 http://178.219.128.68:64888/ELEVSPOR4HD
-#EXTINF:-1 cuid="1040" tvg-chno="1040" tvg-name="NovaSports 2 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport2.png" group-title="Vip Sports ⚡",NovaSports 2 🇬🇷
+#EXTINF:-1 tvg-name="novasport 2" group-title="MPD SPORT" tvg-logo="https://logo.iptveditor.com/novasport2.png", novasport
+2 
 http://146.59.85.40:89/novasport2/mono.m3u8
-#EXTINF:-1 cuid="1041" tvg-chno="1041" tvg-name="NovaSports 3 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport3.png" group-title="Vip Sports ⚡",NovaSports 3 🇬🇷
+#EXTINF:-1 tvg-name="novasport 3" group-title="MPD SPORT" tvg-logo="https://logo.iptveditor.com/novasport2.png", novasport
+3 
 http://146.59.85.40:89/novasport3/mono.m3u8
-#EXTINF:-1 cuid="1042" tvg-chno="1042" tvg-name="NovaSports 4 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport4.png" group-title="Vip Sports ⚡",NovaSports 4 🇬🇷
+#EXTINF:-1 tvg-name="novasport 4" group-title="MPD SPORT" tvg-logo="https://logo.iptveditor.com/novasport2.png", novasport
+4 
 http://146.59.85.40:89/novasport4/mono.m3u8
 #EXTINF:-1 group-title="MPD SPORT" tvg-id="袦邪褌褔! 肖褍褌斜芯谢 1" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
