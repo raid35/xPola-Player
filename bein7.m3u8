@@ -1,9 +1,15 @@
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 1" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png" group-title="SPORT FR",FR | BEIN SPORT 1
-http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3933.ts
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 2" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png" group-title="SPORT FR",FR | BEIN SPORT 2
-http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/3934.ts
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="بين سبور فرنسية | BEIN SPORT 3" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein3.png" group-title="SPORT FR",FR | BEIN SPORT 3
-http://user.scalecdn.co:8080/live/19995634/79960700/607904.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="بين سبور فرنسية | BEIN SPORT MAX 4" tvg-logo="https://i.ibb.co/txzTNNL/beinmax4.png" group-title="SPORT FR",FR | BEIN SPORT MAX 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","b6d0b6217c70b0f705002a070771b084":"746c02d1e6884fe2e4411624ba055528","d1140f0b87723297fc1a3820d989537f":"37c78b5fbbd97216b4813e135ab2c1ea"}
