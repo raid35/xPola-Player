@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="canalplusfoot.🇫🇷" tvg-name="كنال بليس سبور FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT 🇫🇷",CANAL+ FOOT
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/4263.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
 #EXTINF:-1 tvg-id="canalplussport360.🇫🇷" tvg-name="كنال بليس سبور SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT 🇫🇷",CANAL+ SPORT360
 https://stream1.freetv.fun/canal-plus-foot360web-1.ctv 
 #EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="كنال بليس سبور LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
