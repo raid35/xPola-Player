@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
 #EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://logodix.com/logo/2195607.png",  بين  سبور
 #EXTVLCOPT:http-player-type=m3u
-https://github.com/raid35/xPola-Player/blob/main/bein10.m3u8
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein10.m3u8
 
 #EXTINF:-1 group-title="ابوظبي الرياضية برميوم" tvg-logo="https://cdn.alweb.com/thumbs/uaeencyclopedia/article/fit710x532/%D9%85%D9%86-%D8%B5%D9%85%D9%85-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.jpg", ابوظبي الرياضية برميوم
 #EXTVLCOPT:http-player-type=m3u
