@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg", الجزائر
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
+
 #EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://logodix.com/logo/2195607.png",  بين  سبور
 #EXTVLCOPT:http-player-type=m3u
 https://github.com/raid35/xPola-Player/blob/main/bein10.m3u8
@@ -37,6 +41,14 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/documenter
 #EXTINF:-1 group-title="STC TV" tvg-logo="https://www.leaders-mena.com/leaders/uploads/2024/01/IMG-20240105-WA00181-780x470.jpg", STC TV
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/stc
+
+#EXTINF:-1 group-title="اوسان" tvg-logo="https://www.screennearyou.com/wp-content/uploads/2023/07/og-logo-osntv.webp?resize=681", اوسان
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/osn
+
+#EXTINF:-1 group-title="بين ترفهية" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-movies-logo.png", بين ترفهية
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinm
 
 #EXTINF:-1 group-title="افلام و مسلسلات" tvg-logo="https://img.youm7.com/ArticleImgs/2019/12/27/2747322-%D8%A7%D9%81%D9%84%D8%A7%D9%85.jpg", افلام و مسلسلات
 #EXTVLCOPT:http-player-type=m3u
