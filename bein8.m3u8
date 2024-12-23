@@ -134,32 +134,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
-#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="V Sport Vinter 🇸🇪" tvg-id="V.Sport.Vinter.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport Vinter 🇸🇪
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
-#EXTINF:-1 cuid="1003" tvg-chno="1003" tvg-name="V Sport 🇸🇪" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 🇸🇪
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
-#EXTINF:-1 cuid="1004" tvg-chno="1004" tvg-name="V Sport 1 🇸🇪" tvg-id="V.Sport.Live.1.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 1 🇸🇪
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium597/index.m3u8
-#EXTINF:-1 cuid="1005" tvg-chno="1005" tvg-name="V Sport 2 🇸🇪" tvg-id="V.Sport.Live.2.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 2 🇸🇪
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium582/index.m3u8
-#EXTINF:-1 cuid="1006" tvg-chno="1006" tvg-name="V Sport 3 🇸🇪" tvg-id="V.Sport.Live.3.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 3 🇸🇪
-http://62.210.211.188:2095/play/a004
-#EXTINF:-1 cuid="1007" tvg-chno="1007" tvg-name="V Sport 4 🇸🇪" tvg-id="V.Sport.Live.4.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports ⚡",V Sport 4 🇸🇪
-http://62.210.211.188:2095/play/a005
-#EXTINF:-1 cuid="1011" tvg-chno="1011" tvg-name="Sky Sports Bundesliga 🇪🇸🇩🇪" tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://seeklogo.com/images/B/bundesliga-logo-03A7CC2961-seeklogo.com.png" group-title="Vip Sports ⚡",Sky Sports Bundesliga 🇪🇸🇩🇪
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 cuid="170" tvg-chno="178" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
-http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
-#EXTINF:-1 cuid="176" tvg-chno="184" tvg-name="Eleven sports 4 🇵🇱" tvg-id="Eleven.Sports.4.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",Eleven sports 4 🇵🇱
-http://178.219.128.68:64888/ELEVSPOR4HD
 #EXTINF:-1 group-title="MPD SPORT" tvg-id="袦邪褌褔! 肖褍褌斜芯谢 1" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -213,7 +187,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8
 #EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://ipla.pluscdn.pl/img/p/_f1i9oCQNY09/320x-/p/cms_thumbnails/nz/nzq1bfshichtpfj9wwo3zbihrx9jxajy.png", Eleven_Sports 3
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium428/index.m3u8
 #EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://ipla.pluscdn.pl/img/p/LZ1xDw0yV1S2/320x-/p/cms_thumbnails/1n/1nramuypf2qzce26e5j7b27c4xuipus7.png", Eleven_Sports 4
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -225,4 +199,4 @@ https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8
 #EXTINF:-1 group-title="Eleven_Sports 🇵🇱" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/70029/ncplus-ouah/CHN43FN/CANALSport_new", canal sport 2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
