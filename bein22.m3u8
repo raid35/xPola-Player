@@ -39,7 +39,39 @@ http://user.scalecdn.co:8080/live/19995634/79960700/659443.ts
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.ts
 #EXTINF:-1 xui-id="23" tvg-id="" tvg-name="beIN SP NBA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-
 http://user.scalecdn.co:8080/live/19995634/79960700/659482.ts
-#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", BeIN Sports 1 
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png", BeIN Sports 1 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png", BeIN Sports 2 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png", BeIN Sports 3 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png", BeIN Sports 4 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png", BeIN Sports 5 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png", BeIN Sports 6 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png", BeIN Sports 7 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png", BeIN Sports 8 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png", BeIN Sports 9  
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
