@@ -12,12 +12,12 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1346.ts
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1347.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 K4" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1 K4
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1359.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Action K4" tvg-logo="https://besttvps.com/app/tv/news/panel/foxactionmovies.png" group-title="Fox Network",beIN Fox Action K4
-http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1355.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_BOX_OFFICE_1HD" tvg-logo="https://www.cne-eg.com/uploads/BO_1-2.png" group-title="BEIN ENTERTAINMENT",BEIN_BOX_OFFICE_1HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_BOX_OFFICE_2HD" tvg-logo="https://www.cne-eg.com/uploads/BO_2-2.png" group-title="BEIN ENTERTAINMENT",BEIN_BOX_OFFICE_2HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2250.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN BOX OFFICE 1 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_BOX_OFFICE_1_HD.png" group-title="BEIN ENTERTAINMENT",|AR| BEIN BOX OFFICE 1 HD
+http://m3u.pro:88/live/02082987284221/6aoZHMXgQdh3ClD/672399.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN BOX OFFICE 2 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_BOX_OFFICE_2_HD.png" group-title="BEIN ENTERTAINMENT",|AR| BEIN BOX OFFICE 2 HD
+http://m3u.pro:88/live/02082987284221/6aoZHMXgQdh3ClD/672400.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN BOX OFFICE 3 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/" group-title="BEIN ENTERTAINMENT",|AR| BEIN BOX OFFICE 3 HD
+http://m3u.pro:88/live/02082987284221/6aoZHMXgQdh3ClD/672401.m3u8
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BeIN_MOVIES_007_HD.jpg/120px-BeIN_MOVIES_007_HD.jpg" tvg-name="BEIN_BOX_OFFICE_3HD" tvg-logo="" group-title="BEIN ENTERTAINMENT",BEIN_BOX_OFFICE_3HD
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OS: osn box office 1" tvg-logo="https://media0026.elcinema.com/tvguide/1293_1.png" group-title="OSN",OS: osn box office 1
