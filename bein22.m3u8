@@ -39,3 +39,7 @@ http://user.scalecdn.co:8080/live/19995634/79960700/659443.ts
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.ts
 #EXTINF:-1 xui-id="23" tvg-id="" tvg-name="beIN SP NBA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-
 http://user.scalecdn.co:8080/live/19995634/79960700/659482.ts
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="MPD SPORT" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", BeIN Sports 1 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
