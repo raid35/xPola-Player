@@ -17,3 +17,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tnt-fr
 #EXTINF:-1 group-title=" سينما" tvg-logo="https://play-lh.googleusercontent.com/NRiP5szsVbIwzLTY5cWY-lmGhw12W5dqWBbKAQwToZf4fbh_Xd1FqJYUNyFnNWaFmw=s94-rw", سينما
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/cinma-fr
+
+#EXTINF:-1 group-title=" بلجيكا" tvg-logo="https://th.bing.com/th/id/OIP.XAq5P_BT273rMb9rn9f6-wHaE8?w=1024&h=683&rs=1&pid=ImgDetMain", بلجيكا
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/belig
