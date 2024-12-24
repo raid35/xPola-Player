@@ -1,92 +1,40 @@
-#EXTINF:-1 tvg-id="" tvg-name="FR | AB1 HD" tvg-logo="" group-title="FR CANAL PLAY",FR | AB1 HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/7475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | RTL 9 HD" tvg-logo="" group-title="FR CANAL PLAY",FR | RTL 9 HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/7476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  13EME RUE" tvg-logo="" group-title="FR CANAL PLAY",|FR|  13EME RUE
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/4131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDY CENTRAL FRANCE FHD" tvg-logo="" group-title="FR CANAL PLAY",|FR| COMEDY CENTRAL FRANCE FHD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/8987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+" tvg-logo="" group-title="FR CANAL PLAY",|FR| COMEDIE+
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/8988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | SYFY HD" tvg-logo="" group-title="FR CANAL PLAY",FR | SYFY HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/7477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR. WARNER HD" tvg-logo="" group-title="FR CANAL PLAY",FR. WARNER HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:  NOVELAS HD" tvg-logo="" group-title="FR CANAL PLAY",FR:  NOVELAS HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Juste pour Rire" tvg-logo="" group-title="FR CANAL PLAY",Juste pour Rire
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hélène et les garçons" tvg-logo="" group-title="FR CANAL PLAY",Hélène et les garçons
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Les Années fac" tvg-logo="" group-title="FR CANAL PLAY",Les Années fac
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Génération Sitcoms" tvg-logo="" group-title="FR CANAL PLAY",Génération Sitcoms
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Y'a que la vérité qui compte" tvg-logo="" group-title="FR CANAL PLAY",Y'a que la vérité qui compte
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/5636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 1" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 1
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 2" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 2
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 3" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 3
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 4" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 4
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 5" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="FR BOX OFFICE",|FR| CANAL PLAY 5
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="----------- CHAINES A LA CARTE -----------" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",----------- CHAINES A LA CARTE -----------
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 1" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 1
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 2" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 2
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 3" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 3
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 4" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 4
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 5" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 5
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 6" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 6
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 7" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 7
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 8" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 8
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 9" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 9
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  A LA CARTE 10" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="FR BOX OFFICE",|FR|  A LA CARTE 10
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/1034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 1" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 1
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 2" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 2
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 3" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 3
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 4" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 4
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 5" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 5
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 6" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 6
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 7" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 7
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 8" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 8
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 9" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 9
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FRANCE NETFLIX BONUSTV 10" tvg-logo="https://i.hizliresim.com/j7d7osm.png" group-title="FR BOX OFFICE",FR:FRANCE NETFLIX BONUSTV 10
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 1 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 1 (FR)
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 2 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 2 (FR)
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 3 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 3 (FR)
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 4 (FR)" tvg-logo="" group-title="FR BOX OFFICE",CA | SUPER ECRAN 4 (FR)
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 1 FHD" tvg-logo="" group-title="FR BOX OFFICE",|FR| MULTIVISON 1 FHD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 2 FHD" tvg-logo="" group-title="FR BOX OFFICE",|FR| MULTIVISON 2 FHD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 3 FHD" tvg-logo="" group-title="FR BOX OFFICE",|FR| MULTIVISON 3 FHD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/9997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS PREMIERE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS PREMIERE FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS SIGNATURE FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS ORIGINALS of FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS ORIGINALS of FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS US +24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS US +24 FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE SERIES FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE SERIES FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE PREMIUM FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE PREMIUM FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CLUB FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE CLUB FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE STUDIO FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE STUDIO FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE LA UNE FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE LA UNE FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE LA DEUX FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE LA DEUX FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE ACTION FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE ACTION FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SFR TV FHD" tvg-logo="https://i.ibb.co/x7LZGc3/SFR-TV-max-640x640-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| SFR TV FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 1 FHD" tvg-logo="https://i.ibb.co/5Yq5r9W/Multivision-logo-2005-ezgif-com-webp-to-png-converter.png" group-title="FRANCE ☆ FHD",|FR| MULTIVISON 1 FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 2 FHD" tvg-logo="https://i.ibb.co/5Yq5r9W/Multivision-logo-2005-ezgif-com-webp-to-png-converter.png" group-title="FRANCE ☆ FHD",|FR| MULTIVISON 2 FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 3 FHD" tvg-logo="https://i.ibb.co/5Yq5r9W/Multivision-logo-2005-ezgif-com-webp-to-png-converter.png" group-title="FRANCE ☆ FHD",|FR| MULTIVISON 3 FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FILMOTV FHD" tvg-logo="https://i.ibb.co/1QwdJG6/filmotv-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| FILMOTV FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SALTO PREMIUM FHD" tvg-logo="https://i.ibb.co/1JndFsv/salto-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| SALTO PREMIUM FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SALTO TV FHD" tvg-logo="https://i.ibb.co/1JndFsv/salto-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| SALTO TV FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX PREMIUM FHD" tvg-logo="http://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/netflix-regarder.png" group-title="FRANCE ☆ FHD",|FR| NETFLIX PREMIUM FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Drive-in Movie Channel FHD" tvg-logo="https://i.ibb.co/rMfXvCp/Logo-Drivein-Movie-Channel.png" group-title="FRANCE ☆ FHD",|FR| Drive-in Movie Channel FHD
+http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/123939.m3u8
