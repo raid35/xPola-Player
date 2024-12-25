@@ -18,13 +18,6 @@ http://user.scalecdn.co:8080/live/19995634/79960700/659433.ts
 http://user.scalecdn.co:8080/live/19995634/79960700/659434.ts
 #EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png", BEIN SPORTS 9 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659435.ts
-#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="beIN SP 1 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FHD
-https://raw.githubusercontent.com/raid35/xPola-Player/main/bein10.m3u8
-h#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT EXTRA N
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT EXTRA N
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-##https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8ttp://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/4000.ts
 #EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="beiN Sports 1 English 4k	" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-fhd.png" group-title="AR BEIN SPORTS 4K",beiN Sports 1 English FHD	
 http://user.scalecdn.co:8080/live/19995634/79960700/659436.ts
 #EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="beiN Sports 2 English 4K	" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-fhd.png" group-title="AR BEIN SPORTS 4K",beiN Sports 2 English FHD	
@@ -77,3 +70,19 @@ https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="BeIn Sports",AR | BEIN SPORTS 1 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366632.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="BeIn Sports",AR | BEIN SPORTS 2 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366633.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="BeIn Sports",AR | BEIN SPORTS 3 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366634.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5082.png" group-title="BeIn Sports",AR | BEIN SPORTS 4 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366635.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5083.png" group-title="BeIn Sports",AR | BEIN SPORTS 5 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366636.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="BeIn Sports",AR | BEIN SPORTS 6 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366637.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5085.png" group-title="BeIn Sports",AR | BEIN SPORTS 7 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366638.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5086.png" group-title="BeIn Sports",AR | BEIN SPORTS 8 FHD
+http://sitehwmcs.live:8080/live/Mathias407020/407020Mathias/366639.ts
