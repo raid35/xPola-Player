@@ -60,3 +60,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/film
 #EXTINF:-1 group-title="BEIN4K" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwEBwYEBwcEBwcDBwcDBgYAAAZrUAn1tRDgpw/CkA2YcguHZgtbRQn/xBH/vxGqfgxGNggmHgcFBwcFBwYEBwfHNTu0AAAAFnRSTlMAZcT1/y3/////////////////wCa46m/eqwAAAPtJREFUeAGNkgUCwyAQBIktfkfs/18tW1fSiSA3OIZ0/TB+MPSduTCNP5mu8bYxNqnjt4XO9G2hN0NbGMx4wD8CfnEVYB3xIaYcPbPXcsZVCCKq6kNJXlTuqARce4gpqkY7exWfbkSnUnCbwyyakUUDKsuygFR/QRUqFCyCKsCStTMulfFF8OrBEmJJFCBa3npwFyH4QmF5F6KIZcCK1B6AopJfBKjyb2sCYCnCIV8EKyqqwoZFpHrLQ2DvNfFS8TPANDB+FRZrWQJmZsCVZgCP0wRLhEGmNcH/x93m+MqtbWE9vvZmaI9gzNYSNkNj+NmecdLtX5xh7xg7ATAyGB4go0ToAAAAAElFTkSuQmCC", tod 1
 #EXTVLCOPT:http-player-type=webplayer
 https://www.yariga.live/?1
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", match-today
+#EXTVLCOPT:http-player-type=browser
+http://het133a.4rouwanda-shop.store/live/918454578001/index.m3u8
