@@ -14,7 +14,7 @@ https://master.c.scdns.io/stream/v2/SCrt1gHNzX-HUqth6wXRqg/1735361089/normal/0/1
 https://master.c.scdns.io/stream/v2/TbkOTxGnIsnf8eXUGn4QaA/1735361604/normal/0/105.104.190.196/no/631cec8e6452ea21917b9603f8abd91f/www.faselhds.care/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="return-2024" tvg-logo="https://www.faselhds.care/wp-content/uploads/2024/12/ffb052276b1b4ded82679aaa92629cd4.jpg" group-title="English Movies 2024 - أفلام أجنبية",return-2024
 https://master.c.scdns.io/stream/v2/VxTBoYcHPNueyRcEFUKwvw/1735361740/normal/0/105.104.190.196/no/b00dfbdd48c5aaf217629b9b74dce4b6/www.faselhds.care/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bhairathi-ranagal-2024-" tvg-logo="https://www.faselhds.care/wp-content/uploads/2024/12/4f5b1e00179a7c9333f711367efa12eb.jpg" group-title="English Movies 2024 أفلام أجنبية",bhairathi-ranagal-2024-
+#EXTINF:-1 tvg-id="" tvg-name="bhairathi-ranagal-2023-" tvg-logo="https://www.faselhds.care/wp-content/uploads/2024/12/4f5b1e00179a7c9333f711367efa12eb.jpg" group-title="English Movies 2024 أفلام أجنبية",bhairathi-ranagal-2024-
 https://master.c.scdns.io/stream/v2/MSMdRNg3LAdFyFu0LP3Yog/1735361855/normal/0/105.104.190.196/no/870664348e3d7dff38159ab4b30926d1/www.faselhds.care/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="gold-journey-idris-elba-2023" tvg-logo="https://www.faselhds.care/wp-content/uploads/2024/12/4f5b1e00179a7c9333f711367efa12eb.jpg" group-title="English Movies 2023 - أفلام أجنبية",gold-journey-idris-elba-2023
 https://master.c.scdns.io/stream/v2/MSMdRNg3LAdFyFu0LP3Yog/1735361855/normal/0/105.104.190.196/no/870664348e3d7dff38159ab4b30926d1/www.faselhds.care/master.m3u8
@@ -48,72 +48,4 @@ https://vod3.cf.dmcdn.net/sec2(HBhb7-DivKczw0eNBJMeLfL01NTdHydgolXdGocWgLieIIdk6
 https://vod3.cf.dmcdn.net/sec2(cPb-96k9RnjT5h0enhlMa5WqSuMxa6wIZKyv38O2Kvn-UONeH_vAbgCeavv0LuKPMDABev5lg9Q3tfjwW5T4zHZAi3MXFGnaY2gJ-xODioi33vhVA-wJtx4Ez-EcjO058TathjMv9vvJqbRM3u7OdGoiUSRX0P0n5RTuftBlBCw)/video/861/893/558398168_mp4_h264_aac_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="hounds-2023" tvg-logo="https://upimg.my/apis/c939e8cc-023c-4357-8c24-4eb69bb2e861/movies/19510.webp" group-title="English Movies 2023 - أفلام أجنبية",hounds-2023
 https://no9x-08.ukra1.shop/hls/,pdoml53rogm4f4kmlffsdoleeiobosq72py5xq5ebkaknq3pfb2yfbledx5a,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 1" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 1
-http://portal-iptv.net:8080/live/885532321088/885532321088/31151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 2" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 2
-http://portal-iptv.net:8080/live/885532321088/885532321088/31152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 3" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 3
-http://portal-iptv.net:8080/live/885532321088/885532321088/31153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 4" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 4
-http://portal-iptv.net:8080/live/885532321088/885532321088/31154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 5" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 5
-http://portal-iptv.net:8080/live/885532321088/885532321088/31155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 6" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 6
-http://portal-iptv.net:8080/live/885532321088/885532321088/31156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 7" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 7
-http://portal-iptv.net:8080/live/885532321088/885532321088/31157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 8" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 8
-http://portal-iptv.net:8080/live/885532321088/885532321088/31158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX - ENGLISH 9" tvg-logo="http://portal-iptv.net:8080/images/Netflix_10.png" group-title="NETFLIX",NETFLIX - ENGLISH 9
-http://portal-iptv.net:8080/live/885532321088/885532321088/31159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 1" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 1
-http://portal-iptv.net:8080/live/885532321088/885532321088/33995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 2" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 2
-http://portal-iptv.net:8080/live/885532321088/885532321088/33996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 3" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 3
-http://portal-iptv.net:8080/live/885532321088/885532321088/33997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 4" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 4
-http://portal-iptv.net:8080/live/885532321088/885532321088/33998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 5" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 5
-http://portal-iptv.net:8080/live/885532321088/885532321088/33999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 6" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 6
-http://portal-iptv.net:8080/live/885532321088/885532321088/34000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 7" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 7
-http://portal-iptv.net:8080/live/885532321088/885532321088/34001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 8" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 8
-http://portal-iptv.net:8080/live/885532321088/885532321088/34002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 9" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 9
-http://portal-iptv.net:8080/live/885532321088/885532321088/34003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX MOVIES 10" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX MOVIES 10
-http://portal-iptv.net:8080/live/885532321088/885532321088/34004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 1" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 1
-http://portal-iptv.net:8080/live/885532321088/885532321088/28610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 2" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 2
-http://portal-iptv.net:8080/live/885532321088/885532321088/28611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 3" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 3
-http://portal-iptv.net:8080/live/885532321088/885532321088/28612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 4" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 4
-http://portal-iptv.net:8080/live/885532321088/885532321088/28613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 5" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 5
-http://portal-iptv.net:8080/live/885532321088/885532321088/28614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 6" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 6
-http://portal-iptv.net:8080/live/885532321088/885532321088/28615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 7" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 7
-http://portal-iptv.net:8080/live/885532321088/885532321088/28616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 8" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 8
-http://portal-iptv.net:8080/live/885532321088/885532321088/28617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 9" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 9
-http://portal-iptv.net:8080/live/885532321088/885532321088/28618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 10" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 10
-http://portal-iptv.net:8080/live/885532321088/885532321088/28619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 11" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 11
-http://portal-iptv.net:8080/live/885532321088/885532321088/28620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 12" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 12
-http://portal-iptv.net:8080/live/885532321088/885532321088/28609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 13" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 13
-http://portal-iptv.net:8080/live/885532321088/885532321088/28584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 14" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 14
-http://portal-iptv.net:8080/live/885532321088/885532321088/28591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX BOX OFFICE 15" tvg-logo="http://portal-iptv.net:8080/images/SKYFLIX.png" group-title="SKYFLIX",SKYFLIX BOX OFFICE 15
-http://portal-iptv.net:8080/live/885532321088/885532321088/28593.m3u8
 
