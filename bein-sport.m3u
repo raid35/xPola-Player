@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/stc
 #EXTINF:-1 group-title="افلام و مسلسلات" tvg-logo="https://img.youm7.com/ArticleImgs/2019/12/27/2747322-%D8%A7%D9%81%D9%84%D8%A7%D9%85.jpg", افلام و مسلسلات
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/film
-#EXTINF:-1 group-title="BEIN4K" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwEBwYEBwcEBwcDBwcDBgYAAAZrUAn1tRDgpw/CkA2YcguHZgtbRQn/xBH/vxGqfgxGNggmHgcFBwcFBwYEBwfHNTu0AAAAFnRSTlMAZcT1/y3/////////////////wCa46m/eqwAAAPtJREFUeAGNkgUCwyAQBIktfkfs/18tW1fSiSA3OIZ0/TB+MPSduTCNP5mu8bYxNqnjt4XO9G2hN0NbGMx4wD8CfnEVYB3xIaYcPbPXcsZVCCKq6kNJXlTuqARce4gpqkY7exWfbkSnUnCbwyyakUUDKsuygFR/QRUqFCyCKsCStTMulfFF8OrBEmJJFCBa3npwFyH4QmF5F6KIZcCK1B6AopJfBKjyb2sCYCnCIV8EKyqqwoZFpHrLQ2DvNfFS8TPANDB+FRZrWQJmZsCVZgCP0wRLhEGmNcH/x93m+MqtbWE9vvZmaI9gzNYSNkNj+NmecdLtX5xh7xg7ATAyGB4go0ToAAAAAElFTkSuQmCC", tod 1
-#EXTVLCOPT:http-player-type=webplayer
-https://www.yariga.live/?1
+
+#EXTINF:-1 tvg-logo="https://egydead.watch/wp-content/uploads/2024/12/%D9%81%D9%8A%D9%84%D9%85-A-Nightmare-on-Elm-Street-2010-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-225x280.jpg", افلام
+#EXTVLCOPT:http-player-type=browser
+https://egydead.watch/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/
