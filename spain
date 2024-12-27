@@ -1,3 +1,11 @@
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", Movistar Liga de Campeones
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://ssr.col.movistar.es/static/pictures/tv/futbol/laligatv-temporada-23-24-1920w.avif?w=1920&oe=png", Movistar Laliga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium484/index.m3u8
 #EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN LaLiga
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
