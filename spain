@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
-#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://ssr.col.movistar.es/static/pictures/tv/futbol/laligatv-temporada-23-24-1920w.avif?w=1920&oe=png", Movistar Laliga
+#EXTINF:-1 group-title="DAZN 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png", Movistar Laliga
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium484/index.m3u8
