@@ -1,9 +1,25 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 1 1080
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://het107a.4rouwanda- shop.store/live/918454578001/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 2 1080
+http://het110a.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 3 1080
+http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 1 720
+http://het107a.4rouwanda-
+shop.store/live/918454578001/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 2 720
+http://het106a.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 3 720
+http://het124a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 1 480
 http://het129a.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 2 480
+http://het110a.4rouwanda-shop.store/live/10011244/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 3 480
+http://het128a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 1 240
 http://het114a.4rouwanda-shop.store/live/31009988005/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 2 240
+http://het101a.4rouwanda-shop.store/live/4798998070/index.m3u8
+#EXTINF:-1 group-title="yacine tv" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", BEIN 3 240
+http://het127a.4rouwanda-shop.store/live/161988840/index.m3u8
