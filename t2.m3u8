@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="canalplus.fr" tvg-name="┃FR┃ CANAL+ FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ FHD
-http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/6004/index.m3u8
+referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium121/index.m3u8
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="┃FR┃ CANAL+ CINEMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA FHD
 http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/6003/index.m3u8
 #EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="┃FR┃ CANAL+ SERIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES FHD
