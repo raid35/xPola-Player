@@ -1,40 +1,100 @@
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS PREMIERE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS PREMIERE FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS SIGNATURE FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS ORIGINALS of FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS ORIGINALS of FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS US +24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/OCS_logo.png" group-title="FRANCE ☆ FHD",|FR| OCS US +24 FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE SERIES FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE SERIES FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE PREMIUM FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE PREMIUM FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CLUB FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE CLUB FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/258860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE STUDIO FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE STUDIO FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE LA UNE FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE LA UNE FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE LA DEUX FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE LA DEUX FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE ACTION FHD" tvg-logo="https://i.ibb.co/hgs24SK/Logo-orange-cinema-series.png" group-title="FRANCE ☆ FHD",|FR| ORANGE ACTION FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SFR TV FHD" tvg-logo="https://i.ibb.co/x7LZGc3/SFR-TV-max-640x640-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| SFR TV FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 1 FHD" tvg-logo="https://i.ibb.co/5Yq5r9W/Multivision-logo-2005-ezgif-com-webp-to-png-converter.png" group-title="FRANCE ☆ FHD",|FR| MULTIVISON 1 FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 2 FHD" tvg-logo="https://i.ibb.co/5Yq5r9W/Multivision-logo-2005-ezgif-com-webp-to-png-converter.png" group-title="FRANCE ☆ FHD",|FR| MULTIVISON 2 FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTIVISON 3 FHD" tvg-logo="https://i.ibb.co/5Yq5r9W/Multivision-logo-2005-ezgif-com-webp-to-png-converter.png" group-title="FRANCE ☆ FHD",|FR| MULTIVISON 3 FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FILMOTV FHD" tvg-logo="https://i.ibb.co/1QwdJG6/filmotv-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| FILMOTV FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SALTO PREMIUM FHD" tvg-logo="https://i.ibb.co/1JndFsv/salto-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| SALTO PREMIUM FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SALTO TV FHD" tvg-logo="https://i.ibb.co/1JndFsv/salto-removebg-preview.png" group-title="FRANCE ☆ FHD",|FR| SALTO TV FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX PREMIUM FHD" tvg-logo="http://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/netflix-regarder.png" group-title="FRANCE ☆ FHD",|FR| NETFLIX PREMIUM FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/259298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| Drive-in Movie Channel FHD" tvg-logo="https://i.ibb.co/rMfXvCp/Logo-Drivein-Movie-Channel.png" group-title="FRANCE ☆ FHD",|FR| Drive-in Movie Channel FHD
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/123939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 1 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 2 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 3 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 4 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 5 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 6 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 7 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 8 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 9 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 10 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 11 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 12 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 13 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 14 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 15 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 16 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 17 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 18 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ CANAL+ BOXOFFICE 19 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE",┃FR┃ CANAL+ BOXOFFICE 19 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE INFO HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 1 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 2 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 3 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 4 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 5 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 6 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 7 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 8 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 9 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 10 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 11 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 12 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ NETFLIX PREMIERE 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE",┃FR┃ NETFLIX PREMIERE 13 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER INFO HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER 1 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER 2 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER 3 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER 4 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER 5 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY SUPER 6 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY BOX OFFICE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY BOX OFFICE HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY NETFLIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY NETFLIX HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY ACTION HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY ACTION +1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY ACTION +1 HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY BEST OF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY BEST OF HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY COMEDIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY COMEDIE HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY EMOTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY EMOTION HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY HORREUR HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY HORREUR HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY COLLECTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY COLLECTION HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY EXTRA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER",┃FR┃ PLAY EXTRA HD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/942055.m3u8
