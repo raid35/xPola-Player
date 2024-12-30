@@ -50,3 +50,15 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Vip Sports ⚡",L'Equipe Live 2 🇫🇷
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 1 FHD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 2 FHD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 3 FHD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 4 FHD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 5 FHD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 6 FHD
+http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941503.m3u8
