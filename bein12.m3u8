@@ -1,9 +1,10 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://het110a.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://het106a.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://het110a.4rouwanda-shop.store/live/10011244/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://het101a.4rouwanda-shop.store/live/4798998070/index.m3u8
+#EXTINF:-1 group-title="alfajertv" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", AL_FAJER_1
+https://s1.koralive.lol/AL_FAJER_1/index.m3u8
+#EXTINF:-1 group-title="alfajertv" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", AL_FAJER_1
+https://s1.koralive.lol/AL_FAJER_2/index.m3u8v
+#EXTINF:-1 group-title="alfajertv" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", AL_FAJER_1
+https://s1.koralive.lol/AL_FAJER_3/index.m3u8
+#EXTINF:-1 group-title="alfajertv" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", AL_FAJER_1
+https://s1.koralive.lol/AL_FAJER_4/index.m3u8
+#EXTINF:-1 group-title="alfajertv" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", AL_FAJER_1
+https://s1.koralive.lol/AL_FAJER_5/index.m3u8
