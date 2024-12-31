@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-drm-license=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
 https://fastly-live.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth K4" tvg-logo="https://besttvps.com/app/panel-logos/bbcearth.png" group-title="beIN Entertainment",┃AR┃ beIN BBC Earth
-http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/1351.ts
+https://s1.koralive.lol/bein_bbc_earth/index.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="┃FR┃ DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃AR┃ DOCUMENTAIRES",┃AR┃ DISCOVERY CHANNEL
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
