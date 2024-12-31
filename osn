@@ -11,7 +11,7 @@ https://s1.koralive.lol//osn_series_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN cinema 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-1-ae.png" group-title="OSN",OSN cinema 1
 https://s1.koralive.lol//cinema1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN cinema 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-2-ae.png" group-title="OSN",OSN cinema 2
-https://s1.koralive.lol//cinema2/index.m3u8
+https://s1.koralive.lol//cinema2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN Alyawm" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-yawm-ae.png" group-title="OSN",OSN Alyawm
 https://s1.koralive.lol//al_youm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-family-ae.png" group-title="OSN",OSN FAMILY
@@ -19,15 +19,15 @@ http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2310.ts
 #EXTINF:-1 tvg-id="" tvg-name="OSN FAN" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fann-ae.png" group-title="OSN",OSN FAN
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2274.ts
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_aflam_1.png" group-title="OSN",OSN ART AFLAM1
-http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2282.ts
+https://s1.koralive.lol//art_aflam_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_aflam_2.png" group-title="OSN",OSN ART AFLAM2
-http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2283.ts
+https://s1.koralive.lol//art_aflam_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART CINEMA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_cinema.png" group-title="OSN",OSN ART CINEMA
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2284.ts
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART Hekayat1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_hekayat.png" group-title="OSN",OSN ART Hekayat1
-http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2285.ts
+https://s1.koralive.lol//art_HEKAYAT_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART Hekayat2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_hekayat_2.png" group-title="OSN",OSN ART Hekayat2
-http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2286.ts
+https://s1.koralive.lol//art_HEKAYAT_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN Living" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-living-ae.png" group-title="OSN",OSN Living
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2321.ts
 #EXTINF:-1 tvg-id="" tvg-name="OSN Mezze" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-mezze-ae.png" group-title="OSN",OSN Mezze
@@ -43,5 +43,5 @@ https://s1.koralive.lol//osn_safwa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN SERIES Prime" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-series-prime-ae.png" group-title="OSN",OSN SERIES Prime
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/2299.ts
 #EXTINF:-1 tvg-id="" tvg-name="OSN Showcase" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-showcase-ae.png" group-title="OSN",OSN Showcase
-http://snap-tr.org:80/live/AtefNeumagen/gHXps3uIqq/259170.m3u8
+https://s1.koralive.lol//OSN_Showcase/index.m3u8
 
