@@ -86,9 +86,15 @@ http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/299.ts
 http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/303.ts
 #EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ AVENTURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", PLANETE+ AVENTURE 🇫🇷
 http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/301.ts
+#EXTINF:-1 channel-id="FRBD3200001DV-fr" tvg-id="FRBD3200001DV" tvg-chno="4666" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3200001DV_20241015T040401SQUARE.png" group-title="France", Motorvision
+https://jmp2.uk/sam-FRBD3200001DV.m3u8
+#EXTINF:-1 channel-id="FR1200001N2-fr" tvg-id="FR1200001N2" tvg-chno="4415" tvg-name="Doc Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" group-title="France", Doc Story
+https://jmp2.uk/sam-FR1200001N2.m3u8
+#EXTINF:-1 channel-id="FR26000089E-fr" tvg-id="FR26000089E" tvg-chno="4429" tvg-name="Documentaires - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000089E_20241210T052731SQUARE.png" group-title="France", Documentaires - Rakuten TV
+https://jmp2.uk/sam-FR26000089E.m3u8
+#EXTINF:-1 channel-id="FRBB4900002D4-fr" tvg-id="FRBB4900002D4" tvg-chno="4491" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="France", NatureTime
+https://jmp2.uk/sam-FRBB4900002D4.m3u8
 #EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="┃FR┃ SCIENCE & VIE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", SCIENCE & VIE 🇫🇷
 http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/293.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="┃FR┃ SEASONS 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",SEASONS 🇫🇷
 http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/289.ts
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ MY ZEN NATURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", MY ZEN NATURE 🇫🇷
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
