@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Ziggo.m3u
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/spain
 
-#EXTINF:-1 group-title="  البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png",  البرتغال
+#EXTINF:-1 group-title="  البرتغال" tvg-logo=https://www.voyage-portugal.fr/cdn/pt-public/drapeau_portugal.jpg",  البرتغال
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/portugal.m3u
 
