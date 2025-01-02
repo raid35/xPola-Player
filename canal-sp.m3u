@@ -1,27 +1,7 @@
-#EXTINF:-1 tvg-id="canalplusfoot.🇫🇷" tvg-name="كنال بليس سبور FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT 🇫🇷",CANAL+ FOOT
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
-#EXTINF:-1 tvg-id="canalplussport360.🇫🇷" tvg-name="كنال بليس سبور SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT 🇫🇷",CANAL+ SPORT360
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
-#EXTINF:-1 tvg-id="canalplus 1 " tvg-name="كنال بليس سبور " tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-sport-1.png" group-title="SPORT ",CANAL+ 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
-#EXTINF:-1 tvg-id="canalplus 2 " tvg-name="كنال بليس سبور " tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="SPORT ",CANAL+ 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
-#EXTINF:-1 tvg-id="canalplus 3 " tvg-name="كنال بليس سبور " tvg-logo="https://epg.ovh/logo/Canal++Sport+3.png" group-title="SPORT ",CANAL+ 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
-#EXTINF:-1 tvg-id="canalplus 4 " tvg-name="كنال بليس سبور " tvg-logo="https://epg.ovh/logo/Canal++Sport+4.png" group-title="SPORT ",CANAL+ 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
+#EXTINF:-1 group-title="  كنال سبور" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/280x157/filters:quality(80)/image/66448c93b0de6/uploads/media/logo_channel_Cover_C_spo.png" كنال سبور 
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/canal-sp.html
+
 #EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="كنال بليس سبور LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941442.m3u8
 #EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="كنال بليس سبور LIVE 2 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 
@@ -42,14 +22,6 @@ http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941449.m3u8
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941450.m3u8
 #EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="كنال بليس سبور LIVE 10" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941451.m3u8
-#EXTINF:-1 tvg-id="canalplus 1 " tvg-name="كنال بليس سبور " tvg-logo="https://www.acces.tv/wp-content/uploads/2022/10/la-chaine-LEquipe-fond-blanc-e1665654560760.png", La Chaîne L'Équipe 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
-#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="" tvg-id="" tvg-logo="https://medias.lequipe.fr/img-photo-jpg/-/1500000001976942/0:0,424:282-1200-800-75/71474.jpg" group-title="Vip Sports ⚡",L'Équipe Live Foot 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
-#EXTINF:-1 cuid="1017" tvg-chno="1017" tvg-name="L'Equipe Live 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://i.postimg.cc/90VYgLGm/imag.png" group-title="Vip Sports ⚡",L'Equipe Live 1 🇫🇷
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Vip Sports ⚡",L'Equipe Live 2 🇫🇷
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 1 FHD
 http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941498.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 2 FHD
