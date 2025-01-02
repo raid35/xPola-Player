@@ -23,8 +23,8 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein12.m3u
 https://riyad08051976.blogspot.com/2025/01/stc-sp.html
 
 #EXTINF:-1 group-title="SSC الرياضة" tvg-logo="https://footballarroyo.co.uk/wp-content/uploads/2023/01/The-frequency-of-the-SSC-Sports-5-HD-channel-broadcasting-the-Saudi-League-matches-on-Nilesat-1024x683.jpg", SSC الرياضة
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein6.m3u8
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/ssc.html
 
 #EXTINF:-1 group-title="  فرنسا" tvg-logo="https://th.bing.com/th?id=ODL.d978e9c2b50c3b2d0d1631c1b6e9b8db&w=151&h=101&c=10&rs=1&qlt=99&o=6&pid=23.1",  فرنسا
 #EXTVLCOPT:http-player-type=m3u
