@@ -2,35 +2,10 @@
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/canal-sp.html
 
-#EXTINF:-1 tvg-id="CanalPlusLive1.🇫🇷" tvg-name="كنال بليس سبور LIVE 1 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 1 
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941442.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive2.🇫🇷" tvg-name="كنال بليس سبور LIVE 2 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 2 
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941443.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive3.🇫🇷" tvg-name="كنال بليس سبور LIVE 3 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 3 
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941444.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive4.🇫🇷" tvg-name="كنال بليس سبور LIVE 4" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 4
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941445.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive5.🇫🇷" tvg-name="كنال بليس سبور LIVE 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 5 
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941446.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive6.🇫🇷" tvg-name="كنال بليس سبور LIVE 6" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 6
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941447.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive7.🇫🇷" tvg-name="كنال بليس سبور LIVE 7" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 7
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941448.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive8.🇫🇷" tvg-name="كنال بليس سبور LIVE 8" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 8
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941449.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive9.🇫🇷" tvg-name="كنال بليس سبور LIVE 9" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 9
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941450.m3u8
-#EXTINF:-1 tvg-id="CanalPlusLive10.🇫🇷" tvg-name="كنال بليس سبور LIVE 10" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT 🇫🇷",CANAL+ LIVE 10
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 1 FHD
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 2 FHD
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 3 FHD
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 4 FHD
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 5 FHD
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ DAZN LIGUE 1 - 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1",┃FR┃ DAZN LIGUE 1 - 6 FHD
-http://line.shehabtv.net:80/live/Florent-Zymerajaa/GUFR1H2/941503.m3u8
+#EXTINF:-1 group-title="  كنال لايف" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" كنال لايف 
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/canal-live.html
+
+#EXTINF:-1 group-title=" دازن" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png"  دازن 
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/dazan-ligue.html
