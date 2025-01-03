@@ -75,8 +75,8 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/documenter
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/osn
 
 #EXTINF:-1 group-title="بين ترفهية" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-movies-logo.png", بين ترفهية
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinm
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/bein-movies.html
 
 #EXTINF:-1 group-title="STC TV" tvg-logo="https://www.leaders-mena.com/leaders/uploads/2024/01/IMG-20240105-WA00181-780x470.jpg", STC TV
 #EXTVLCOPT:http-player-type=m3u
