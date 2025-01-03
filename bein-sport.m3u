@@ -2,6 +2,10 @@
 #EXTVLCOPT:http-player-type=browser
 https://siksa24.blogspot.com/2024/12/blog-post.html
 
+#EXTINF:-1 group-title=" show.alfajertv  " tvg-logo="https://show.alfajertv.com/wp-content/uploads/2019/09/fslogo.png" show.alfajertv  
+#EXTVLCOPT:http-player-type=browser
+https://show.alfajertv.com/genre/english-movies
+
 #EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg", الجزائر
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/algeria.html
