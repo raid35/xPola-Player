@@ -7,8 +7,8 @@ https://riyad08051976.blogspot.com/2025/01/bein-fr.html
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/canal-sp.m3u
 
 #EXTINF:-1 group-title="  كنال سينما" tvg-logo="https://th.bing.com/th/id/OIP.0p43tcBR8a7oX4Qfy4keYQHaD4?pid=ImgDet&w=191&h=100&c=7", كنال سيينما
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/t2.m3u8
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/mycanal.html
 
 #EXTINF:-1 group-title="  تي إن تي" tvg-logo="https://www.satshop.uk/wp-content/uploads/2023/02/tntsat-french-tv-channels-uk.jpg", تي إن تي
 #EXTVLCOPT:http-player-type=m3u
