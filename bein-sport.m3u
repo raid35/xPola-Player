@@ -71,7 +71,7 @@ https://riyad08051976.blogspot.com/2025/01/infinity.html
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/docm.m3u
 
 #EXTINF:-1 group-title="اوسان" tvg-logo="https://www.screennearyou.com/wp-content/uploads/2023/07/og-logo-osntv.webp?resize=681", اوسان
-#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/osn.html
 
 #EXTINF:-1 group-title="بين ترفهية" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-movies-logo.png", بين ترفهية
