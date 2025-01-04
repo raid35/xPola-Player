@@ -2,49 +2,6 @@
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/doc-ar.html
 
-#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ LoveNature4K FHD" tvg-logo="https://th.bing.com/th?id=OSK.ed6a2221b04f5444bf2e24eebcc36bf3&w=102&h=102&c=7&o=6&pid=SANGAM" group-title=" DOCUMENTAIRES", LoveNature4K  🇫🇷
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="┃FR┃ CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",┃🇫🇷┃ CANAL+ DOCS 🇫🇷
-http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941630.ts
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="┃FR┃ USHUAIA 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR-AR┃ DOCUMENTAIRES", USHUAIA 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/287.ts
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="┃FR┃ ANIMAUX 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR-AR┃ DOCUMENTAIRES", ANIMAUX 🇫🇷
-https://bit.ly/animaux_inspiration_m3u8
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="┃FR┃ CHASSE & PECHE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", CHASSE & PECHE 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/291.ts
-#EXTINF:-1 cuid="577" tvg-chno="577" tvg-name="RMC Mystere 🇫🇷" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20240319T052339SQUARE.png" group-title="France Channels",RMC Mystere 🇫🇷
-https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR300006GF
-#EXTINF:-1 cuid="578" tvg-chno="578" tvg-name="RMC alerte secours 🇫🇷" tvg-id="FR30000271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png" group-title="France Channels",RMC alerte secours 🇫🇷
-https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
-#EXTINF:-1 cuid="579" tvg-chno="579" tvg-name="RMC Story 🇫🇷" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20240919T105443SQUARE.png" group-title="France Channels",RMC Story 🇫🇷
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 cuid="580" tvg-chno="580" tvg-name="RMC Découverte 🇫🇷" tvg-id="FRBD4100008QS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20240919T105422SQUARE.png" group-title="France Channels",RMC Découverte 🇫🇷
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 cuid="581" tvg-chno="581" tvg-name="RMC MECANIC 🇫🇷" tvg-id="20240319T052336SQUARE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png" group-title="France Channels",RMC MECANIC 🇫🇷
-https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
-#EXTINF:-1 cuid="582" tvg-chno="582" tvg-name="RMC Wow 🇫🇷" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20240319T052346SQUARE.png" group-title="France Channels",RMC Wow 🇫🇷
-https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FR300001M1
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="┃FR┃ HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", HISTOIRE 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/123941.ts
-#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="┃FR┃ TOUTE L'HISTOIRE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title=" DOCUMENTAIRES",┃FR-AR┃ TOUTE L'HISTOIRE 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/201543.ts
-#EXTINF:-1 tvg-id="trek.fr" tvg-name="┃FR┃ TREK 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="┃FR-AR┃ DOCUMENTAIRES", TREK 🇫🇷
-http://line.shehabtv.net/live/Florent-Zymerajaa/GUFR1H2/941658.ts
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="┃FR┃ PLANETE+ 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="┃FR-AR┃ DOCUMENTAIRES", PLANETE+ 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/299.ts
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ CRIME 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="┃FR-AR┃ DOCUMENTAIRES", PLANETE+ CRIME 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/303.ts
-#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLANETE+ AVENTURE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", PLANETE+ AVENTURE 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/301.ts
-#EXTINF:-1 channel-id="FRBD3200001DV-fr" tvg-id="FRBD3200001DV" tvg-chno="4666" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3200001DV_20241015T040401SQUARE.png" group-title="France", Motorvision
-https://jmp2.uk/sam-FRBD3200001DV.m3u8
-#EXTINF:-1 channel-id="FR1200001N2-fr" tvg-id="FR1200001N2" tvg-chno="4415" tvg-name="Doc Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" group-title="France", Doc Story
-https://jmp2.uk/sam-FR1200001N2.m3u8
-#EXTINF:-1 channel-id="FR26000089E-fr" tvg-id="FR26000089E" tvg-chno="4429" tvg-name="Documentaires - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000089E_20241210T052731SQUARE.png" group-title="France", Documentaires - Rakuten TV
-https://jmp2.uk/sam-FR26000089E.m3u8
-#EXTINF:-1 channel-id="FRBB4900002D4-fr" tvg-id="FRBB4900002D4" tvg-chno="4491" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="France", NatureTime
-https://jmp2.uk/sam-FRBB4900002D4.m3u8
-#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="┃FR┃ SCIENCE & VIE 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR-AR┃ DOCUMENTAIRES", SCIENCE & VIE 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/293.ts
-#EXTINF:-1 tvg-id="seasons.fr" tvg-name="┃FR┃ SEASONS 🇫🇷" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR-AR┃ DOCUMENTAIRES",SEASONS 🇫🇷
-http://sitehwmcs.live:8080/live/Valentinperrie1/AtAdr7y8eQCy/289.ts
+#EXTINF:-1 group-title=" قنوات وثائقي فرنسا" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4TKbbRZQO5roisYioABeduuNxwbTk8aTtA&s", قنوات وثائقي فرنسا
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/doc-fr.html
