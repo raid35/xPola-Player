@@ -2,10 +2,6 @@
 #EXTVLCOPT:http-player-type=browser
 https://siksa24.blogspot.com/2024/12/blog-post.html
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-4k.png", BEIN SPORTS 4K
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
 #EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg", الجزائر
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/algeria.html
@@ -62,11 +58,11 @@ https://riyad08051976.blogspot.com/2025/01/arena-sport.html
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/eleven-sp.html
 
-#EXTINF:-1 group-title=" بلغاريا  " tvg-logo="https://cdn.soft112.com/bulgaria-flag-wallpapers/00/00/0H/C4/00000HC4QR/pad_screenshot.jpg" بلغاريا  
+#EXTINF:-1 group-title=" بلغاريا " tvg-logo="https://i.pinimg.com/1200x/27/be/88/27be88c17841a196e2b64b80cc59c3bd.jpg" بلغاريا  
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/diema-maxs.html
 
-#EXTINF:-1 group-title=" ليتوانيا  " tvg-logo="https://s.w.org/images/core/emoji/14.0.0/svg/1f1f1-1f1f9.svg" ليتوانيا  
+#EXTINF:-1 group-title=" ليتوانيا" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240211/pngtree-the-national-flag-of-lithuania-image_15625877.jpg", ليتوانيا
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/lithuania.html
 
