@@ -1,40 +1,570 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open URL Video in xPola Player</title>
-    <meta name="description" content="Experience seamless video playback with Xpola Player. Our page allows you to effortlessly play video URLs, offering high-quality streaming with minimal buffering. Perfect for viewers seeking an optimized watching experience. Click to enjoy your favorite videos now.">
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.png" />
-	<meta property="og:image" content=""/>
+#EXTM3U
 
-<style> body { display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #000;
-    background-image: url('');
-    background-size: cover;
-    background-repeat: no-repeat; 
-    background-position: center; 
+#EXTINF:-1,Rai 1 HD [1]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
- } .play-button { background-color: #f7f7f7; color: #fff; border: none; padding: 10px; font-size: 24px; cursor: pointer; border-radius: 50%; display: flex; align-items: center; justify-content: center; position: relative; } .play-button:hover { background-color: #999; } .message-box { background-color: #333; border-radius: 8px; padding: 20px; text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 300px; z-index: 1000; } .message-box p { margin: 0 0 20px; color: #ecf0f1; } } .message-box .actions { margin-top: 20px; } .message-box button { background-color: transparent; border: none; color: #f40; font-size: 16px; margin: 0 10px; padding: 6px; cursor: pointer; } .message-box button:hover { text-decoration: underline; } .message-box .checkbox-container { display: flex; align-items: center; justify-content: center; margin-top: 20px; } .message-box .checkbox-container input { margin-right: 10px; } label { color: #9E9E9E; } 
+#EXTINF:-1,Rai 2 HD [2]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 
-</style>
-</head>
-<body>
+#EXTINF:-1,Rai 3 HD [3]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
-<button onClick="location.href='intent://XPOLA808SxoyeGRkYGMqPz9ndXJ4dGJlYz5/fnx5fnV4dHh8Yz5iZT98cj9gYnV9eWV9KSE/eX50dWg+fSNlKGxgcWNjLXYmIylyI3J2dnIgKSEgc3IhdHUkInZ1dSAhJnR2JSh0bGVjdWI9cXd1fmQtXX9qeXx8cT8lPiAwOEd5fnR/Z2MwXkQwISA+ICswR3l+JiQrMGgmJDkwUWBgfHVHdXJbeWQ/JSMnPiMmMDhbWERdXDwwfHl7dTBXdXN7fzkwU3hif311PyEgKD4gPiA+IDBDcXZxYnk/JSMnPiMmbGJ1dnVidWIteGRkYGMqPz9ndXJ8eWZ1eHRgfHFpPmJlP2BidX15ZX1kZj90cXR0aXx5ZnV4dD5geGBsfnF9dS1SVVleMCEyPBowMDAwMnhkZGBjKj8/Z3VyeHRiZWM+f358eX51eHR4fGM+YmU/fHI/YGJ1fXllfSkiP3l+dHVoPn0jZShsYHFjYy12JiMpciNydnZyICkhIHNyIXR1JCJ2dXUgISZ0diUodGxlY3ViPXF3dX5kLV1/anl8fHE/JT4gMDhHeX50f2djMF5EMCEgPiArMEd5fiYkKzBoJiQ5MFFgYHx1R3VyW3lkPyUjJz4jJjA4W1hEXVw8MHx5e3UwV3Vze385MFN4Yn99dT8hICg+ID4gPiAwQ3F2cWJ5PyUjJz4jJmxidXZ1YnViLXhkZGBjKj8/Z3VyfHlmdXh0YHxxaT5iZT9gYnV9eWV9ZGY/dHF0dGl8eWZ1eHQ+YHhgbH5xfXUtUlVZXjAiMjwaMDAwMDJ4ZGRgYyo/P2d1cnh0YmVjPn9+fHl+dXh0eHxjPmJlP3xyP2BidX15ZX0pIz95fnR1aD59I2UobGBxY2MtdiYjKXIjcnZ2ciApISBzciF0dSQidnV1ICEmdHYlKHRsZWN1Yj1xd3V+ZC1df2p5fHxxPyU+IDA4R3l+dH9nYzBeRDAhID4gKzBHeX4mJCswaCYkOTBRYGB8dUd1clt5ZD8lIyc+IyYwOFtYRF1cPDB8eXt1MFd1c3t/OTBTeGJ/fXU/ISAoPiA+ID4gMENxdnFieT8lIyc+IyZsYnV2dWJ1Yi14ZGRgYyo/P2d1cnx5ZnV4dGB8cWk+YmU/YGJ1fXllfWRmP3RxdHRpfHlmdXh0PmB4YGx+cX11LVJVWV4wIzI8GjAwMDAyeGRkYGMqPz9ndXJ4dGJlYz5/fnx5fnV4dHh8Yz5iZT98cj9gYnV9eWV9KSQ/eX50dWg+fSNlKGxgcWNjLXYmIylyI3J2dnIgKSEgc3IhdHUkInZ1dSAhJnR2JSh0bGVjdWI9cXd1fmQtXX9qeXx8cT8lPiAwOEd5fnR/Z2MwXkQwISA+ICswR3l+JiQrMGgmJDkwUWBgfHVHdXJbeWQ/JSMnPiMmMDhbWERdXDwwfHl7dTBXdXN7fzkwU3hif311PyEgKD4gPiA+IDBDcXZxYnk/JSMnPiMmbGJ1dnVidWIteGRkYGMqPz9ndXJ8eWZ1eHRgfHFpPmJlP2BidX15ZX1kZj90cXR0aXx5ZnV4dD5geGBsfnF9dS1SVVleMCQyPBowMDAwMnhkZGBjKj8/Z3VyeHRiZWM+f358eX51eHR4fGM+YmU/fHI/YGJ1fXllfSklP3l+dHVoPn0jZShsYHFjYy12JiMpciNydnZyICkhIHNyIXR1JCJ2dXUgISZ0diUodGxlY3ViPXF3dX5kLV1/anl8fHE/JT4gMDhHeX50f2djMF5EMCEgPiArMEd5fiYkKzBoJiQ5MFFgYHx1R3VyW3lkPyUjJz4jJjA4W1hEXVw8MHx5e3UwV3Vze385MFN4Yn99dT8hICg+ID4gPiAwQ3F2cWJ5PyUjJz4jJmxidXZ1YnViLXhkZGBjKj8/Z3VyfHlmdXh0YHxxaT5iZT9gYnV9eWV9ZGY/dHF0dGl8eWZ1eHQ+YHhgbH5xfXUtUlVZXjAlMjwaMDAwMDJ4ZGRgYyo/P2d1cnh0YmVjPn9+fHl+dXh0eHxjPmJlP3xyP2BidX15ZX0pJj95fnR1aD59I2UobGBxY2MtdiYjKXIjcnZ2ciApISBzciF0dSQidnV1ICEmdHYlKHRsZWN1Yj1xd3V+ZC1df2p5fHxxPyU+IDA4R3l+dH9nYzBeRDAhID4gKzBHeX4mJCswaCYkOTBRYGB8dUd1clt5ZD8lIyc+IyYwOFtYRF1cPDB8eXt1MFd1c3t/OTBTeGJ/fXU/ISAoPiA+ID4gMENxdnFieT8lIyc+IyZsYnV2dWJ1Yi14ZGRgYyo/P2d1cnx5ZnV4dGB8cWk+YmU/YGJ1fXllfWRmP3RxdHRpfHlmdXh0PmB4YGx+cX11LVJVWV4wJjI8GjAwMDAyeGRkYGMqPz9ndXJ4dGJlYz5/fnx5fnV4dHh8Yz5iZT98cj9gYnV9eWV9KSc/eX50dWg+fSNlKGxgcWNjLXYmIylyI3J2dnIgKSEgc3IhdHUkInZ1dSAhJnR2JSh0bGVjdWI9cXd1fmQtXX9qeXx8cT8lPiAwOEd5fnR/Z2MwXkQwISA+ICswR3l+JiQrMGgmJDkwUWBgfHVHdXJbeWQ/JSMnPiMmMDhbWERdXDwwfHl7dTBXdXN7fzkwU3hif311PyEgKD4gPiA+IDBDcXZxYnk/JSMnPiMmbGJ1dnVidWIteGRkYGMqPz9ndXJ8eWZ1eHRgfHFpPmJlP2BidX15ZX1kZj90cXR0aXx5ZnV4dD5geGBsfnF9dS1SVVleMCcyPBowMDAwMnhkZGBjKj8/Z3VyeHRiZWM+f358eX51eHR4fGM+YmU/fHI/YGJ1fXllfSkoP3l+dHVoPn0jZShsYHFjYy12JiMpciNydnZyICkhIHNyIXR1JCJ2dXUgISZ0diUodGxoPWJ1YWV1Y2R1dD1neWR4LV1/anl8fHE/JT4gMDhHeX50f2djMF5EMCEgPiArMEd5fiYkKzBoJiQ5MFFgYHx1R3VyW3lkPyUjJz4jJjA4W1hEXVw8MHx5e3UwV3Vze385MFN4Yn99dT8hICg+ID4gPiAwQ3F2cWJ5PyUjJz4jJmxidXZ1YnViLXhkZGBjKj8/Z3VyfHlmdXh0YHxxaT5iZT9gYnV9eWV9ZGY/dHF0dGl8eWZ1eHQ+YHhgbH5xfXUtUlVZXjAoMjwaMDAwMDJ4ZGRgYyo/P2d1cnh0YmVjPn9+fHl+dXh0eHxjPmJlP3xyP2BidX15ZX0pKT95fnR1aD59I2UobGBxY2MtdiYjKXIjcnZ2ciApISBzciF0dSQidnV1ICEmdHYlKHRsZWN1Yj1xd3V+ZC1df2p5fHxxPyU+IDA4R3l+dH9nYzBeRDAhID4gKzBHeX4mJCswaCYkOTBRYGB8dUd1clt5ZD8lIyc+IyYwOFtYRF1cPDB8eXt1MFd1c3t/OTBTeGJ/fXU/ISAoPiA+ID4gMENxdnFieT8lIyc+IyZsYnV2dWJ1Yi14ZGRgYyo/P2d1cnx5ZnV4dGB8cWk+YmU/YGJ1fXllfWRmP3RxdHRpfHlmdXh0PmB4YGx+cX11LVJVWV4wKTIaTQ==#Intent;scheme=xmtv;package=com.xpola.player;end'" class="play-button">
-<svg fill="#000000" height="80px" width="80px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60" xml:space="preserve">
-    <g>
-        <path d="M45.563,29.174l-22-15c-0.307-0.208-0.703-0.231-1.031-0.058C22.205,14.289,22,14.629,22,15v30 c0,0.371,0.205,0.711,0.533,0.884C22.679,45.962,22.84,46,23,46c0.197,0,0.394-0.059,0.563-0.174l22-15 C45.836,30.64,46,30.331,46,30S45.836,29.36,45.563,29.174z M24,43.107V16.893L43.225,30L24,43.107z"></path>
-        <path d="M30,0C13.458,0,0,13.458,0,30s13.458,30,30,30s30-13.458,30-30S46.542,0,30,0z M30,58C14.561,58,2,45.439,2,30 S14.561,2,30,2s28,12.561,28,28S45.439,58,30,58z"></path>
-    </g>
-</svg>
-</button>
+#EXTINF:-1,Rete 4 HD [4]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 
-</body>
+#EXTINF:-1,Canale 5 HD [5]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 
-		    <script>
-        window.onload = function() {
-            document.querySelector('.play-button').click();
-        }
-    </script>
-	
-</html>
+#EXTINF:-1,Italia1 HD [6]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+
+#EXTINF:-1,LA7 HD [7]
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+
+#EXTINF:-1,TV8 HD [8]
+https://www.mytivu.it/Application/Channels/TV8.php
+
+#EXTINF:-1,Nove (HD) [9]
+
+
+#EXTINF:-1,Rai 4 HD [10]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+
+#EXTINF:-1,Iris HD [11]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1,La5 HD [12]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+
+#EXTINF:-1,Rai 5 HD [13]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
+
+#EXTINF:-1,Rai Movie HD [14]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
+
+#EXTINF:-1,Rai Premium HD [15]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+
+#EXTINF:-1,Mediaset Italia2 HD [16]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+
+#EXTINF:-1,Mediaset Extra HD [17]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1,TV2000 HD [18]
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1,cielo HD [19]
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1676926758~exp=1676927058~acl=/*~hmac=7118fd3c2dd988fd4d37f546da7aad61f306b4294401b8360d66daab99b2ecc8
+
+#EXTINF:-1,20 Mediaset HD [20]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+
+#EXTINF:-1,Rai Sport HD [21]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
+
+#EXTINF:-1,VH1 HD [22]
+https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/e.m3u8?ct=c&expand=simulcast_standard&cid=36953f5b6546464590d2fcd954bc89cf&pbs=a77ad4663cfa439a8391a4346d27461b
+
+#EXTINF:-1,Rai Storia HD [23]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
+
+#EXTINF:-1,Rai News 24 HD [24]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+
+#EXTINF:-1,TGCOM24 HD [25]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:-1,Rai Scuola HD [26]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+
+#EXTINF:-1,27Twentyseven HD [27]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
+
+#EXTINF:-1,DMAX Italy (HD) [28]
+
+
+#EXTINF:-1,LA7d HD [29]
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
+
+#EXTINF:-1,Super Tennis [30]
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1,Realtime Italy (HD) [31]
+
+
+#EXTINF:-1,QVC HD (SAT) [32]
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
+
+#EXTINF:-1,Focus HD [33]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+
+#EXTINF:-1,Cine34 HD [34]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+
+#EXTINF:-1,Radio Italia TV HD [35]
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1,RTL 102.5 HD [36]
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1,RTL 102.5 NEWS ASPI (HD) [37]
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:-1,Giallo (HD) [38]
+
+
+#EXTINF:-1,TOPcrime HD [39]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+
+#EXTINF:-1,Boing [40]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+
+#EXTINF:-1,Cartoonito [41]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+
+#EXTINF:-1,Rai Gulp HD [42]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=7469536&output=16
+
+#EXTINF:-1,Rai YoYo HD [43]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
+
+#EXTINF:-1,Frisbee [44]
+
+
+#EXTINF:-1,K2 [46]
+
+
+#EXTINF:-1,Super! [47]
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+
+#EXTINF:-1,Arte HD [48]
+
+
+#EXTINF:-1,MEZZO* [49]
+
+
+#EXTINF:-1,RDS Social TV (HD) [50]
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
+
+#EXTINF:-1,EQUtv [51]
+
+
+#EXTINF:-1,ACI_sportTV [52]
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
+#EXTINF:-1,Food Network Italy (HD) [53]
+
+
+#EXTINF:-1,WarnerTV Italy HD [54]
+
+
+#EXTINF:-1,GOLD TV (SAT) [55]
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+
+#EXTINF:-1,HGTV Italy (HD) [56]
+
+
+#EXTINF:-1,MotorTrend (HD) [57]
+
+
+#EXTINF:-1,Solo Calcio [58]
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1,Euronews Italian [59]
+https://www.youtube.com/channel/UC1mX9vuLOYf8fhaXS_KcDRg/live
+
+#EXTINF:-1,Euronews Russian [60]
+https://www.youtube.com/@euronewsru/live
+
+#EXTINF:-1,BFC [61]
+https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
+
+#EXTINF:-1,Radio Italia Trend TV HD [63]
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/amRdirect//hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1,Radio Kiss Kiss TV (HD) [64]
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1,RADIO ZETA HD [65]
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1,RADIOFRECCIA HD [66]
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+#EXTINF:-1,RADIO MONTE CARLO [67]
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
+
+#EXTINF:-1,VIRGIN RADIO [68]
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
+
+#EXTINF:-1,France 24 HD (in English) [69]
+https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
+
+#EXTINF:-1,BBC World News [70]
+
+
+#EXTINF:-1,Al Jazeera English HD [71]
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,TRT World HD [72]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1,NHK WORLD-JAPAN (HD) [73]
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1,UATV [74]
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+
+#EXTINF:-1,France 24 HD (en Francais) [75]
+https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
+
+#EXTINF:-1,Nickelodeon Ukraine Pluto TV [76]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622882350f6aad0008c76e77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,Al Jazeera HD [77]
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1,Espresso TV [78]
+https://www.youtube.com/watch?v=6LzcbC02wJI
+
+#EXTINF:-1,Sonlife [79]
+
+
+#EXTINF:-1,CNBC HD [81]
+http://ott-cdn.ucom.am/s65/index.m3u8
+
+#EXTINF:-1,Bloomberg European TV [82]
+
+
+#EXTINF:-1,i24News HD English [83]
+
+
+#EXTINF:-1,i24News HD French [84]
+
+
+#EXTINF:-1,DW English HD [85]
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1,Euronews English HD [86]
+https://www.youtube.com/watch?v=pykpO5kQJ98/
+
+#EXTINF:-1,CGTN [87]
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1,CGTN Documentary [88]
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1,Senato [89]
+
+
+#EXTINF:-1,Camera Deputati [90]
+https://www.youtube.com/watch?v=Cnjs83yowUM
+
+#EXTINF:-1,KBS WORLD HD [91]
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1,CCTV 4E [92]
+
+
+#EXTINF:-1,SMTv San Marino HD [93]
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+
+#EXTINF:-1,100 tivùlink
+
+
+#EXTINF:-1,Rai Radio 2 Visual [202]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
+
+#EXTINF:-1,Rai 4K [210]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=16
+
+#EXTINF:-1,Nasa TV UHD [211]
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+
+#EXTINF:-1,Museum 4K** [220]
+
+
+#EXTINF:-1,MyZen 4K** [222]
+
+
+#EXTINF:-1,TravelXP 4K** [225]
+
+
+#EXTINF:-1,HotBird 4K1 [230]
+
+
+#EXTINF:-1,FTV UHD [289]
+https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
+
+#EXTINF:-1,Rai 3 TGR Valle d'Aosta [301]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32909&output=16
+
+#EXTINF:-1,Rai 3 TGR Piemonte [302]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89763&output=16
+
+#EXTINF:-1,Rai 3 TGR Liguria [303]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=16
+
+#EXTINF:-1,Rai 3 TGR Lombardia [304]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72916&output=16
+
+#EXTINF:-1,Rai 3 TGR Veneto [305]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=17190&output=16
+
+#EXTINF:-1,Rai 3 TGR Trentino Alto Adige Bolzano [306]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32907&output=16
+
+#EXTINF:-1,Rai 3 TGR Trentino Alto Adige Trento [307]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016&output=16
+
+#EXTINF:-1,Rai 3 TGR Südtirol HD [308]
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+
+#EXTINF:-1,Rai 3 TGR Friuli Venezia Giulia [309]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72926&output=16
+
+#EXTINF:-1,Rai 3 TGR Furlanija Krajina (Rai 3 Bis) [310]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=87837&output=16
+
+#EXTINF:-1,Rai 3 TGR Emilia-Romagna [311]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=681&output=16
+
+#EXTINF:-1,Rai 3 TGR Toscana [312]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35264&output=16
+
+#EXTINF:-1,Rai 3 TGR Marche [313]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72386&output=16
+
+#EXTINF:-1,Rai 3 TGR Umbria [314]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32908&output=16
+
+#EXTINF:-1,Rai 3 TGR Lazio [315]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16
+
+#EXTINF:-1,Rai 3 TGR Abruzzo [316]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4152&output=16
+
+#EXTINF:-1,Rai 3 TGR Molise [317]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72387&output=16
+
+#EXTINF:-1,Rai 3 TGR Campania [318]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16
+
+#EXTINF:-1,Rai 3 TGR Puglia [319]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89765&output=16
+
+#EXTINF:-1,Rai 3 TGR Basilicata [320]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4153&output=16
+
+#EXTINF:-1,Rai 3 TGR Calabria [321]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24271&output=16
+
+#EXTINF:-1,Rai 3 TGR Sardegna [322]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=18852&output=16
+
+#EXTINF:-1,Rai 3 TGR Sicilia [323]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35260&output=16
+
+#EXTINF:-1,La C sat (La C TV) [411]
+
+
+#EXTINF:-1,TELERADIOPACE TV (HD) [412]
+
+
+#EXTINF:-1,People TV (People TV-Rete 7) [420]
+
+
+#EXTINF:-1,Telecupole [422]
+
+
+#EXTINF:-1,Horse TV HD [444]
+
+
+#EXTINF:-1,Padre Pio Tv (HD) [445]
+
+
+#EXTINF:-1,Parole di Vita [454]
+
+
+#EXTINF:-1,ByoBlu [462]
+
+
+#EXTINF:-1,ER24 [518]
+
+
+#EXTINF:-1,TRM h24 [519]
+
+
+#EXTINF:-1,Rai Radio 1 [601]
+
+
+#EXTINF:-1,Rai Radio 2 [602]
+
+
+#EXTINF:-1,Rai Radio 3 [603]
+
+
+#EXTINF:-1,Rai Isoradio [604]
+
+
+#EXTINF:-1,Rai GR Parlamento [605]
+
+
+#EXTINF:-1,Rai Radio1 Sport [606]
+
+
+#EXTINF:-1,Rai Radio3 Classica [607]
+
+
+#EXTINF:-1,RDS [608]
+
+
+#EXTINF:-1,DimSuono Roma [609]
+
+
+#EXTINF:-1,RTL 102.5 [610]
+
+
+#EXTINF:-1,RADIO ZETA [611]
+
+
+#EXTINF:-1,RADIO FRECCIA [612]
+
+
+#EXTINF:-1,Radio Gamma Stereo [613]
+
+
+#EXTINF:-1,Radio 105 [615]
+
+
+#EXTINF:-1,Virgin Radio [616]
+
+
+#EXTINF:-1,Radio R101 [617]
+
+
+#EXTINF:-1,Radio Monte Carlo [618]
+
+
+#EXTINF:-1,RADIO ITALIA s.m.i. [620]
+
+
+#EXTINF:-1,M DUE O [621]
+
+
+#EXTINF:-1,CAPITAL [622]
+
+
+#EXTINF:-1,DEEJAY [623]
+
+
+#EXTINF:-1,Radio 24 [624]
+
+
+#EXTINF:-1,Discoradio [625]
+
+
+#EXTINF:-1,R.ONDA D'URTO [626]
+
+
+#EXTINF:-1,ANNI 60 [627]
+
+
+#EXTINF:-1,Radio Sintony [628]
+
+
+#EXTINF:-1,Radio Supersound [629]
+
+
+#EXTINF:-1,Radio Margherita [630]
+
+
+#EXTINF:-1,Radio Number One [631]
+
+
+#EXTINF:-1,Radio Radio [632]
+
+
+#EXTINF:-1,Radio Maria [633]
+
+
+#EXTINF:-1,RADIO MATER [634]
+
+
+#EXTINF:-1,popolare [635]
+
+
+#EXTINF:-1,No Name Radio [636]
+
+
+#EXTINF:-1,Rai Radio Tutta Italiana [637]
+
+
+#EXTINF:-1,Rai Radio Techete' [638]
+
+
+#EXTINF:-1,Rai Radio Kids [639]
+
+
+#EXTINF:-1,Rai Radio Live [640]
+
+
+#EXTINF:-1,L'Ora della Venezia Giulia [641]
+
+
+#EXTINF:-1,Rai Radio Slovenia [642]
+
+
+#EXTINF:-1,Radio Kiss Kiss [643]
+
+
+#EXTINF:-1,Radio Sportiva [644]
+
+
+#EXTINF:-1,RVS-Accendi la Speranza [645]
+
+
+#EXTINF:-1,RFI Francais [656]
+
+
+#EXTINF:-1,Swiss Pop [661]
+
+
+#EXTINF:-1,Swiss Jazz [662]
+
+
+#EXTINF:-1,Swiss Classica [663]
+
+
+#EXTINF:-1,DW-FM02 [667]
+
+
+#EXTINF:-1,DW08 [668]
+
+
+#EXTINF:-1,DW09 [670]
+
+
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV [701]
+
+
+#EXTINF:-1,PACI CONTEMPORARY CHANNEL [809]
+
+
+#EXTINF:-1,Vatican Media Europa [815]
+
+
+#EXTINF:-1,VIDEOLINA [819]
+
+
+#EXTINF:-1,TVA Vicenza [832]
+
+
+#EXTINF:-1,Arte Atelier [863]
+
+
+#EXTINF:-1,Arte Investimenti [868]
+
+
+#EXTINF:-1,EURSAT [882]
