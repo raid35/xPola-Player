@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1,BBC One HD
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC One Wales HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC One Northern Ireland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC One Scotland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
 #EXTINF:-1,Rai 1 HD [1]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
