@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/canal-sp.m
 https://riyad08051976.blogspot.com/2025/01/mycanal.html
 
 #EXTINF:-1 group-title="  تي إن تي" tvg-logo="https://www.satshop.uk/wp-content/uploads/2023/02/tntsat-french-tv-channels-uk.jpg", تي إن تي
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tnt-fr
+#EXTVLCOPT:http-player-type=browser
+https://riyad08051976.blogspot.com/2025/01/tnt-fr.html
 
 #EXTINF:-1 group-title=" سينما" tvg-logo="https://play-lh.googleusercontent.com/NRiP5szsVbIwzLTY5cWY-lmGhw12W5dqWBbKAQwToZf4fbh_Xd1FqJYUNyFnNWaFmw=s94-rw", سينما
 #EXTVLCOPT:http-player-type=m3u
