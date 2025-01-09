@@ -26,6 +26,10 @@ https://riyad08051976.blogspot.com/2025/01/ssc.html
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/france.m3u
 
+#EXTINF:-1 group-title=" مؤسسة دازن" tvg-logo="https://iili.io/d06YU1p.png", مؤسسة دازن
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/DAZAN.m3u
+
 #EXTINF:-1 group-title="  هولندا" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPlvVaTrAjiKCAB-vRchS1WtsPHvtkcb_zA&s",  هولندا
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/ziggo-sp.html
@@ -37,10 +41,6 @@ https://riyad08051976.blogspot.com/2025/01/espagne.html
 #EXTINF:-1 group-title=" المملكة المتحدة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langfr-225px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"  المملكة المتحدة
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/tnt-sky.html
-
-#EXTINF:-1 group-title="  البرتغال" tvg-logo="https://i.pinimg.com/originals/7e/5a/e1/7e5ae14ce6206b40f5be42f952633c3c.jpg",  البرتغال
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/portugal.html
 
 #EXTINF:-1 group-title="  يونان" tvg-logo="https://vlajky-statu.luksoft.cz/nahled-velky/recka_vlajka.jpg",  يونان
 #EXTVLCOPT:http-player-type=m3u
