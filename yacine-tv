@@ -14,32 +14,3 @@ http://stb.iphd.tv/live/d0:d0:03:91:de:28/182302168/110051.ts
 http://stb.iphd.tv/live/d0:d0:03:91:de:28/182302168/110050.ts
 #EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 " tvg-logo="https://image.made-in-china.com/2f0j00gAmoOsJdUQbn/4K-8K-Strong-Cobra-IPTV-Android-Box-Scandinavia-Netherlands-Italy-Africa-Germany-Poland-M3u-List-Portugal-UK-USA-Cdngold-Code.webp" group-title="BEIN SPORTS HD",BEIN SPORTS 8
 http://stb.iphd.tv/live/d0:d0:03:91:de:28/182302168/110047.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 [FLOW CAST]" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 1 [FLOW CAST]
-http://vocotv.live:80/play/live.php?mac=00:1A:79:80:E4:31&stream=327640&extension=ts&play_token=lyudLhJqFI
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 [FLOW CAST]" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 2 [FLOW CAST]
-http://vocotv.live:80/play/live.php?mac=00:1A:79:80:E4:31&stream=327639&extension=ts&play_token=oLVh2G8ojl
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 [FLOW CAST]" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 3 [FLOW CAST]
-http://vocotv.live:80/play/live.php?mac=00:1A:79:80:E4:31&stream=327638&extension=ts&play_token=8I8sQGy1mw
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 [FLOW CAST]" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 4 [FLOW CAST]
-http://vocotv.live:80/play/live.php?mac=00:1A:79:80:E4:31&stream=327637&extension=ts&play_token=Q2M56hIn4z
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 [FLOW CAST]" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 5 [FLOW CAST]
-http://vocotv.live:80/play/live.php?mac=00:1A:79:80:E4:31&stream=327636&extension=ts&play_token=uAj6DHSgIP
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 [FLOW CAST]" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 6 [FLOW CAST]
-http://vocotv.live:80/play/live.php?mac=00:1A:79:80:E4:31&stream=327635&extension=ts&play_token=BWa8dm9VnC
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
-https://offerstore.xyz/ddh/stream.m3u8?cid=91&chunks=02f785bca5ba11fb7178133e98d57bc6caf3e801689822e7e120fd0ea0af785a819e417e693851375e63afc9efbf150dbaf6fb6b298e1e8da3b2343fd025225982705245690aca4d05d35a5b32f09a7d
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
-https://offerstore.xyz/ddh/stream.m3u8?cid=92&chunks=02f785bca5ba11fb7178133e98d57bc6caf3e801689822e7e120fd0ea0af785a819e417e693851375e63afc9efbf150d24b0023ef24e8dfa3d66389e2415335ca2a1756dcc1d4ddbc84256e0c0c53424
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6 
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",BEN 10
-http://authxplus-2.xyz:2082/live/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/678.m3u8
-
