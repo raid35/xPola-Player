@@ -59,8 +59,8 @@ https://riyad08051976.blogspot.com/2025/01/portugal.html
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/nov-cosm.m3u
 
 #EXTINF:-1 group-title=" ارينا" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" ارينا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/arena-sport.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Arena-Sport.m3u
 
 #EXTINF:-1 group-title="  بولندا" tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-hand-drawn-cartoon-poland-flag-png-image_5532951.jpg"   بولندا
 #EXTVLCOPT:http-player-type=browser
