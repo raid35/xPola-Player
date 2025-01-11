@@ -61,3 +61,19 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTINF:-1 group-title=" بلجيكا" tvg-logo="https://th.bing.com/th/id/OIP.XAq5P_BT273rMb9rn9f6-wHaE8?w=1024&h=683&rs=1&pid=ImgDetMain", بلجيكا
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/belig.html
+#EXTINF:-1 group-title="BELIG" tvg-logo="https://i.ytimg.com/vi/fwxp6_qZX-Q/maxresdefault.jpg", la Une
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 group-title="BELIG" tvg-logo="https://th.bing.com/th/id/OIP.I_sDbjXtK_gu-V7-WCPiVAAAAA?rs=1&pid=ImgDetMain", Tipik
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
+#EXTINF:-1 group-title="BELIG" tvg-logo="https://th.bing.com/th/id/OIP.nxF5aG6LaoMXIgzmTld28wHaEK?rs=1&pid=ImgDetMain", Club RTL
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=a23c541ad1334ea697bab962336d31e6:996515f9b655011b20993c5514298eb3
+https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
+#EXTINF:-1 group-title="BELIG" tvg-logo="https://th.bing.com/th/id/OIP.88HIKiLbiTeSBRHVGy65MwHaHa?rs=1&pid=ImgDetMain", RTL Plug
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
+https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
