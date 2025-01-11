@@ -10,6 +10,10 @@ https://fastly-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
+https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC DRAMA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3  
@@ -25,7 +29,7 @@ https://fastly-live.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC MASR
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9 
-https://fastly-live.cdn.intigral-ott.net/MBMS_TMP/MBMS_TMP.isml/manifest.mpd
+https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC MASR 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
