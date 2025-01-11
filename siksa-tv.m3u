@@ -1,62 +1,78 @@
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyn-eguLIZLnNY_bb6LfHr5yPOjPDDV5Mz3w&s", مباريات اليوم
+#EXTVLCOPT:http-player-type=browser
+https://siksa24.blogspot.com/2024/12/blog-post.html
+
 #EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg", الجزائر
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/algeria.html
-
-#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://logodix.com/logo/2195607.png",  بين  سبور
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein22.m3u8
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/562f4f14-417a-42a1-b0a8-d129af77b2e6/2686774023/yacine-tips-tv-smart-menu-logo", yacine-tv
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/yacine-tv.html
+#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1",  بين  سبور
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1", بين
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
 
 #EXTINF:-1 group-title="تلفزيون الفجر" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", تلفزيون الفجر
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/fajer.html
 
 #EXTINF:-1 group-title="ابوظبي الرياضية برميوم" tvg-logo="https://cdn.alweb.com/thumbs/uaeencyclopedia/article/fit710x532/%D9%85%D9%86-%D8%B5%D9%85%D9%85-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.jpg", ابوظبي الرياضية برميوم
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/stc-sp.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/adsp.m3u
 
 #EXTINF:-1 group-title="SSC الرياضة" tvg-logo="https://footballarroyo.co.uk/wp-content/uploads/2023/01/The-frequency-of-the-SSC-Sports-5-HD-channel-broadcasting-the-Saudi-League-matches-on-Nilesat-1024x683.jpg", SSC الرياضة
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/ssc.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/SSC.m3u
 
 #EXTINF:-1 group-title="  فرنسا" tvg-logo="https://th.bing.com/th?id=ODL.d978e9c2b50c3b2d0d1631c1b6e9b8db&w=151&h=101&c=10&rs=1&qlt=99&o=6&pid=23.1",  فرنسا
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/france.m3u
 
-#EXTINF:-1 group-title=" مؤسسة دازن" tvg-logo="https://iili.io/d06YU1p.png", مؤسسة دازن
+#EXTINF:-1 group-title="  دازن" tvg-logo="https://iili.io/d06YU1p.png",  دازن
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/DAZAN.m3u
 
 #EXTINF:-1 group-title="  هولندا" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPlvVaTrAjiKCAB-vRchS1WtsPHvtkcb_zA&s",  هولندا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/ziggo-sp.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Ziggo.m3u
 
 #EXTINF:-1 group-title="  اسبانيا" tvg-logo="https://images.freeimages.com/clg/istock/previews/9263/92634973-flag-of-spain.jpg",  اسبانيا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/espagne.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/spain.m3u
 
 #EXTINF:-1 group-title=" المملكة المتحدة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langfr-225px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"  المملكة المتحدة
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/anglaise
+
+#EXTINF:-1 group-title="  البرتغال" tvg-logo="https://i.pinimg.com/originals/7e/5a/e1/7e5ae14ce6206b40f5be42f952633c3c.jpg",  البرتغال
 #EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tnt-sky.html
+https://riyad08051976.blogspot.com/2025/01/portugal.html
 
 #EXTINF:-1 group-title="  يونان" tvg-logo="https://vlajky-statu.luksoft.cz/nahled-velky/recka_vlajka.jpg",  يونان
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/nov-cosm.m3u
 
 #EXTINF:-1 group-title=" ارينا" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" ارينا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/arena-sport.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Arena-Sport.m3u
 
 #EXTINF:-1 group-title="  بولندا" tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-hand-drawn-cartoon-poland-flag-png-image_5532951.jpg"   بولندا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/eleven-sp.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/POLISH.m3u
 
-#EXTINF:-1 group-title=" بلغاريا  " tvg-logo="https://cdn.soft112.com/bulgaria-flag-wallpapers/00/00/0H/C4/00000HC4QR/pad_screenshot.jpg" بلغاريا  
+#EXTINF:-1 group-title=" بلغاريا " tvg-logo="https://i.pinimg.com/1200x/27/be/88/27be88c17841a196e2b64b80cc59c3bd.jpg" بلغاريا  
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bulgaria.m3u
+
+#EXTINF:-1 group-title=" ليتوانيا" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240211/pngtree-the-national-flag-of-lithuania-image_15625877.jpg", ليتوانيا
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/GO3-%F0%9F%87%B1%F0%9F%87%B9.m3u
+
+#EXTINF:-1 group-title=" البرزيل" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.yhQReKJc8FGLI8bUHsofEwHaEo&rs=1&pid=ImgDetMain",  البرزيل
 #EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/diema-maxs.html
+https://riyad08051976.blogspot.com/2025/01/espn.html
 
 #EXTINF:-1 group-title=" دوري أبطال أوروبا" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="MPD SPORT",  دوري أبطال أوروبا
 #EXTVLCOPT:http-player-type=browser
@@ -67,12 +83,12 @@ https://riyad08051976.blogspot.com/2025/01/infinity.html
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/docm.m3u
 
 #EXTINF:-1 group-title="اوسان" tvg-logo="https://www.screennearyou.com/wp-content/uploads/2023/07/og-logo-osntv.webp?resize=681", اوسان
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/osn.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/osn.m3u
 
 #EXTINF:-1 group-title="بين ترفهية" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-movies-logo.png", بين ترفهية
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/bein-movies.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinm
 
 #EXTINF:-1 group-title="STC TV" tvg-logo="https://www.leaders-mena.com/leaders/uploads/2024/01/IMG-20240105-WA00181-780x470.jpg", STC TV
 #EXTVLCOPT:http-player-type=m3u
