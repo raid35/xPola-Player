@@ -6,9 +6,9 @@ https://siksa24.blogspot.com/2024/12/blog-post.html
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
-#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://logodix.com/logo/2195607.png",  بين  سبور
+#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1",  بين  سبور
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-ar
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
 
 #EXTINF:-1 group-title=" king365tv " tvg-logo="https://king365tv.cc/wp-content/uploads/2021/12/logodis.png", king365tv
 #EXTVLCOPT:http-player-type=m3u
