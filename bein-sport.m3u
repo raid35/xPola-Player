@@ -39,12 +39,12 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/france.m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/DAZAN.m3u
 
 #EXTINF:-1 group-title="  هولندا" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPlvVaTrAjiKCAB-vRchS1WtsPHvtkcb_zA&s",  هولندا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/ziggo-sp.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Ziggo.m3u
 
 #EXTINF:-1 group-title="  اسبانيا" tvg-logo="https://images.freeimages.com/clg/istock/previews/9263/92634973-flag-of-spain.jpg",  اسبانيا
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/espagne.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/spain.m3u
 
 #EXTINF:-1 group-title=" المملكة المتحدة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langfr-225px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"  المملكة المتحدة
 #EXTVLCOPT:http-player-type=browser
@@ -91,8 +91,8 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/docm.m3u
 https://riyad08051976.blogspot.com/2025/01/osn.html
 
 #EXTINF:-1 group-title="بين ترفهية" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-movies-logo.png", بين ترفهية
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/bein-movies.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinm
 
 #EXTINF:-1 group-title="STC TV" tvg-logo="https://www.leaders-mena.com/leaders/uploads/2024/01/IMG-20240105-WA00181-780x470.jpg", STC TV
 #EXTVLCOPT:http-player-type=m3u
