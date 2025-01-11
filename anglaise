@@ -24,9 +24,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://iili.io/JV1mHqg.png" group-title="BRITISH SPORTS",Sky Sports Premier League
 https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
-Sky Sports +
+#EXTINF:-1 tvg-id="Sky Sports +.uk" tvg-logo="https://iili.io/JV1mHqg.png" group-title="BRITISH SPORTS",Sky Sports +
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
-Sky Sports Football
+#EXTINF:-1 tvg-id="Sky Sports Football.uk" tvg-logo="https://iili.io/JV1mHqg.png" group-title="BRITISH SPORTS",Sky Sports Football
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
