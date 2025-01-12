@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-ID="bein-connect" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1614239&extension=ts&play_token=SDRm6kB5bI
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1614238&extension=ts&play_token=8proTcZout
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD 
+http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1614237&extension=ts&play_token=KPhnWPxlM9
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1614236&extension=ts&play_token=h8vXZcJS9Z
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1614235&extension=ts&play_token=UvuUYnjeWt
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1614234&extension=ts&play_token=b798D1doh4
