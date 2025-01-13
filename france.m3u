@@ -61,25 +61,25 @@ https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="┃FR┃ CANAL+ CINEMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA FHD
 http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=526134&extension=ts&play_token=njSOdmfMno
 #EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="┃FR┃ CANAL+ SERIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES FHD
-http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=526131&extension=ts&play_token=zVdChC0w0f
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=355917&extension=ts&play_token=iguwFc7boX
 #EXTINF:-1 tvg-id="canalplusboxoffice.fr" tvg-name="┃FR┃ CANAL+ BOX OFFICE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ BOX OFFICE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE FHD
 http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=876361&extension=ts&play_token=1GsXi8lBEA
 #EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="┃FR┃ CANAL+ GRAND ECRAN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN FHD
 http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=863794&extension=ts&play_token=v8ZRSM2wzQ
 #EXTINF:-1 tvg-id="action.fr" tvg-name="┃FR┃ ACTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/ACTION.png" group-title="┃FR┃ MY CANAL+",┃FR┃ ACTION FHD
-http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506593&extension=ts&play_token=uL3CLskRfx
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=355906&extension=ts&play_token=YIFUm8QAty
 #EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="┃FR┃ CINE+ PREMIER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ PREMIER.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ PREMIER HD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113182.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=806711&extension=ts&play_token=L8W6zzoe9y
 #EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="┃FR┃ FESTIVAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Club.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Club HD
 http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506603&extension=ts&play_token=QwkbjfuJmZ
 #EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="┃FR┃ CINE+ Famiz HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Famiz.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Famiz HD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113387.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=806710&extension=ts&play_token=n2xrHx1cKz
 #EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="┃FR┃ CINE+ Emotion HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Emotion.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Emotion HD
 http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506604&extension=ts&play_token=Byc9v9vp27
 #EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="┃FR┃ CINE+ Frisson HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Frisson.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Frisson HD
-http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506606&extension=ts&play_token=IlsumXkN0g
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=806712&extension=ts&play_token=LRcUDdDTvp
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="┃FR┃ CINE+ Classic HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Classic.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Classic HD
-http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506602&extension=ts&play_token=3YESAR1lT5
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=355920&extension=ts&play_token=WZiG81GQm2
 #EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="┃FR┃ PARAMOUNT CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT CHANNEL.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL FHD
 http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506595&extension=ts&play_token=d1RX8r99JV
 #EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PARAMOUNT DECALE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT DECALE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE FHD
