@@ -59,33 +59,33 @@ https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Vip Sports",L'Equipe Live 2 🇫🇷
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="┃FR┃ CANAL+ CINEMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113175.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=526134&extension=ts&play_token=njSOdmfMno
 #EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="┃FR┃ CANAL+ SERIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113177.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=526131&extension=ts&play_token=zVdChC0w0f
 #EXTINF:-1 tvg-id="canalplusboxoffice.fr" tvg-name="┃FR┃ CANAL+ BOX OFFICE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ BOX OFFICE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113721.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=876361&extension=ts&play_token=1GsXi8lBEA
 #EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="┃FR┃ CANAL+ GRAND ECRAN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113176.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=863794&extension=ts&play_token=v8ZRSM2wzQ
 #EXTINF:-1 tvg-id="action.fr" tvg-name="┃FR┃ ACTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/ACTION.png" group-title="┃FR┃ MY CANAL+",┃FR┃ ACTION FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113396.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506593&extension=ts&play_token=uL3CLskRfx
 #EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="┃FR┃ CINE+ PREMIER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ PREMIER.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ PREMIER HD
 http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113182.m3u8
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="┃FR┃ CINE+ Club HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Club.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Club HD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113184.m3u8
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="┃FR┃ FESTIVAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Club.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Club HD
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506603&extension=ts&play_token=QwkbjfuJmZ
 #EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="┃FR┃ CINE+ Famiz HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Famiz.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Famiz HD
 http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113387.m3u8
 #EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="┃FR┃ CINE+ Emotion HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Emotion.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Emotion HD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113181.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506604&extension=ts&play_token=Byc9v9vp27
 #EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="┃FR┃ CINE+ Frisson HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Frisson.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Frisson HD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113183.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506606&extension=ts&play_token=IlsumXkN0g
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="┃FR┃ CINE+ Classic HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Classic.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Classic HD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113180.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506602&extension=ts&play_token=3YESAR1lT5
 #EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="┃FR┃ PARAMOUNT CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT CHANNEL.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113235.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506595&extension=ts&play_token=d1RX8r99JV
 #EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PARAMOUNT DECALE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT DECALE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113392.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506594&extension=ts&play_token=UuoY87nMtT
 #EXTINF:-1 tvg-id="serieclub.fr" tvg-name="┃FR┃ SERIE CLUB FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/SERIE CLUB.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ SERIE CLUB FHD
-http://mnbgy.com:80/live/sabrikrasniqichcobra/nQH5rFEtYMafht6ju7w5uijsfgtuitvv/113400.m3u8
+http://uhd3.one:80/play/live.php?mac=00:1A:79:E8:00:41&stream=506585&extension=ts&play_token=UgPNWTOdQO
 #EXTINF:-1 group-title=" بلجيكا" tvg-logo="https://th.bing.com/th/id/OIP.XAq5P_BT273rMb9rn9f6-wHaE8?w=1024&h=683&rs=1&pid=ImgDetMain", بلجيكا
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/belig.html
