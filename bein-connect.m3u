@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-4-k" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-4-k-arabia.png",bein-4-k
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1500113&extension=ts&play_token=ysAhzGmJ4g
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bein connect
-http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1411395&extension=ts&play_token=0s1VIvMWLI
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363480&extension=ts&play_token=9O3Dgpav8z
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bein-connect
-http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363481&extension=ts&play_token=Vx8J1fIZVw&sn2
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1411395&extension=ts&play_token=0s1VIvMWLI
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bein connect 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363482&extension=ts&play_token=7HWXQ4d37y&sn2
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bein-connect
