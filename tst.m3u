@@ -1,194 +1,75 @@
-#EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="2" refresh="24"
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="Sports",Premier Sports 1 
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="Sports",Premier Sports 2 
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="Sports",Premier Sports 3 
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="Sports",Premier Sports 4 
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Sports",Premier Sports 5 
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport" ch-number="811" group-title=" Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium91/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport2" ch-number="812" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport4" ch-number="814" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",Astro Supersport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium43/index.m3u8
-
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/fcWD5zb.png" group-title="Sports",BT Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium31/index.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/dmVSHmd.png" group-title="Sports",BT Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium32/index.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/xbd7ICX.png" group-title="Sports",BT Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium33/index.m3u8
-#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-logo="https://i.imgur.com/ybW83o3.png" group-title="Sports",BT Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium34/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium370/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 1 DE
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4bce9607bd2e4fcbbbaa01ae3183ded0&key=0f24f15eb1159120f5497d79468b50d4
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 2 DE
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=bfd49547070e4e13aafbced309d18cb3&key=a8d7ba68598055ae2b10d79652237f2e
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 1 ES
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=8b3f805666294fb2905dcf6cbe3fadf5&key=c8ad183c374949c7dce645bf75f634a0
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_3_HD_HTTP/__op/dash-default/__dci/245/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 2 ES
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=3a231bbf8db144ad821bb4e043343df4&key=071010a6503a81f51b407dca3b7b2660
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_4_HD_HTTP/__op/dash-default/__dci/246/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=986ff9d8c4ec484b9150ad5e40fa5d23&key=f29b34c7f159e477108fcad52bd54ead
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport_HD_HTTP/__op/dash-default/__dci/119/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports 2
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=5ebe06129860435d9b8260799df031ce&key=5ee33c22b78b64a455882aa12a6cde46
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport2_HD_HTTP/__op/dash-default/__dci/120/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports 3
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=0ad97466c13f439583761665c7e79671&key=10a572ccaa3f5ffc7f7e40779b134f25
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport3_HD_HTTP/__op/dash-default/__dci/187/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports 3
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-042/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=7fe3ec6bc57246a181482ac894eb19ff&key=fef44cc79cc6b6e5a7c07a1a1995c12f
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport4_HD_HTTP/__op/dash-default/__dci/188/__f/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn F1 Es
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="Sports" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd
-
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="Sports" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
-
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/c4xCRM6V/24712c40-7374-11ec-91d2-797a50c5a656-webp-320.png" group-title="Sports",Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.postimg.cc/L5H9V24z/24cc6ba0-7374-11ec-91d2-797a50c5a656-webp-320.png" group-title="Sports",Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.postimg.cc/BndJVxQZ/251d71d0-7374-11ec-91d2-797a50c5a656-webp-320.png" group-title="Sports",Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.postimg.cc/ZqFXx3WM/257296b0-7374-11ec-b576-afbb0a1303ef-webp-320.png" group-title="Sports",Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.postimg.cc/9z5Bk8St/25d3c980-7374-11ec-8066-ffb72c13e721-webp-320.png" group-title="Sports",Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports",Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium38/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium130/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports",Sky Sports Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium35/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/3pySViT.png" group-title="Sports",Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium60/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://i.imgur.com/YcPGCZ5.png" group-title="Sports",Sky Sports Arena
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium36/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports",Sky Sports Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium37/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/BoB4qIE.png" group-title="Sports",Sky Sports Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium70/index.m3u8
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png" group-title="Sports",Sky Sports Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium65/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/L9nSw5W.png" group-title="Sports",Sky Sports Mix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium91/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.imgur.com/d6Kzla9.pngg" group-title="Sports",Sky Sports Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium92/index.m3u8
-#EXTINF:-1 tvg-id="daddy" tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1" group-title="Sports",bein daddy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium91/index.m3u8
-#EXTINF:-1 tvg-id="daddy" tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1" group-title="Sports",bein daddy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium92/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=27bf7f42b47f40f8ac8999dd493be0c8&key=beac9efc2c93e9b90dd8eff5bbe31068
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport5_HD_HTTP/__op/dash-default/__dci/236/__f/manifest.mpd
