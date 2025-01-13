@@ -34,3 +34,7 @@ https://webudit.hlsjs.ru/lb/premium98/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium99/index.m3u8
+#EXTINF:-1 tvg-id="daddy" tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1" group-title="Sports",bein daddy
+https://4444.koora-live.video/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="daddy" tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1" group-title="Sports",bein daddy
+https://4444.koora-live.video/hls/1/stream.m3u8
