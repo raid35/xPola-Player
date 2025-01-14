@@ -1,37 +1,19 @@
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 1
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod1.html
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 2
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod2.html
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 3
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod-3.html
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 4
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod4.html
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 5
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod5.html
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 6
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod6.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 7
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 1
 #EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/ch1/index.html?channel=ch1
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 2
 #EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/ch2/index.html
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 9
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 3
 #EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/ch3/index.html
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 10
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 4
 https://high-kora.com/TOD/ch4/index.html
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 11
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 5
 https://high-kora.com/TOD/ch5/index.html
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 12
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 6
 https://high-kora.com/TOD/ch6/index.html
