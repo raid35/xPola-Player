@@ -10,11 +10,11 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
-#EXTINF:-1 group-title="connect TST" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png", connect TST
+#EXTINF:-1 group-title="connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png", connect
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-connect.m3u
 
-#EXTINF:-1 group-title="  TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw",  TOD TST
+#EXTINF:-1 group-title="  TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw",  TOD
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
 
@@ -62,10 +62,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/spain.m3u
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/anglaise
 
-#EXTINF:-1 group-title="  البرتغال" tvg-logo="https://i.pinimg.com/originals/7e/5a/e1/7e5ae14ce6206b40f5be42f952633c3c.jpg",  البرتغال
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/portugal.html
-
 #EXTINF:-1 group-title="  يونان" tvg-logo="https://vlajky-statu.luksoft.cz/nahled-velky/recka_vlajka.jpg",  يونان
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/nov-cosm.m3u
@@ -85,10 +81,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bulgaria.m
 #EXTINF:-1 group-title=" ليتوانيا" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240211/pngtree-the-national-flag-of-lithuania-image_15625877.jpg", ليتوانيا
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/GO3-%F0%9F%87%B1%F0%9F%87%B9.m3u
-
-#EXTINF:-1 group-title=" البرزيل" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.yhQReKJc8FGLI8bUHsofEwHaEo&rs=1&pid=ImgDetMain",  البرزيل
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/espn.html
 
 #EXTINF:-1 group-title=" دوري أبطال أوروبا" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="MPD SPORT",  دوري أبطال أوروبا
 #EXTVLCOPT:http-player-type=browser
