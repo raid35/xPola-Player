@@ -38,3 +38,12 @@ https://webudit.hlsjs.ru/lb/premium99/index.m3u8
 https://4444.koora-live.video/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="daddy" tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1" group-title="Sports",bein daddy
 https://4444.koora-live.video/hls/1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 1 VEGA
+http://vip.sehzade5.com:2095/live/HgVP7xhgf9Wn/Vjd9YmBKyN55/6904.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 2 VEGA
+http://vip.sehzade5.com:2095/live/HgVP7xhgf9Wn/Vjd9YmBKyN55/6905.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORT http://vip.sehzade5.com:2095/live/HgVP7xhgf9Wn/Vjd9YmBKyN55/6906.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 4 VEGA
+http://vip.sehzade5.com:2095/live/HgVP7xhgf9Wn/Vjd9YmBKyN55/6907.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 VEGA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORT MINI",beIN SPORTS 5 VEGA
+http://vip.sehzade5.com:2095/live/HgVP7xhgf9Wn/Vjd9YmBKyN55/6908.ts
