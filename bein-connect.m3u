@@ -18,21 +18,3 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363486&extension=
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363487&extension=ts&play_token=TX4MUIWVoI&sn2
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bei connect
 http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1363488&extension=ts&play_token=qJwHKdSIn3&sn2
-#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="1" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",1
-https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_E/index.m3u8
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="2" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",2
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46658.ts
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="3" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",3
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46659.ts
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="4" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",4
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46660.ts
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="5" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",5
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46661.ts
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="6" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",6
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46662.ts
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="7" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",7
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46663.ts
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="8" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",8
-http://265.purstream.net/live/ibrahim_aksu/f0yC34xC/46664.ts
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="9" tvg-logo="https://i.ytimg.com/vi/zopASDOSINI/hqdefault.jpg" group-title="BEIN SPORTS HD",9 
-https://raw.githubusercontent.com/raid35/xPola-Player/main/bein1.m3u8
