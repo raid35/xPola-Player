@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="1" tvg-logo="https://eighty-eight.tv/wp-content/uploads/2024/12/%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A7%D9%8A%D8%AA-%D9%84%D8%A7%D9%8A%D9%81-banner.webp" group-title="BEIN SPORTS HD",1
-https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.m3u8
+#EXTVLCOPT:http-player-type=browser
+https://siksa40.blogspot.com/2025/01/sps1.html
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="1" tvg-logo="https://eighty-eight.tv/wp-content/uploads/2024/12/%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A7%D9%8A%D8%AA-%D9%84%D8%A7%D9%8A%D9%81-banner.webp" group-title="BEIN SPORTS HD",1
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_B/index.m3u8
 #EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="2" tvg-logo="https://eighty-eight.tv/wp-content/uploads/2024/12/%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A7%D9%8A%D8%AA-%D9%84%D8%A7%D9%8A%D9%81-banner.webp" group-title="BEIN SPORTS HD",2
