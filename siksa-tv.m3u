@@ -10,6 +10,10 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
+#EXTINF:-1 group-title="ايت لايف" tvg-logo="https://eighty-eight.tv/wp-content/uploads/2024/12/%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A7%D9%8A%D8%AA-%D9%84%D8%A7%D9%8A%D9%81-banner.webp", ايت لايف
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3u
+
 #EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1",  بين  سبور
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
