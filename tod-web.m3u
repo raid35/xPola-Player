@@ -19,3 +19,6 @@ https://high-kora.com/TOD/ch6/index.html
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 7
 #EXTVLCOPT:http-player-type=webplayer 
 https://high-kora.com/TOD/ch5/index1.html 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 8
+#EXTVLCOPT:http-player-type=webplayer 
+https://high-kora.com/TOD/ch7/index1.html 
