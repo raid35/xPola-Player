@@ -35,6 +35,6 @@ http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363486&ext
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect
 http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363487&extension=ts&play_token=a0WgmbYvyC
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-connect " tvg-logo=https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bei connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363488&extension=ts&play_token=2G2p0t33iI
+https://short-pi.vercel.app/r.htm?MC40Mz
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 5
 EXTVLCOPT:http-player-type=webplayer
