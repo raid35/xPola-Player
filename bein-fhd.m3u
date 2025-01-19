@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1", BEIN SPORTS 1 FHD
-http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1411396&extension=ts&play_token=Lq4zbLDVPk
+https://cdn.otvplayer.com/bn_cdn_4k1.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1", BEIN SPORTS 2 FHD
 http://user.scalecdn.co:8080/live/19995634/79960700/659428.ts
 #EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1", BEIN SPORTS 3 FHD
