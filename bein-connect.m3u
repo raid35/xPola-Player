@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bein connect
-#EXTVLCOPT:http-player-type=browser
-https://siksa40.blogspot.com/2025/01/bein-sports.html
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-4-k" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-4-k-arabia.png",bein-4-k
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1500113&extension=ts&play_token=ysAhzGmJ4g
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bein connect
