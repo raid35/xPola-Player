@@ -19,22 +19,20 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363487&extension=
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",bei connect
 http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1363488&extension=ts&play_token=qJwHKdSIn3&sn2
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="hhttps://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363480&extension=ts&play_token=AHXG0a9Yep
+https://cdn.otvplayer.com/bn_cdn_4k1.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein-connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363481&extension=ts&play_token=RuyVpDRZmJ
+https://cdn.otvplayer.com/bn_cdn_4k2.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect " tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect 
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363482&extension=ts&play_token=TZLPfhKukd
+https://cdn.otvplayer.com/bn_cdn_4k3.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein-connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363483&extension=ts&play_token=0Sjva8qjpH
+https://cdn.otvplayer.com/bn_cdn_4k4.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363484&extension=ts&play_token=1tOFZtXYJo
+https://cdn.otvplayer.com/bn_cdn_4k5.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363485&extension=ts&play_token=SVfgMOYsDm
+https://cdn.otvplayer.com/bn_cdn_4k6.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect " tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein-connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363486&extension=ts&play_token=zqDxzSaAG6
+https://cdn.otvplayer.com/bn_cdn_4k7.m3u8
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect
-http://bes5.alphatx.me:80/play/live.php?mac=00:1A:79:fb:22:95&stream=1363487&extension=ts&play_token=a0WgmbYvyC
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-connect " tvg-logo=https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bei connect
-https://short-pi.vercel.app/r.htm?MC40Mz
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 5
-EXTVLCOPT:http-player-type=webplayer
+https://cdn.otvplayer.com/bn_cdn_4k8.m3u8
+#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://th.bing.com/th/id/OIP.5FkTkozr3nybt1XI3_WBhQHaDn?w=300&h=170&c=7&r=0&o=5&pid=1.7" group-title="bein-connect",bein connect
+https://cdn.otvplayer.com/bn_cdn_4k9.m3u8
