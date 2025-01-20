@@ -122,6 +122,18 @@ https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df38
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
 https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
+#EXTINF:-1 group-title="rts" tvg-logo="https://il.srgssr.ch/image-service/dynamic/857dda.svg", rts1
+https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 group-title="rts" tvg-logo="https://il.srgssr.ch/image-service/dynamic/c915e35.svg", rts2
+https://cachehsi1a.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/150px-Rai_1_-_Logo_2016.svg.png", rai1
+https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/150px-Rai_2_-_Logo_2016.svg.png", rai2
+https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/150px-Rai_3_-_Logo_2016.svg.png", rai3
+https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/150px-Rai_4_-_Logo_2016.svg.png", rai4
+https://cachehsi1a.netplus.ch/live/eds/rai4/browser-dash/rai4.mpd
 #EXTINF:-1 cuid="561" tvg-chno="561" tvg-name="TF1 🇫🇷" tvg-id="TF1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp" group-title="France Channels",TF1 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 cuid="567" tvg-chno="567" tvg-name="TF1 Series Films 🇫🇷" tvg-id="TF1.Séries-Films.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp" group-title="France Channels",TF1 Series Films 🇫🇷
