@@ -1,12 +1,18 @@
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+#EXTINF:-1 tvg-ID="bein-connect" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330433&extension=ts&play_token=zGh2ktXmXS&sn2
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330432&extension=ts&play_token=tsy00NsPXE&sn2
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD 
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330431&extension=ts&play_token=tVyf3sFvKa&sn2
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330430&extension=ts&play_token=MN4umouRcH&sn2
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330429&extension=ts&play_token=QRAjv7d95I&sn2
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw" group-title="TOD",TOD
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330428&extension=ts&play_token=Gq3sdazBHx&sn2
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330427&extension=ts&play_token=iKGb3fAQ78&sn2=
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330426&extension=ts&play_token=J3nzPIO9py&sn2=
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="TOD",8K
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1330425&extension=ts&play_token=YNmk0QC5KW&sn2=
