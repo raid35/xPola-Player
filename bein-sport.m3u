@@ -30,6 +30,10 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
 
+#EXTINF:-1 group-title="king365TV" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png",  king365TV
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinhd.m3u
+
 #EXTINF:-1 group-title="نوفالير" tvg-logo="https://www.novaler.com/build/images/slides/slide6/box.png", نوفالير
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/novaler.m3u
