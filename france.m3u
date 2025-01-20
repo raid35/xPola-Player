@@ -122,9 +122,9 @@ https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df38
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
 https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
-#EXTINF:-1 group-title="rts" tvg-logo="https://il.srgssr.ch/image-service/dynamic/857dda.svg", rts1
+#EXTINF:-1 group-title="rts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/150px-RTS_1_Logo_2023.svg.png", rts1
 https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 group-title="rts" tvg-logo="https://il.srgssr.ch/image-service/dynamic/c915e35.svg", rts2
+#EXTINF:-1 group-title="rts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/150px-RTS_2_Logo_2023.svg.png", rts2
 https://cachehsi1a.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/150px-Rai_1_-_Logo_2016.svg.png", rai1
 https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
