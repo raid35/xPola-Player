@@ -59,9 +59,9 @@ https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Vip Sports",L'Equipe Live 2 🇫🇷
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="┃FR┃ CANAL+ CINEMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA FHD
-http://265.purstream.net/live/ttMevlutTekcan/dwe27032024za/38865.ts
+http://109.61.81.147:2080/cdn2/370/video.m3u8?token=QUWJEnwmm2&token=3a7a851a148454b6d9b632e9cedb319b
 #EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="┃FR┃ CANAL+ SERIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ SERIES.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES FHD
-http://265.purstream.net/live/ttMevlutTekcan/dwe27032024za/38868.ts
+http://109.61.81.147:2080/cdn2/372/video.m3u8?token=QUWJEnwmm2&token=722d9e90f6b51ba4914aca08a4e72f91
 #EXTINF:-1 tvg-id="canalplusboxoffice.fr" tvg-name="┃FR┃ CANAL+ BOX OFFICE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ BOX OFFICE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE FHD
 http://mnbgy.com/live/Meli-vllau-liridonit/jeZBSuUUP1HyBDEtFWBq9AjEJCFKA3A7t/113207.ts
 #EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="┃FR┃ CANAL+ GRAND ECRAN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN FHD
@@ -75,11 +75,11 @@ http://mnbgy.com/live/Meli-vllau-liridonit/jeZBSuUUP1HyBDEtFWBq9AjEJCFKA3A7t/113
 #EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="┃FR┃ CINE+ Famiz HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Famiz.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Famiz HD
 http://mnbgy.com/live/Meli-vllau-liridonit/jeZBSuUUP1HyBDEtFWBq9AjEJCFKA3A7t/113182.ts
 #EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="┃FR┃ CINE+ Emotion HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Emotion.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Emotion HD
-http://265.purstream.net/live/ttMevlutTekcan/dwe27032024za/38871.ts
+http://109.61.81.147:2080/cdn2/375/video.m3u8?token=QUWJEnwmm2&token=8f94d2b7cdd59444aa68d9facf61ed0f
 #EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="┃FR┃ CINE+ Frisson HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Frisson.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Frisson HD
-http://265.purstream.net/live/ttMevlutTekcan/dwe27032024za/38873.ts
+http://109.61.81.147:2080/cdn2/376/video.m3u8?token=QUWJEnwmm2&token=8e302d8fb25cafca7083f1b5eeff9ae7
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="┃FR┃ CINE+ Classic HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Classic.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Classic HD
-http://265.purstream.net/live/ttMevlutTekcan/dwe27032024za/38875.ts
+http://109.61.81.147:2080/cdn2/378/video.m3u8?token=QUWJEnwmm2&token=19d12a4557ccd65e5dcf3fbdd20a69bf
 #EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="┃FR┃ PARAMOUNT CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT CHANNEL.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL FHD
 http://265.purstream.net/live/ttMevlutTekcan/dwe27032024za/38778.ts
 #EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PARAMOUNT DECALE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/PARAMOUNT DECALE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE FHD
