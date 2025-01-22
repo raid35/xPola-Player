@@ -1,3 +1,18 @@
-#EXTINF:-1 group-title=" show.alfajertv  " tvg-logo="https://show.alfajertv.com/wp-content/uploads/2019/09/fslogo.png" show.alfajertv  
-#EXTVLCOPT:http-player-type=browser
-https://show.alfajertv.com/genre/english-movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 1 Connect
+https://cdn.otvplayer.com/bn_cdn_4k1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 2 Connect
+https://cdn.otvplayer.com/bn_cdn_4k2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 3 Connect 
+https://cdn.otvplayer.com/bn_cdn_4k3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 4 Connect
+https://cdn.otvplayer.com/bn_cdn_4k4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 5 Connect
+https://cdn.otvplayer.com/bn_cdn_4k5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 6 Connect
+https://cdn.otvplayer.com/bn_cdn_4k6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 7 Connect
+https://cdn.otvplayer.com/bn_cdn_4k7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 8 Connect
+https://cdn.otvplayer.com/bn_cdn_4k8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 9 Connect
+https://cdn.otvplayer.com/bn_cdn_4k9.m3u8
