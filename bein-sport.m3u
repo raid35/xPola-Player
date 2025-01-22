@@ -122,10 +122,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/stc
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/film
 
-#EXTINF:-1 tvg-logo=""https://img.youm7.com/ArticleImgs/2019/12/27/2747322-%D8%A7%D9%81%D9%84%D8%A7%D9%85.jpg", HDToday
-#EXTVLCOPT:http-player-type=browser
-https://hdtodayz.to/home
-
 
 
 
