@@ -34,6 +34,10 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3u
 
+#EXTINF:-1 group-title="بين" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="بين " بين
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Sky-sp.m3u
+
 #EXTINF:-1 group-title="king365TV" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png",  king365TV
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinhd.m3u
