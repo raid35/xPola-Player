@@ -1,14 +1,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00053ac1e9b1231eed3eb4e3540b3ae1:0f03d8541826af3d9acbac975d751165
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" group-title="Sports",Sky sports cricket
-https://skytest.starlive.workers.dev/https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005403920c26e3aa0c4d81338d2690e:f0dfa2c26f12eaf2c9b3c5a4a4f15a86
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-title="Sports",Sky sports Main Event
-https://skytest.starlive.workers.dev/https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00058250a3379de8bc837253d41fb434:f0dfa2c26f12eaf2c9b3c5a4a4f15a86
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbcv4ShM6sc161Ht_KXD_zt5cOpvK41miRA&s" group-title="Sports",Sky sports Football
-https://skytest.starlive.workers.dev/https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
