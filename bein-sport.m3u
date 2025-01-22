@@ -30,6 +30,10 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
 
+#EXTINF:-1 group-title="siksa tv " tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2612984_ico.png?ts=1737508997", siksa tv
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3u
+
 #EXTINF:-1 group-title="king365TV" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png",  king365TV
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinhd.m3u
