@@ -28,3 +28,8 @@ http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=EnjXrwvn-0fryFl
 
 #EXTINF:-1 group-title="s9" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2612984_ico.png?ts=1737508997", serv3
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=Cqr9Anabt1sQpc0QotGhkA&e=1736055145
+[
+  "http://het131a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=sTk_hJh9le_PutvaPmSbNA&e=1736054158|name=serv1",
+  "http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=EnjXrwvn-0fryFlaBA-Sdw&e=1736054254|name=serv2",
+  "http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=Cqr9Anabt1sQpc0QotGhkA&e=1736055145|name=serv3"
+]
