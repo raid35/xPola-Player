@@ -22,6 +22,10 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-conne
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
 
+#EXTINF:-1 group-title="  ultra" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" ultra
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/POLISH.m3u
+
 #EXTINF:-1 group-title="4K" tvg-logo="https://th.bing.com/th/id/OIP.xQjj3ufnWkg1W-NkqOjioQHaHa?w=156&h=180&c=7&r=0&o=5&pid=1.7webp", 4K
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3u
@@ -89,10 +93,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/nov-cosm.m
 #EXTINF:-1 group-title=" ارينا" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" ارينا
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Arena-Sport.m3u
-
-#EXTINF:-1 group-title="  بولندا" tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-hand-drawn-cartoon-poland-flag-png-image_5532951.jpg"   بولندا
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/POLISH.m3u
 
 #EXTINF:-1 group-title=" بلغاريا " tvg-logo="https://i.pinimg.com/1200x/27/be/88/27be88c17841a196e2b64b80cc59c3bd.jpg" بلغاريا  
 #EXTVLCOPT:http-player-type=m3u
