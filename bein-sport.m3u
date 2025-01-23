@@ -18,10 +18,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
-#EXTINF:-1 group-title="connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png", connect
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-connect.m3u
-
 #EXTINF:-1 group-title="  8K" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7",  8K
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
