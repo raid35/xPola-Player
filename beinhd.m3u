@@ -1,36 +1,18 @@
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/89259.m3u8
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112484.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/89263.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112423.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 HD (50 FPS)
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",ultra
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116694.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",ultra
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116695.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="ultra" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",ultra
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116696.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",|AR| BEIN SPORTS 2 FHD (50 FPS)
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116697.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",ultra
 http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/89265.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112292.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/89264.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112471.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112157.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112323.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112158.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112148.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112159.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112089.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112154.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/45545.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112156.m3u8
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://king-365.com/wp-content/uploads/2022/06/cropped-king365TV-V3-1.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/22393.m3u8
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",IPTVsat
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116698.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",IPTVsat
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116699.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="|IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",IPTVsat
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116700.ts
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",IPTVsat
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116701.ts
