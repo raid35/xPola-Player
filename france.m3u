@@ -148,10 +148,3 @@ https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/canalplus/c8.m3u8
 #EXTINF:-1 cuid="567" tvg-chno="567" tvg-name="nrj12 🇫🇷" tvg-id="nrj12.fr" tvg-logo="https://jesoutiensnrj12.nrj-play.fr/logo-nrj-2.png" group-title="France Channels",nrj12 🇫🇷
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein3.png" group-title="Sports",BEIN
-#EXTVLCOPT:http-referrer=https://www.tod.tv/
-https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/hdntl=exp=1737848180~acl=%2fvariant%2fv1blackout%2fspo-hd-08-d%2f*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=hdntl,3f3b9a9c-134d-4d29-931d-5aa03946697f~hmac=090bf11068f452ee2512ebe101be4ce281a8fdf31ba0f327a84ab26ae31a01c8/manifest.mpd?vcfilter=3dab5ead-3c50-46c7-94fd-355aebe2c5e1&
-#EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein3.png" group-title="Sports",BEIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tod.tv/
-https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/hdntl=exp=1737848180~acl=%2fvariant%2fv1blackout%2fspo-hd-08-d%2f*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=hdntl,3f3b9a9c-134d-4d29-931d-5aa03946697f~hmac=090bf11068f452ee2512ebe101be4ce281a8fdf31ba0f327a84ab26ae31a01c8/manifest.mpd?vcfilter=3dab5ead-3c50-46c7-94fd-355aebe2c5e1&
