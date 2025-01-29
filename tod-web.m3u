@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 1
-#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-player-type=browser
 https://high-kora.com/TOD/WEB/BEIN/bs1.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 2
 #EXTVLCOPT:http-player-type=webplayer
