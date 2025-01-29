@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 1
-#EXTVLCOPT:http-player-type=browser
+#EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/WEB/BEIN/bs1.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 2
 #EXTVLCOPT:http-player-type=webplayer
@@ -9,22 +9,31 @@ https://high-kora.com/TOD/WEB/BEIN/bs2.php?api_key=alwazir2025&id=2
 https://high-kora.com/TOD/WEB/BEIN/bs3.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 4
 #EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/webapp/BEIN/b4.php
+https://high-kora.com/TOD/WEB/BEIN/bs4.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 5
 #EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/webapp/BEIN/b5.php
+https://high-kora.com/TOD/WEB/BEIN/bs5.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 6
 #EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/webapp/BEIN/b6.php
+https://high-kora.com/TOD/WEB/BEIN/bs6.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 7
 #EXTVLCOPT:http-player-type=browser 
-https://riyad08051976.blogspot.com/2025/01/tod7.html
+https://high-kora.com/TOD/WEB/BEIN/bs7.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 8
 #EXTVLCOPT:http-player-type=webplayer 
-https://high-kora.com/TOD/webapp/BEIN/b8.php
+https://high-kora.com/TOD/WEB/BEIN/bs8.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 9
 #EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/webapp/BEIN/b9.php
+https://high-kora.com/TOD/WEB/BEIN/bs9.php?api_key=alwazir2025&id=2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD x1
+#EXTVLCOPT:http-player-type=webplayer
+https://high-kora.com/TOD/WEB/BEIN/bx1.php?api_key=alwazir2025&id=2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD x2
+#EXTVLCOPT:http-player-type=webplayer
+https://high-kora.com/TOD/WEB/BEIN/bx2.php?api_key=alwazir2025&id=2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD x3
+#EXTVLCOPT:http-player-type=browser 
+https://high-kora.com/TOD/WEB/BEIN/bx3.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", bein4k1
 #EXTVLCOPT:http-player-type=webplayer
 https://servers78.blogspot.com/p/bein4k1.html
