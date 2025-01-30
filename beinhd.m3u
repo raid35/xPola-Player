@@ -1,6 +1,9 @@
-#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://i.postimg.cc/yNxDdxm2/image1.png",
+#EXTINF:-1 tvg-id="success": true,
+  "data": {
+    "title": "bein sports 2",
+    "thumbnail": "https://i.postimg.cc/yNxDdxm2/image1.png",
     "logo": "https://i.postimg.cc/Cx64LGng/alwazir.png",
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116694.ts
+    "stream_url"http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116694.ts
 #EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://i.pinimg.com/originals/ee/d6/ac/eed6ac14d3a0c6ccbc438948369ecf20.png" group-title="IPTVsat",2
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116695.ts
 #EXTINF:-1 tvg-id="IPTVsat" tvg-name="ultra" tvg-logo="https://i.pinimg.com/originals/ee/d6/ac/eed6ac14d3a0c6ccbc438948369ecf20.png" group-title="IPTVsat",3
