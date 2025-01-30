@@ -1,16 +1,5 @@
-#EXTINF:-1 {
-  "success": true,
-  "data": {
-    "title": "bein sports 2",
-    "thumbnail": "https://i.postimg.cc/yNxDdxm2/image1.png",
-    "logo": "https://i.postimg.cc/Cx64LGng/alwazir.png",
-    "stream_url": "https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-09-d/DASH_DASH/Live/channel(spo-hd-09)/manifest.mpd?vcfilter=d0704ee7-5c82-41a4-8195-1f08d2da2546&hdnts=st=1738176965~exp=1738191365~acl=/variant/v1blackout/spo-hd-09-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=300c799d-1c91-46d0-b9a0-be3cbc3b251a~hmac=3db71da658db1c84f766358bfcab0f6efb9b6d9e7fd98c8847e535ac9b59d16f&hdcore=2.11.3",
-    "drm": {
-      "keyId": "0a7934dddc3136a6922584b96c3fd1e5",
-      "key": "676e6d1dd00bfbe266003efaf0e3aa02"
-    }
-  }
-}
+#EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://i.pinimg.com/originals/ee/d6/ac/eed6ac14d3a0c6ccbc438948369ecf20.png" group-title="IPTVsat",1
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116694.ts
 #EXTINF:-1 tvg-id="IPTVsat" tvg-name="IPTVsat" tvg-logo="https://i.pinimg.com/originals/ee/d6/ac/eed6ac14d3a0c6ccbc438948369ecf20.png" group-title="IPTVsat",2
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1116695.ts
 #EXTINF:-1 tvg-id="IPTVsat" tvg-name="ultra" tvg-logo="https://i.pinimg.com/originals/ee/d6/ac/eed6ac14d3a0c6ccbc438948369ecf20.png" group-title="IPTVsat",3
