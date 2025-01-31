@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyn-eguLIZLnNY_bb6LfHr5yPOjPDDV5Mz3w&s", مباريات اليوم
-#EXTVLCOPT:http-player-type=browser
-https://siksa24.blogspot.com/2024/12/blog-post.html
-
 #EXTINF:-1 group-title=" RELAX ᵁᴴᴰ" tvg-logo="https://trexiptvpanel.net/image-proxy.php?data=http%3A%2F%2F103.176.90.118%2Fpicons%2Flogos%2Flogos%2F4K.png" RELAX ᵁᴴᴰ
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/cinma-fr
@@ -44,7 +40,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
 
 #EXTINF:-1 group-title="تلفزيون الفجر" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", تلفزيون الفجر
 #EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/fajer.html
+http://platform.topuphost.com:8558/tv.m3u
 
 #EXTINF:-1 group-title="ابوظبي الرياضية برميوم" tvg-logo="https://cdn.alweb.com/thumbs/uaeencyclopedia/article/fit710x532/%D9%85%D9%86-%D8%B5%D9%85%D9%85-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.jpg", ابوظبي الرياضية برميوم
 #EXTVLCOPT:http-player-type=m3u
