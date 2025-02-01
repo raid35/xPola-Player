@@ -1,11 +1,23 @@
-#EXTINF:-1 group-title="  كنال سبور" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/280x157/filters:quality(80)/image/66448c93b0de6/uploads/media/logo_channel_Cover_C_spo.png" كنال سبور 
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/canal-sp.html
+#EXTINF:-1 tvg-ID="bein-connect" tvg-name="TOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40182/canal-ouah/CHN43FN/CHN43FN_899_29082023"
+http://104.254.194.254/live/Ermanyaman09/RHVKsA9g5X/255248.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://ushuaiatv.fr/themes/custom/ushuaiatv/images/logo-ushuaiatv.png"
+http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=806722&extension=ts&play_token=3sCiwNeV0f
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://www.animauxtv.fr/upload/media/animaux-600af678206e1.png"  
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57066.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://www.chasseetpechetv.fr/upload/media/chasse-peche-6012bc0e07b65.png"  
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57061.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://cdn.tv-programme.com/photos/planete-plus_chaine_44.svg"
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57065.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://cdn.tv-programme.com/photos/planete-plus-aventure_chaine_5.svg"
+http://104.254.194.254/live/Ermanyaman09/RHVKsA9g5X/255385.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://cdn.tv-programme.com/photos/planete-plus-crime_chaine_80.svg"
+http://104.254.194.254/live/Ermanyaman09/RHVKsA9g5X/255386.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://histoire.fr/themes/custom/histoiretv/images/logo_histoiretv.png"
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/62675.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://www.toutelhistoire.com/upload/media/tlh-6012bcb35c363.png"
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57050.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/280x157/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/list/creplay-chaine-seasons-selection/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080-2024-10-07T174538.446-Kt_l"
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57051.ts
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png"
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57052.ts
 
-#EXTINF:-1 group-title="  كنال لايف" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" كنال لايف 
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/canal-live.html
-
-#EXTINF:-1 group-title=" دازن" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png"  دازن 
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/dazan-ligue.html
