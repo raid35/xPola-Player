@@ -14,6 +14,10 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
+#EXTINF:-1 group-title="  8K" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7",  8K
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
+
 #EXTINF:-1 group-title="4K" tvg-logo="https://th.bing.com/th/id/OIP.xQjj3ufnWkg1W-NkqOjioQHaHa?w=156&h=180&c=7&r=0&o=5&pid=1.7webp", 4K
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3u
