@@ -1,18 +1,18 @@
 #EXTINF:-1 tvg-ID="bein-connect" tvg-name="TOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40182/canal-ouah/CHN43FN/CHN43FN_899_29082023"
 http://104.254.194.254/live/Ermanyaman09/RHVKsA9g5X/255248.ts
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://ushuaiatv.fr/themes/custom/ushuaiatv/images/logo-ushuaiatv.png"
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40058/canal-ouah/CHN43FN/CHN43FN_40058_20211018"
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=806722&extension=ts&play_token=3sCiwNeV0f
 #EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://www.animauxtv.fr/upload/media/animaux-600af678206e1.png"  
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57066.ts
 #EXTINF:-1 tvg-ID="TOD" tvg-name="TOD " tvg-logo="https://www.chasseetpechetv.fr/upload/media/chasse-peche-6012bc0e07b65.png"  
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57061.ts
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://cdn.tv-programme.com/photos/planete-plus_chaine_44.svg"
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40034/canal-ouah/CHN43FN/CHN43FN_40069_20181001"
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57065.ts
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://cdn.tv-programme.com/photos/planete-plus-aventure_chaine_5.svg"
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://th.bing.com/th/id/OIP.evfOCXEI8fPhaCoeBu6F-gHaEK?rs=1&pid=ImgDetMain"
 http://104.254.194.254/live/Ermanyaman09/RHVKsA9g5X/255385.ts
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://cdn.tv-programme.com/photos/planete-plus-crime_chaine_80.svg"
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/plci.png"
 http://104.254.194.254/live/Ermanyaman09/RHVKsA9g5X/255386.ts
-#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://histoire.fr/themes/custom/histoiretv/images/logo_histoiretv.png"
+#EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40026/canal-ouah/CHN43FN/CHN43FN_40026_20211018"
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/62675.ts
 #EXTINF:-1 tvg-ID="TOD" tvg-name="TOD" tvg-logo="https://www.toutelhistoire.com/upload/media/tlh-6012bcb35c363.png"
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/57050.ts
