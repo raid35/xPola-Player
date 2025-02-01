@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title=" قنوات وثائقي عربية" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0QL5xdA_B143kCsb9JJb073v1Hb6X_pgrA&s", قنوات وثائقي عربية
-#EXTVLCOPT:http-player-type=browser
+#EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/doc-ar
 
 #EXTINF:-1 group-title=" قنوات وثائقي فرنسا" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4TKbbRZQO5roisYioABeduuNxwbTk8aTtA&s", قنوات وثائقي فرنسا
