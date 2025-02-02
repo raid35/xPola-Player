@@ -1,30 +1,28 @@
-#EXTINF:-1,#EXTINF:-1 tvg-id="Doc Story" tvg-name="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/08/plante-csat-high-resolution-logo.png"
+#EXTINF:-1 tvg-id="Doc Story" tvg-name="" tvg-logo="https://images-film-documentaire.fr/structure/27E/AE6487F8A237464A9CA8615E2DEA227E.jpg"
 https://jmp2.uk/sam-FR1200001N2.m3u8
-#EXTINF:-1,NatureTime
+EXTINF:-1 tvg-id="NatureTime" tvg-name="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/03/Nature-Time-jpeg.webp"
 https://jmp2.uk/sam-FRBB4900002D4.m3u8
-#EXTINF:-1,Destination Nature
+#EXTINF:-1 tvg-id="Destination Nature" tvg-name="" tvg-logo="https://img.global.news.samsung.com/fr/wp-content/uploads/2022/10/Vignette-Destination-Nature.jpg"
 https://jmp2.uk/sam-FRBC4000001IO.m3u8
-#EXTINF:-1,RMC MECANIC
+#EXTINF:-1 tvg-id="RMC MECANIC" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCMecanic.jpg"
 https://jmp2.uk/sam-FR300003ZB.m3u8
-#EXTINF:-1,RMC Wow
+#EXTINF:-1 tvg-id="RMC Wow" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCWowdef.jpg"
 https://jmp2.uk/sam-FR300001M1.m3u8
-#EXTINF:-1,RMC MYSTERE
+#EXTINF:-1 tvg-id="RMC MYSTERE" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCMystere.jpg"
 https://jmp2.uk/sam-FR300006GF.m3u8
-#EXTINF:-1,RMC Story
+#EXTINF:-1 tvg-id="RMC Story" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarrermcstory.png"
 https://jmp2.uk/sam-FRBD41000097I.m3u8
-#EXTINF:-1,RMC Découverte
+#EXTINF:-1 tvg-id="RMC Découverte" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarrermcdecouverte.png"
 https://jmp2.uk/sam-FRBD4100008QS.m3u8
-#EXTINF:-1,J'irai dormir chez vous
+#EXTINF:-1 tvg-id="J'irai dormir chez vous" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCJDCV.jpg"
 https://jmp2.uk/sam-FRBD4800001P4.m3u8
-#EXTINF:-1,RMC alerte secours
+#EXTINF:-1 tvg-id="RMC alerte secours" tvg-name="" tvg-logo="https://www.rmcbfmplay.com/direct-tv/rmc-alerte-secours"
 https://jmp2.uk/sam-FR30000271.m3u8
-#EXTINF:-1,Les 30 histoires
+#EXTINF:-1 tvg-id="Les 30 histoires" tvg-name="" tvg-logo="https://yt3.ggpht.com/FkaiM53NfHTBp1w-NxZl_XY3efZpWo5_V9ZzjRwBIentPU2IGxRibXrQ17RB6zZ6yoYcJxPK=s48-c-k-c0x00ffffff-no-rj"
 https://jmp2.uk/sam-FRBC4700004ZN.m3u8
-#EXTINF:-1,RMC TALK SPORT
+#EXTINF:-1 tvg-id="RMC TALK SPORT" tvg-name="" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCTalkSport.jpg"
 https://jmp2.uk/sam-FR300007IY.m3u8
-#EXTINF:-1,Top Gear
+#EXTINF:-1 tvg-id="Top Gear" tvg-name="" tvg-logo="https://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMAVOD/7/2/5/d68ed251eadf289cdf3a821b8a64553b_program_logo.png"
 https://jmp2.uk/sam-FR2400001TP.m3u8
-#EXTINF:-1,Drive TV
-https://jmp2.uk/sam-FRBD3600001BQ.m3u8
-#EXTINF:-1,Motor Racing
+#EXTINF:-1 tvg-id="Motor Racing" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKLEA6R786KYvNIvV_lVFZjqNuJptSO3X-hS1EDofyfknqV9hLmEuOF_N&s"
 https://jmp2.uk/sam-FRBD4100013LN.m3u8
