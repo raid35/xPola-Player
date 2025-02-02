@@ -42,10 +42,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
 
-#EXTINF:-1 group-title=" iptv" tvg-logo="http://176.123.9.60/images/logo-dark-lg.png" iptv
-#EXTVLCOPT:http-player-type=m3u
-https://m3uedit.com/a9841ce7-3b77-4d97-8555-fdba93369be3
-
 #EXTINF:-1 group-title="تلفزيون الفجر" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", تلفزيون الفجر
 #EXTVLCOPT:http-player-type=m3u
 http://platform.topuphost.com:8558/tv.m3u
