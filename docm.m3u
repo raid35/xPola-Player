@@ -7,5 +7,5 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/doc-ar
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/canal-sp.m3u
 
 #EXTINF:-1 group-title=" قنوات وثائقي سامسونج" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qt0R-KSlu3e9euBi6mGuNhOv9hwjzdWzDg&s", قنوات وثائقي سامسونج
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/doc-sam.html
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/doc-sms.m3u
