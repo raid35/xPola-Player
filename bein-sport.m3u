@@ -18,11 +18,11 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/misuc.m3u
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3u
 
-#EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg", الجزائر
+#EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 
-#EXTINF:-1 group-title="  8K" tvg-logo="https://th.bing.com/th/id/OIP.tqgNfZWQHnVFyn55igMIowHaGr?w=199&h=180&c=7&r=0&o=5&pid=1.7",  8K
+#EXTINF:-1 group-title="  8K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein-Logo.png",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
 
