@@ -1,36 +1,42 @@
+#EXTINF:-1 tvg-id="QuranTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" ,القرآن الكريم
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:ENTV" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title="Algeria - الجزائر",Algerian:ENTV
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1041.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:CANAL ALGERIE 2" tvg-logo="https://www.entv.dz/wp-content/uploads/2023/09/logo-entv-tV2.png" group-title="Algeria - الجزائر",Algerian:CANAL ALGERIE 2
+#EXTINF:-1 tvg-id="" tvg-name="Algerian:CANAL ALGERIE 2" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" group-title="Algeria - الجزائر",Algerian:CANAL ALGERIE 2
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1040.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE3" tvg-logo="https://www.entv.dz/wp-content/uploads/2023/09/logo-entv-tV3.png" group-title="Algeria - الجزائر",Algerian: ALGERIE3
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE3" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" group-title="Algeria - الجزائر",Algerian: ALGERIE3
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1039.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE4" tvg-logo="https://www.entv.dz/wp-content/uploads/2023/09/logo-entv-tV4.png" group-title="Algeria - الجزائر",Algerian: ALGERIE4
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE4" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" group-title="Algeria - الجزائر",Algerian: ALGERIE4
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/7266.ts
 #EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE5" tvg-logo="https://www.entv.dz/wp-content/uploads/2023/09/logo-entv-tV5.png" group-title="Algeria - الجزائر",Algerian: ALGERIE5
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/7265.ts
-#EXTINF:-1 tvg-id="" tvg-name="algerian: shababia 6" tvg-logo="https://www.entv.dz/wp-content/uploads/2024/09/logo-chababiya6.png" group-title="Algeria - الجزائر",algerian: shababia 6
+#EXTINF:-1 tvg-id="" tvg-name="algerian: shababia 6" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV6.png" group-title="Algeria - الجزائر",algerian: shababia 6
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1012.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: Algerie 7 Elmaarifa" tvg-logo="https://www.entv.dz/wp-content/uploads/2023/09/logo-entv-tV7.png" group-title="Algeria - الجزائر",Algerian: Algerie 7 Elmaarifa
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: Algerie 7 Elmaarifa" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV7.png" group-title="Algeria - الجزائر",Algerian: Algerie 7 Elmaarifa
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1088872.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:Algerie 8 Edhakira" tvg-logo="https://www.entv.dz/wp-content/uploads/2023/09/logo-entv-tV8.png" group-title="Algeria - الجزائر",Algerian:Algerie 8 Edhakira
+#EXTINF:-1 tvg-id="" tvg-name="Algerian:Algerie 8 Edhakira" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV8.png" group-title="Algeria - الجزائر",Algerian:Algerie 8 Edhakira
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1088871.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: Echorouk NEWS" tvg-logo="https://th.bing.com/th/id/OIP.X972NkKN622TMcGLnmSa3wAAAA?w=239&h=180&c=7&r=0&o=5&pid=1.7" group-title="Algeria - الجزائر",Algerian: Echorouk NEWS
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: Echorouk NEWS" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" group-title="Algeria - الجزائر",Algerian: Echorouk NEWS
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1035.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ECHOUROUK" tvg-logo="https://1.bp.blogspot.com/-OfJ-s352P7o/WSNsulMOBtI/AAAAAAAAGRE/cNQxoDTpD5ImiCnetYjJxLYcAHUGUQk0QCLcB/s1600/echorouk_tv.png" group-title="Algeria - الجزائر",Algerian:ECHOUROUK
+#EXTINF:-1 tvg-id="" tvg-name="Algerian:ECHOUROUK" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png" group-title="Algeria - الجزائر",Algerian:ECHOUROUK
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1038.ts
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:ElBahdja" tvg-logo="https://www.radio.fr/300/elbahdja.png?version=21eb35692e46a10c88623994c1a87220" group-title="Algeria - الجزائر",Algerian:ElBahdja
 https://webradio.tda.dz/ElBahdja_64K.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ENNAHAR TV" tvg-logo="https://www.bing.com/th?id=OSK.42bacca3796ba7817207bdfc892d51e3&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS" group-title="Algeria - الجزائر",Algerian: ENNAHAR TV
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: ENNAHAR TV" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" group-title="Algeria - الجزائر",Algerian: ENNAHAR TV
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1026.ts
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:Bahia Tv" tvg-logo="https://th.bing.com/th/id/OIP.RiG47fdRE9nJA4Z2-RSFEwAAAA?rs=1&pid=ImgDetMain" group-title="Algeria - الجزائر",Algerian:Bahia Tv
 http://cms-ar.accesss.me:25461/live/LZ6eEyEvKu/117880709815/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:SAMIRA TV" tvg-logo="https://th.bing.com/th/id/OIP.WZueeVZzo4neDtH-gOFQzQAAAA?w=300&h=165&rs=1&pid=ImgDetMain" group-title="Algeria - الجزائر",Algerian:SAMIRA TV
+#EXTINF:-1 tvg-id="" tvg-name="Algerian:SAMIRA TV" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png" group-title="Algeria - الجزائر",Algerian:SAMIRA TV
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1031.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:Fajr" tvg-logo="https://th.bing.com/th/id/R.3dac80d1f1904f18861c31118be35649?rik=VdNnKf3mqxrp7g&pid=ImgRaw&r=0" group-title="Algeria - الجزائر",Algerian:Fajr
+#EXTINF:-1 tvg-id="" tvg-name="Algerian:Fajr" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElFadjerTV.png" group-title="Algeria - الجزائر",Algerian:Fajr
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/49566.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ALHADEF" tvg-logo="https://seeklogo.com/images/E/el-haddaf-tv-logo-C1F0FB0DC0-seeklogo.com.png" group-title="Algeria - الجزائر",Algerian:ALHADEF
+#EXTINF:-1 tvg-id="" tvg-name="Algerian:ALHADEF" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png" group-title="Algeria - الجزائر",Algerian:ALHADEF
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1030.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: bilad " tvg-logo="https://th.bing.com/th/id/R.1d1c42aaeec6d27302b492fe385ff7e7?rik=EjeVR2VluR94mA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-_z98QdSqqEE%2fVjEMntO0zDI%2fAAAAAAAAABw%2fhrWxIOP1gKg%2fs1600%2fel-bilad-tv.jpg&ehk=VmO5wyXCyj9RlhVLj%2fpPTO2bhDzNsh1Xw%2fByYEaQmPg%3d&risl=&pid=ImgRaw&r=0" El bilad 
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: bilad " tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" El bilad 
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1029.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: El hayat " tvg-logo="https://th.bing.com/th/id/OIP.ElE3-NVoFz8G8YhM0T7TswAAAA?w=132&h=99&c=7&r=0&o=5&pid=1.7" El hayat
+#EXTINF:-1 tvg-id="" tvg-name="Algerian: El hayat " tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/hayattv.png" El hayat
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1088873.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
