@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 1
 #EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/WEB/BEIN/bs2.php?api_key=alwazir2025&id=2 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 2
+https://high-kora.com/TOD/WEB/BEIN/bs1.php?api_key=alwazir2025&id=2 
+EXTINF:-1
+tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.pn", TOD 2
 #EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/WEB/BEIN/bs2.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 3
