@@ -33,8 +33,10 @@ https://high-kora.com/TOD/WEB/BEIN/bx1.php?api_key=alwazir2025&id=2
 #EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/WEB/BEIN/bx2.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD x3
-#EXTVLCOPT:http-player-type=browser 
-https://riyad08051976.blogspot.com/2025/01/tod7.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", bein4k1
 #EXTVLCOPT:http-player-type=webplayer
-https://riyad08051976.blogspot.com/2025/01/tod7.html
+https://high-kora.com/TOD/WEB/BEIN/bx3.php?api_key=alwazir2025&id=2
+#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/arena-sport-1p.png" group-title="MPD SPORT",Arena Sport Premier league
+#EXTVLCOPT:http-referrer=https://www.tod.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-22)/manifest.mpd?hdnts=st=1738978661~exp=1738993061~acl=/Content/*~id=cd151121-2df1-46f2-bc6a-8fd4d842bfeb~data=6b2f8ba3-7010-42f7-b956-4ee11c874335~hmac=a65561dd410ae661ca371bf27dba726aa972dcc6e0dade915cbd8b2dec0be581&hdcore=2.11.3
