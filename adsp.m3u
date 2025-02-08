@@ -29,8 +29,8 @@ https://fastly-live.cdn.intigral-ott.net/BST/BST.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
 https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
-#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png", AD SPORTS PREMIUM 1
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/975106.ts
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png", AD SPORTS PREMIUM 2
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/975101.ts
