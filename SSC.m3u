@@ -34,3 +34,21 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",SSC News
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/626560.ts
+#EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/340106.ts
+#EXTINF:-1 tvg-id="SSC 2 4K" tvg-logo="https://iili.io/JhkQMTF.png" group-title="ARABIC SPORTS",SSC 2
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/340254.ts
+#EXTINF:-1 tvg-id="SSC 3 4K" tvg-logo="https://iili.io/JhkQVhg.png" group-title="ARABIC SPORTS",SSC 3
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1139621.ts
+#EXTINF:-1 tvg-id="SSC 4 4K" tvg-logo="https://iili.io/JhkQWQa.png" group-title="ARABIC SPORTS",SSC 4
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/255705.ts
+#EXTINF:-1 tvg-id="SSC 5 4K" tvg-logo="https://iili.io/JhkLw57.png" group-title="ARABIC SPORTS",SSC 5
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/255706.ts
+#EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://iili.io/JhkLjJS.png" group-title="ARABIC SPORTS",SSC Extra 1
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/340124.ts
+#EXTINF:-1 tvg-id="SSC Extra 2 HD" tvg-logo="https://iili.io/JhkLXg2.png" group-title="ARABIC SPORTS",SSC Extra 2
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/255708.ts
+#EXTINF:-1 tvg-id="SSC Extra 3 HD" tvg-logo="https://iili.io/JhkLW0l.png" group-title="ARABIC SPORTS",SSC Extra 3
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/311007.ts
