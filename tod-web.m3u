@@ -36,6 +36,4 @@ https://high-kora.com/TOD/WEB/BEIN/bx2.php?api_key=alwazir2025&id=2
 #EXTVLCOPT:http-player-type=webplayer
 https://high-kora.com/TOD/WEB/BEIN/bx3.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/arena-sport-1p.png" group-title="MPD SPORT",Arena Sport Premier league
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-01)/hdntl=exp=1739004109~acl=%2fContent%2f*~id=cd151121-2df1-46f2-bc6a-8fd4d842bfeb~data=hdntl,76c7aec7-77f4-4710-b30b-1bb2f1ac9c3a~hmac=6ab1b1df8466470ea8fb0f0b844d9bcaea389873304d9eac9ecd0c4a296fc987/manifest.mpd
+#EXTVLCOPT:http-player-type=webplayer
