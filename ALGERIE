@@ -41,4 +41,5 @@ http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1088873.ts
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/-AeX6siyLnwhQX6s2v9i-XmAOexh7GRj3IqPIed6kH3udpsM2kKdzSQmQnuKRAGfLCiJZ4hYzZg=s160-c-k-c0x00ffffff-no-rj" , المغاربية
+#EXTVLCOPT:http-player-type=webplayer
 https://www.youtube.com/embed/live_stream?channel=UCwKS2U-DwjPZZvM6mSXPKgA&autoplay=1
