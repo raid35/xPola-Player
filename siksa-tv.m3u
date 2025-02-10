@@ -69,10 +69,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/SSC.m3u
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/france.m3u
 
-#EXTINF:-1 group-title="  دازن" tvg-logo="https://iili.io/d06YU1p.png",  دازن
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/DAZAN.m3u
-
 #EXTINF:-1 group-title="  هولندا" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPlvVaTrAjiKCAB-vRchS1WtsPHvtkcb_zA&s",  هولندا
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Ziggo.m3u
