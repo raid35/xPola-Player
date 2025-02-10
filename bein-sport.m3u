@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/SSC.m3u
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/france.m3u
 
-#EXTINF:-1 group-title="  دازن" tvg-logo="https://th.bing.com/th?id=OSK.71ec6e50c09b28d4a6ef80ad01877fb0&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=2&pid=SANGAM",  تونس
+#EXTINF:-1 group-title="  تونس" tvg-logo="https://th.bing.com/th?id=OSK.71ec6e50c09b28d4a6ef80ad01877fb0&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=2&pid=SANGAM",  تونس
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/DAZAN.m3u
 
