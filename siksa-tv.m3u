@@ -21,15 +21,15 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
 
-#EXTINF:-1 group-title="4K" tvg-logo="https://th.bing.com/th/id/OIP.xQjj3ufnWkg1W-NkqOjioQHaHa?w=156&h=180&c=7&r=0&o=5&pid=1.7webp", 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://storage.googleapis.com/a1aa/image/ISUWPNn5CYdPj6VtXxfg9hjSyOhlXhHf3KTpsAExBXk.jpg", 4K
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3u
 
-#EXTINF:-1 group-title="  ultra" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" ultra
+#EXTINF:-1 group-title="  ultra" tvg-logo="https://storage.googleapis.com/a1aa/image/QFVR1YVQgGSo7I_TP7K5Nuiidhs9EPTiTYqqk1_TY04.jpg" ultra
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/POLISH.m3u
 
-#EXTINF:-1 group-title="IPTVsat" tvg-logo="https://i.pinimg.com/originals/ee/d6/ac/eed6ac14d3a0c6ccbc438948369ecf20.png",  IPTVsat
+#EXTINF:-1 group-title="IPTVsat" tvg-logo="https://storage.googleapis.com/a1aa/image/XzyDzik3RANuKHcaDvfB5e7zjiL_TP4Mp7bl4vC61Bk.jpg",  IPTVsat
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinhd.m3u
 
