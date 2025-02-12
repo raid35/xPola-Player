@@ -21,19 +21,19 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/TOD.m3u
 
-#EXTINF:-1 group-title="4K" tvg-logo="https://storage.googleapis.com/a1aa/image/ISUWPNn5CYdPj6VtXxfg9hjSyOhlXhHf3KTpsAExBXk.jpg", 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://storage.googleapis.com/a1aa/image/ISUWPNn5CYdPj6VtXxfg9hjSyOhlXhHf3KTpsAExBXk.jpg",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ferever.m3u
 
-#EXTINF:-1 group-title="  ultra" tvg-logo="https://storage.googleapis.com/a1aa/image/QFVR1YVQgGSo7I_TP7K5Nuiidhs9EPTiTYqqk1_TY04.jpg" ultra
+#EXTINF:-1 group-title="  ultra" tvg-logo="https://storage.googleapis.com/a1aa/image/QFVR1YVQgGSo7I_TP7K5Nuiidhs9EPTiTYqqk1_TY04.jpg"
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/POLISH.m3u
 
-#EXTINF:-1 group-title="IPTVsat" tvg-logo="https://storage.googleapis.com/a1aa/image/XzyDzik3RANuKHcaDvfB5e7zjiL_TP4Mp7bl4vC61Bk.jpg",  IPTVsat
+#EXTINF:-1 group-title="IPTVsat" tvg-logo="https://storage.googleapis.com/a1aa/image/XzyDzik3RANuKHcaDvfB5e7zjiL_TP4Mp7bl4vC61Bk.jpg",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinhd.m3u
 
-#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://th.bing.com/th?id=OIP.PhGt1_WfqlY_EWlL8fFQzwHaHa&w=112&h=104&c=7&bgcl=41bd25&r=0&o=6&pid=13.1",  بين  سبور
+#EXTINF:-1 group-title="  بين  سبور" tvg-logo="https://storage.googleapis.com/a1aa/image/lBb9USiK2ZVPOiPF0mO82U-lwjdRbbaDbKqJqhCvda0.jpg",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
 
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3u 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1", بين
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
 
