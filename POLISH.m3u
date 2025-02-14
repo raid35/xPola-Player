@@ -26,4 +26,21 @@ http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986967.ts
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986968.ts
 #EXTINF:-1 tvg-ID="ultra" tvg-name="ultra" tvg-logo="https://th.bing.com/th/id/OIP.0d0Amq4mUcSO9XZi6mcLjAAAAA?rs=1&pid=ImgDetMain" group-title="ultra",x3
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551262.ts
-
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   1 
+http://45.139.122.148:8000/play/a004
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   2 
+http://45.139.122.148:8000/play/a005
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   3 
+http://45.139.122.148:8000/play/a006
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   4 
+http://45.139.122.148:8000/play/a007
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   5 
+http://45.139.122.148:8000/play/a008
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   6 
+http://45.139.122.148:8000/play/a009
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   7 
+http://45.139.122.148:8000/play/a00a
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   8 
+http://45.139.122.148:8000/play/a00b
+#EXTINF:-1 group-title="BEIN SPORTS🇶🇦 FHD" tvg-logo="https://storage.googleapis.com/a1aa/image/TgsAYs0tQROylH6N-gjCXdagVwbxPPPFe3sGH3SVNeI.jpg",   9 
+http://45.139.122.148:8000/play/a00c
