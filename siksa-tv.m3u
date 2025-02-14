@@ -45,15 +45,15 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
 
-#EXTINF:-1 group-title="بين" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="بين " بين
+#EXTINF:-1 group-title="بين" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/Sky-sp.m3u
 
-#EXTINF:-1 group-title="  تونس" tvg-logo="https://th.bing.com/th?id=OSK.71ec6e50c09b28d4a6ef80ad01877fb0&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=2&pid=SANGAM",  تونس
+#EXTINF:-1 group-title="  تونس" tvg-logo="https://th.bing.com/th?id=OSK.71ec6e50c09b28d4a6ef80ad01877fb0&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=2&pid=SANGAM",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/DAZAN.m3u
 
-#EXTINF:-1 group-title="تلفزيون الفجر" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png", تلفزيون الفجر
+#EXTINF:-1 group-title="تلفزيون الفجر" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png",
 #EXTVLCOPT:http-player-type=m3u
 http://platform.topuphost.com:8558/tv.m3u
 
