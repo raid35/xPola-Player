@@ -7,7 +7,7 @@ tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.pn", TOD 2
 https://riyad08051976.blogspot.com/2025/01/tod2.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 3
 #EXTVLCOPT:http-player-type=browser
-https://dagav.com/shaka/player/?id=https%3A%2F%2Flive-d-01-todtv-da.akamaized.net%2FContent%2FDASH_DASH%2FLive%2Fchannel%28ent-hd-05%29%2Fhdntl%3Dexp%3D1739525522%7Eacl%3D%252fContent%252f%2A%7Eid%3Dcd151121-2df1-46f2-bc6a-8fd4d842bfeb%7Edata%3Dhdntl%2Cb4222996-9cc1-43e4-b896-5c4e2ac4b9d6%7Ehmac%3Da98329dcbc2700f56ca6653427489d14d6677204ea06d327da50ad1fb643e234%2Fmanifest.mpd&key=GM3ETO0MGZkRzYxMzMhZjNykjM4UGN5ImNzMmZxQTZ6UjN2cTZkZWMkRDMiBmZlJjM2YDMzAWZhZjZlB2MhFDM=I
+https://dagav.com/shaka/player/?id=https%3A%2F%2Flive-d-01-todtv-da.akamaized.net%2FContent%2FDASH_DASH%2FLive%2Fchannel%28ent-hd-05%29%2Fmanifest.mpd%3Fhdnts%3Dst%3D1739496711%7Eexp%3D1739511111%7Eacl%3D%2FContent%2F%2A%7Eid%3Dcd151121-2df1-46f2-bc6a-8fd4d842bfeb%7Edata%3Db4222996-9cc1-43e4-b896-5c4e2ac4b9d6%7Ehmac%3D3fb8e2ed4d772e395513cfba6167e0a585dd9a8b168247c1bd896b388e1ded81%26hdcore%3D2.11.3&key=GM3ETO0MGZkRzYxMzMhZjNykjM4UGN5ImNzMmZxQTZ6UjN2cTZkZWMkRDMiBmZlJjM2YDMzAWZhZjZlB2MhFDM=I
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 4
 #EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/01/tod4.html
@@ -37,4 +37,4 @@ https://high-kora.com/TOD/WEB/BEIN/bx2.php?api_key=alwazir2025&id=2
 https://high-kora.com/TOD/WEB/BEIN/bx3.php?api_key=alwazir2025&id=2
 #EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/arena-sport-1p.png" group-title="MPD SPORT",Arena Sport Premier league
 #EXTVLCOPT:http-player-type=webplayer
-https://dagav.com/shaka/player/?id=https%3A%2F%2Flive-d-01-todtv-da.akamaized.net%2FContent%2FDASH_DASH%2FLive%2Fchannel%28ent-hd-05%29%2Fhdntl%3Dexp%3D1739525522%7Eacl%3D%252fContent%252f%2A%7Eid%3Dcd151121-2df1-46f2-bc6a-8fd4d842bfeb%7Edata%3Dhdntl%2Cb4222996-9cc1-43e4-b896-5c4e2ac4b9d6%7Ehmac%3Da98329dcbc2700f56ca6653427489d14d6677204ea06d327da50ad1fb643e234%2Fmanifest.mpd&key=GM3ETO0MGZkRzYxMzMhZjNykjM4UGN5ImNzMmZxQTZ6UjN2cTZkZWMkRDMiBmZlJjM2YDMzAWZhZjZlB2MhFDM=I
+https://dagav.com/shaka/player/?id=https%3A%2F%2Flive-d-01-todtv-da.akamaized.net%2FContent%2FDASH_DASH%2FLive%2Fchannel%28ent-hd-05%29%2Fmanifest.mpd%3Fhdnts%3Dst%3D1739496711%7Eexp%3D1739511111%7Eacl%3D%2FContent%2F%2A%7Eid%3Dcd151121-2df1-46f2-bc6a-8fd4d842bfeb%7Edata%3Db4222996-9cc1-43e4-b896-5c4e2ac4b9d6%7Ehmac%3D3fb8e2ed4d772e395513cfba6167e0a585dd9a8b168247c1bd896b388e1ded81%26hdcore%3D2.11.3&key=GM3ETO0MGZkRzYxMzMhZjNykjM4UGN5ImNzMmZxQTZ6UjN2cTZkZWMkRDMiBmZlJjM2YDMzAWZhZjZlB2MhFDM=I
