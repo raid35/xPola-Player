@@ -1,19 +1,11 @@
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein1.png" group-title="Sports",BEIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium116/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/56580.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png" group-title="Sports",BEIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium117/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/56654.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein3.png" group-title="Sports",BEIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium118/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/56653.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://i.ibb.co/txzTNNL/beinmax4.png" group-title="Sports",BEIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium494/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/62502.ts
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="SPORTS" , BEIN SPORTS MAX 5 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
@@ -39,37 +31,21 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="Sports",FOOT +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium463/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/311116.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="Sports",360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium464/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/311207.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="Sports",CANAL+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium121/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/194767.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canal-plus-sport-africa.png" group-title="Sports",canal-+-SP-1-africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium486/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/194767.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canal-plus-sport-2-africa.png" group-title="Sports",canal-+-SP-2-africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium487/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/194766.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canal-plus-sport-3-africa.png" group-title="Sports",canal-+-SP-3-africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium488/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/194765.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canal-plus-sport-4-africa.png" group-title="Sports",canal-+-SP-4-africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium489/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/194764.ts
 #EXTINF:-1 tvg-id="SPORT FR" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canal-plus-sport-afrique.png" group-title="Sports",canal-+-SP-5-africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium490/index.m3u8
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/194763.ts
 #EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="La Chaîne L'Équipe 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://www.acces.tv/wp-content/uploads/2022/10/la-chaine-LEquipe-fond-blanc-e1665654560760.png" group-title="Vip Sports",La Chaîne L'Équipe 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
 #EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="" tvg-id="" tvg-logo="https://medias.lequipe.fr/img-photo-jpg/-/1500000001976942/0:0,424:282-1200-800-75/71474.jpg" group-title="Vip Sports",L'Équipe Live Foot 🇫🇷
