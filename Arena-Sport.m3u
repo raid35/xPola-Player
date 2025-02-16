@@ -1,55 +1,43 @@
-#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/arena-sport-1p.png" group-title="MPD SPORT",Arena Sport Premier league
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="Arena",Arena Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
-#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="Arena",Arena Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
-#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="Arena",Arena Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/sggNDR7/a1.png", ARENA SPORT 1 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/R4yyyng/a2.png", ARENA SPORT 2 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/18LnFNg/a3.png", ARENA SPORT 3 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/K99CqgQ/a4.png", ARENA SPORT 4 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/MfCshjJ/a5.png", ARENA SPORT 5 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HH4TJ8T/a6.png", ARENA SPORT 6 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/PMMCbMR/a1x2.png", ARENA SPORT 1x2 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/KF4phjz/arenaesport.png", ARENA ESPORT 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
-#EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/j500zg4/afight.png", ARENA FIGHT 🇧🇦
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-aY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+https://mdfu.webtvstream.bhtelecom.ba/hls6/as_premium1.mpd?n=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="2" tvg-name"Arena_Premium_2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png",Arena Premium 2
+https://mob.webtvstream.bhtelecom.ba/hls6/as_premium2.mpd?n=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="3" tvg-name"Arena_Premium_3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png",Arena Premium 3
+https://mob.webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="4" tvg-name"Arena_Sport_1" tvg-logo="https://www.tvarenasport.ba/files/img/icons/chanel-01-old2.png",Arena Sport 1
+https://mob.webtvstream.bhtelecom.ba/hls6/arena1.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="5" tvg-name"Arena_Sport_2" tvg-logo="https://www.tvarenasport.ba/files/img/icons/chanel-02-old2.png",Arena Sport 2
+https://mob.webtvstream.bhtelecom.ba/hls6/arena2.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="6" tvg-name"Arena_Sport_3" tvg-logo="https://www.tvarenasport.ba/files/img/icons/chanel-03-old2.png",Arena Sport 3
+https://mob.webtvstream.bhtelecom.ba/hls6/arena3.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="7" tvg-name"Arena_Sport_4" tvg-logo="https://www.tvarenasport.ba/files/img/icons/chanel-04-old2.png",Arena Sport 4
+https://mob.webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="8" tvg-name"Arena_Sport_5" tvg-logo="https://www.tvarenasport.ba/files/img/icons/chanel-05-old2.png",Arena Sport 5
+https://mob.webtvstream.bhtelecom.ba/hls6/arena5.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="9" tvg-name"Arena_Sport_6" tvg-logo="https://www.tvarenasport.ba/files/img/icons/chanel-06-old2.png",Arena Sport 6
+https://mob.webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
