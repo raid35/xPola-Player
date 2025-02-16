@@ -1,10 +1,20 @@
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%201*%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/9960382.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%201*%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/9960382.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%202%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456488.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%203%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456489.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%204%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456490.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%205%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-5.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456491.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%206%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456492.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%207%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456493.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%208%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456494.m3u8
-http://teledunet.com/?set_history_stream=1&stream_type=live&stream_name=BEIN%20SPORTS%209%20[%20TELEDUNET%20]&stream_icon=http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png&stream_url=http://teledunet.com:8080/live/tdn/tdn/456495.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png",
+http://teledunet.com:8080/live/tdn/tdn/9960382.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png",
+http://teledunet.com:8080/live/tdn/tdn/9960382.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png",
+http://teledunet.com:8080/live/tdn/tdn/456488.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png",
+http://teledunet.com:8080/live/tdn/tdn/456489.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png",
+http://teledunet.com:8080/live/tdn/tdn/456490.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-5.png",
+http://teledunet.com:8080/live/tdn/tdn/456491.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png",
+http://teledunet.com:8080/live/tdn/tdn/456492.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png",
+http://teledunet.com:8080/live/tdn/tdn/456493.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png",
+http://teledunet.com:8080/live/tdn/tdn/456494.m3u8
+#EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png",
+http://teledunet.com:8080/live/tdn/tdn/456495.m3u8
