@@ -1,14 +1,14 @@
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 1
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/01/tod1.html
+#EXTVLCOPT:http-player-type=webplayer
+https://hamada-tv.com/ch1.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 2
-#EXTVLCOPT:http-player-type=browser
+#EXTVLCOPT:http-player-type=webplayer
 https://hamada-tv.com/ch2.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 3
-#EXTVLCOPT:http-player-type=browser
+#EXTVLCOPT:http-player-type=webplayer
 https://hamada-tv.com/ch3.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 4
-#EXTVLCOPT:http-player-type=browser
+#EXTVLCOPT:http-player-type=webplayer
 https://hamada-tv.com/ch4.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 5
 #EXTVLCOPT:http-player-type=webplayer
@@ -17,7 +17,7 @@ https://hamada-tv.com/ch5.html
 #EXTVLCOPT:http-player-type=webplayer
 https://hamada-tv.com/ch6.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 7
-#EXTVLCOPT:http-player-type=browser 
+#EXTVLCOPT:http-player-type=webplayer
 https://hamada-tv.com/ch7.html
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 8
 #EXTVLCOPT:http-player-type=webplayer 
