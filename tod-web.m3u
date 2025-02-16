@@ -3,7 +3,7 @@
 https://hamada-tv.com/channels/1
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 2
 #EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch2.htm2
+https://hamada-tv.com/channels/2
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 3
 #EXTVLCOPT:http-player-type=webplayer
 https://hamada-tv.com/ch3.html
