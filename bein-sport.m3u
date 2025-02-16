@@ -10,9 +10,13 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/cinma-fr
 #EXTVLCOPT:http-player-type=m3u
 https://m3u.fr/freetv.m3u
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 
+#EXTINF:-1 group-title="bein" tvg-logo="https://storage.googleapis.com/a1aa/image/QFjjQMSaAfLJPfYC_aerwHXQj7iFAF0McrZ-iNgdC3k.jpg",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/misuc.m3u
+
+#EXTINF:-1 group-title="hamada" tvg-logo="https://storage.googleapis.com/a1aa/image/4qYC0Y7GvdkyDjGERtPAbV5R3Qs5D0otOjycN0Gr6Dk.jpg",
+#EXTVLCOPT:http-player-type=m3u
+https://riyad08051976.blogspot.com/2025/02/hamada.html
 
 #EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", tod-web
 #EXTVLCOPT:http-player-type=m3u
