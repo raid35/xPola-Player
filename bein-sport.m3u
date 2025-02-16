@@ -15,7 +15,7 @@ https://m3u.fr/freetv.m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/misuc.m3u
 
 #EXTINF:-1 group-title="hamada" tvg-logo="https://storage.googleapis.com/a1aa/image/4qYC0Y7GvdkyDjGERtPAbV5R3Qs5D0otOjycN0Gr6Dk.jpg",
-#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-player-type=browser
 https://riyad08051976.blogspot.com/2025/02/hamada.html
 
 #EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", tod-web
