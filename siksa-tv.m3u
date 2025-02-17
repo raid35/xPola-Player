@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/beinhd.m3u
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/bein-fhd.m3u
 
-#EXTINF:-1 group-title="siksa tv " tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2612984_ico.png?ts=1737508997", siksa tv
+#EXTINF:-1 group-title="siksa tv " tvg-logo="https://storage.googleapis.com/a1aa/image/2JgUkaW7Gpl79BGeN78auMJs3aTLuXG9PtOJTHdTB6A.jpg",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3u 
 
