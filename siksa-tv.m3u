@@ -18,10 +18,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/misuc.m3u
 
-#EXTINF:-1 group-title="hamada" tvg-logo="https://storage.googleapis.com/a1aa/image/4qYC0Y7GvdkyDjGERtPAbV5R3Qs5D0otOjycN0Gr6Dk.jpg",
-#EXTVLCOPT:http-player-type=browser
-https://riyad08051976.blogspot.com/2025/02/hamada.html
-
 #EXTINF:-1 group-title="الجزائر" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/101/436/original/algeria-flag-realistic-waving-fabric-flag-video.jpg", الجزائر
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/ALGERIE
@@ -53,9 +49,6 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/siksa24.m3
 #EXTINF:-1 tvg-logo="https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?fit=300%2C300&ssl=1",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/BEIN4K.m3u
-
-#EXTINF:-1 group-title=" حمادى" tvg-logo="https://storage.googleapis.com/a1aa/image/2JgUkaW7Gpl79BGeN78auMJs3aTLuXG9PtOJTHdTB6A.jpg",
-http://z.zazaa.online:25461/get.php?username=TOD154&password=ZAZATOD&type=m3u_plus&output=ts
 
 #EXTINF:-1 group-title="بين" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU",
 #EXTVLCOPT:http-player-type=m3u
