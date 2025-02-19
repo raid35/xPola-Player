@@ -18,3 +18,96 @@ http://teledunet.com:8080/live/tdn/tdn/456493.m3u8
 http://teledunet.com:8080/live/tdn/tdn/456494.m3u8
 #EXTINF:-1 group-title="bein" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png",
 http://teledunet.com:8080/live/tdn/tdn/456495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-1-HD.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 1
+http://teledunet.com:8080/tdn/tdn/9960384.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-2.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 2
+http://teledunet.com:8080/tdn/tdn/9960385.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" live="1" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-3-HD.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 3
+http://teledunet.com:8080/tdn/tdn/9960386.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS AR" live="1" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS NEWS AR
+http://teledunet.com:8080/tdn/tdn/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL AR" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS GLOBAL AR
+http://teledunet.com:8080/tdn/tdn/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS1.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 1 AR
+http://teledunet.com:8080/tdn/tdn/9959178.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS2.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 2 AR
+http://teledunet.com:8080/tdn/tdn/9959179.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 3 AR
+http://teledunet.com:8080/tdn/tdn/9959180.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS4.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 4 AR
+http://teledunet.com:8080/tdn/tdn/9959181.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS5.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 5 AR
+http://teledunet.com:8080/tdn/tdn/9959182.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS6.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 6 AR
+http://teledunet.com:8080/tdn/tdn/9959183.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS7.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 7 AR
+http://teledunet.com:8080/tdn/tdn/9959184.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 8 AR
+http://teledunet.com:8080/tdn/tdn/9959185.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 AR" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORTS FHD [VIP]",BEIN SPORTS 9 AR
+http://teledunet.com:8080/tdn/tdn/9959186.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FOOT" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="FRANCE SPORTS [VIP]",CANAL+ FOOT
+http://teledunet.com:8080/tdn/tdn/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORT
+http://teledunet.com:8080/tdn/tdn/371.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORTS 1" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORTS 1
+http://teledunet.com:8080/tdn/tdn/9959420.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORTS 2" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORTS 2
+http://teledunet.com:8080/tdn/tdn/4371.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORTS 3" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORTS 3
+http://teledunet.com:8080/tdn/tdn/4372.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORTS 4" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORTS 4
+http://teledunet.com:8080/tdn/tdn/9959418.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORTS 5" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORTS 5
+http://teledunet.com:8080/tdn/tdn/9959419.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FRANCE" live="1" tvg-logo="http://logo.protv.cc/piconsnew/dazn1.png" group-title="FRANCE SPORTS [VIP]",DAZN 1 FRANCE
+http://teledunet.com:8080/tdn/tdn/9959367.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIGUE 1" live="1" tvg-logo="https://www.sportsmarketing.fr/wp-content/uploads/2021/02/canal-ligue-1.jpg" group-title="FRANCE SPORTS [VIP]",CANAL+ LIGUE 1
+http://teledunet.com:8080/tdn/tdn/9959361.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ PREMIER LEAGUE" live="1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png" group-title="FRANCE SPORTS [VIP]",CANAL+ PREMIER LEAGUE
+http://teledunet.com:8080/tdn/tdn/9959362.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORTS 360" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS [VIP]",CANAL+ SPORTS 360
+http://teledunet.com:8080/tdn/tdn/371111.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DAZN" live="1" tvg-logo="https://www.mediaspecs.fr/wp-content/uploads/2023/08/CANAL-x-DAZN.png" group-title="FRANCE SPORTS [VIP]",CANAL+ DAZN
+http://teledunet.com:8080/tdn/tdn/9959360.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FR" live="1" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE SPORTS [VIP]",BEIN SPORTS 1 FR
+http://teledunet.com:8080/tdn/tdn/11117.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FR" live="1" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE SPORTS [VIP]",BEIN SPORTS 2 FR
+http://teledunet.com:8080/tdn/tdn/11118.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FR" live="1" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE SPORTS [VIP]",BEIN SPORTS 3 FR
+http://teledunet.com:8080/tdn/tdn/9911005.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 FR" live="1" tvg-logo="https://assets.beinsports.com/3.2.8/images/beIN_SPORTS_App_Icon.svg" group-title="FRANCE SPORTS [VIP]",BEIN SPORTS 4 FR
+http://teledunet.com:8080/tdn/tdn/51290.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 FR" live="1" tvg-logo="https://assets.beinsports.com/3.2.8/images/beIN_SPORTS_App_Icon.svg" group-title="FRANCE SPORTS [VIP]",BEIN SPORTS 5 FR
+http://teledunet.com:8080/tdn/tdn/51292.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 1" live="1" tvg-logo="https://play-lh.googleusercontent.com/Mm1_8Jsl878Dnb05CjUeOtGaWQ8r5uDkjHMMiLBNGjCfQHT7mmlaaTaGNqoeNB6TWTU" group-title="FRANCE SPORTS [VIP]",DAZN SPORTS 1
+http://teledunet.com:8080/tdn/tdn/9959142.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 2" live="1" tvg-logo="https://play-lh.googleusercontent.com/Mm1_8Jsl878Dnb05CjUeOtGaWQ8r5uDkjHMMiLBNGjCfQHT7mmlaaTaGNqoeNB6TWTU" group-title="FRANCE SPORTS [VIP]",DAZN SPORTS 2
+http://teledunet.com:8080/tdn/tdn/9959100.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 3" live="1" tvg-logo="https://play-lh.googleusercontent.com/Mm1_8Jsl878Dnb05CjUeOtGaWQ8r5uDkjHMMiLBNGjCfQHT7mmlaaTaGNqoeNB6TWTU" group-title="FRANCE SPORTS [VIP]",DAZN SPORTS 3
+http://teledunet.com:8080/tdn/tdn/9959102.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 1" live="1" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="FRANCE SPORTS [VIP]",RMC SPORTS 1
+http://teledunet.com:8080/tdn/tdn/396.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 2" live="1" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="FRANCE SPORTS [VIP]",RMC SPORTS 2
+http://teledunet.com:8080/tdn/tdn/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 1
+http://teledunet.com:8080/tdn/tdn/9959399.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 2
+http://teledunet.com:8080/tdn/tdn/9959400.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 3" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 3
+http://teledunet.com:8080/tdn/tdn/9959401.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 4" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 4
+http://teledunet.com:8080/tdn/tdn/9959402.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 5" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 5
+http://teledunet.com:8080/tdn/tdn/9959403.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 6" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 6
+http://teledunet.com:8080/tdn/tdn/9959404.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 7
+http://teledunet.com:8080/tdn/tdn/9959405.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 8
+http://teledunet.com:8080/tdn/tdn/9959406.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 9" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 9
+http://teledunet.com:8080/tdn/tdn/9959407.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ LIVE 10" live="1" tvg-logo="http://logo.protv.cc/picons/logos/logos/Canal-Plus.png" group-title="FRANCE SPORTS [VIP]",CANAL+ LIVE 10
+http://teledunet.com:8080/tdn/tdn/9959408.ts
+
