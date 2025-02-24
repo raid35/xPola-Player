@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/cinma-fr
 #EXTVLCOPT:http-player-type=m3u
 https://m3u.fr/freetv.m3u
 
-#EXTINF:-1 group-title="TOD" tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", tod-web
+#EXTINF:-1 group-title="TOD" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png",
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/raid35/xPola-Player/refs/heads/main/tod-web.m3u
 
