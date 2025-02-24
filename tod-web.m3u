@@ -1,38 +1,60 @@
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 1
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/channels/1
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 2
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/channels/2
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 3
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch3.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 4
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch4.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 5
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch5.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 6
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch6.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 7
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch7.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 8
-#EXTVLCOPT:http-player-type=webplayer 
-https://hamada-tv.com/ch8.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD 9
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch9.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD x1
-#EXTVLCOPT:http-player-type=webplayer
-https://hamada-tv.com/ch10.html
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD x2
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/WEB/BEIN/bx2.php?api_key=alwazir2025&id=2
-#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/images/tod-icon-192.png", TOD x3
-#EXTVLCOPT:http-player-type=webplayer
-https://forlessmake.store/cobo.html?id=ZIGGO_SPORT
-#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/arena-sport-1p.png" group-title="MPD SPORT",Arena Sport Premier league
-https://riyad08051976.blogspot.com/2025/01/tod1.html
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="" group-title="Alwan Network",Alwan Sport 1 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/829083
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="" group-title="Alwan Network",Alwan Sport 2 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/829084
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="" group-title="Alwan Network",Alwan Sport 3 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/829085
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="" group-title="Alwan Network",Alwan Sport 4 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/829086
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="" group-title="Alwan Network",Alwan Sport 5 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/829087
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="" group-title="Alwan Network",Alwan Sport 6 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/829088
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="BeIN Sports 1 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 1 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66112
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="BeIN Sports 2 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 2 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66111
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="BeIN Sports 3 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 3 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66104
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports 4 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 4 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66105
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BeIN Sports 5 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 5 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66106
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BeIN Sports 6 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 6 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66107
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BeIN Sports 7 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 7 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66108
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BeIN Sports 8 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 8 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66109
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports 9 4K" tvg-logo="#" group-title="Bein Sports 4K",BeIN Sports 9 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/66110
+#EXTINF:-1 tvg-id="" tvg-name="IQ| Al Rabiaa Sport 1" tvg-logo="" group-title="Al Rabiaa Network",IQ| Al Rabiaa Sport 1
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/816191
+#EXTINF:-1 tvg-id="" tvg-name="IQ| Al Rabiaa Sport +1" tvg-logo="" group-title="Al Rabiaa Network",IQ| Al Rabiaa Sport +1
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/816193
+#EXTINF:-1 tvg-id="" tvg-name="IQ| Al Rabiaa Sport 2" tvg-logo="" group-title="Al Rabiaa Network",IQ| Al Rabiaa Sport 2
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/816192
+#EXTINF:-1 tvg-id="" tvg-name="IQ| Al Rabiaa Sport +2" tvg-logo="" group-title="Al Rabiaa Network",IQ| Al Rabiaa Sport +2
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/816194
+#EXTINF:-1 tvg-id="" tvg-name="Local: Kurdistan Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: Kurdistan Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/74767
+#EXTINF:-1 tvg-id="" tvg-name="Local: AVA Sport 4K" tvg-logo="" group-title="Kurdish Sports HD | 4K",Local: AVA Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/752032
+#EXTINF:-1 tvg-id="" tvg-name="Local: ASO Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: ASO Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/108471
+#EXTINF:-1 tvg-id="" tvg-name="Local: Reng Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: Reng Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/108463
+#EXTINF:-1 tvg-id="" tvg-name="Local: NRT Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: NRT Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/207166
+#EXTINF:-1 tvg-id="" tvg-name="Local: 4sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: 4sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/108459
+#EXTINF:-1 tvg-id="" tvg-name="Local: Duhok Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: Duhok Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/321358
+#EXTINF:-1 tvg-id="" tvg-name="Local: Sima Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: Sima Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/321395
+#EXTINF:-1 tvg-id="" tvg-name="Local: Dasinya Sport 4K" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: Dasinya Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/321354
+#EXTINF:-1 tvg-id="" tvg-name="Local: MTV Sport 4K" tvg-logo="" group-title="Kurdish Sports HD | 4K",Local: MTV Sport 4K
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/717388
+#EXTINF:-1 tvg-id="" tvg-name="Local: MMN Sport HD" tvg-logo="#" group-title="Kurdish Sports HD | 4K",Local: MMN Sport HD
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/33300
