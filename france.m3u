@@ -103,7 +103,7 @@ https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 group-title="rts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/150px-RTS_2_Logo_2023.svg.png", rts2
 https://cachehsi1a.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/150px-Rai_1_-_Logo_2016.svg.png", rai1
-https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://fremtv.lol/auth/102.m3u8?token=ltnxiM6ODiijn8THrHWe1btsUuDn2Fk1nTn20h4lFPqiM0zBS9cMXARA--9AM9rDebMnkRaImeYIjLSgGz8bt-49NWcshqa2Iba02hOtQbD_Zn0XKlwY7d3Jw6ru0BmeWdIQNzrw2R7o71i7wAWbRdSoK_pjFB5LcROi4UWzZGdMcmQ8bpWj85BshdbtGC4woHH9AX2-ZHkTQKJuQWCmQrLuH9N7TJDV5O8UMp3MIhPIgeU767Lyjoq3jwcf3dM9GnWs53wS7aXXnuJiRU2s1fudrfB8SEDAD9QsRS-DJzUCvzCdrewaZRG79s-Alo9RgdCv1ihXBx4Ky13b0kLG8hNw3qnFseVcPrvbmISRi1MPAriKuaFeFSvn65gwR8HmbuOP6D86scdVdalWKj68Jbqoc5PKQaJHehcrrJ7sP3F0JJHGkF7iD9NtybZ8Tfjk_TsbH77XJgEcTqZxu9tnqIjOUPEJoQGA9GYqMDCvjK0fHSllbRuiSgE1N3Lj1Myp9TR5Vl_OfLZIjBW2YOYwF3weZXUNu55Lqi6389Zf1rBCGOyFNij5GcbLdtbxs7pjvpHPUWLG2_wYInCHUDd6ygDqxSn-I65ysffxopxEEoo
 #EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/150px-Rai_2_-_Logo_2016.svg.png", rai2
 https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 group-title="rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/150px-Rai_3_-_Logo_2016.svg.png", rai3
